@@ -1,0 +1,4372 @@
+Year,PropertyType,ZipCode,TotalYearlyEnergyUsage
+2015,,,
+2015,Ambulatory Surgical Center,02115,13204950.4
+2015,Automobile Dealership,02132,4301102.3
+2015,Barracks,02108,6477934.0
+2015,College/University,02111,119919514.9
+2015,College/University,02115,1232985445.9000003
+2015,College/University,02116,11010362031.4
+2015,College/University,02163,24724626.400000002
+2015,College/University,02215,148301709.5
+2015,College/University,02446,5188602.5
+2015,College/University,02467,288415492.2
+2015,Courthouse,02109,82465197.4
+2015,Distribution Center,02109,10272237.6
+2015,Distribution Center,02118,16350178.899999999
+2015,Distribution Center,02119,1064077.1
+2015,Distribution Center,02126,
+2015,Distribution Center,02210,37403261.3
+2015,Distribution Center,02215,
+2015,Energy/Power Station,02111,617862.0
+2015,Energy/Power Station,02127,511293.7
+2015,Energy/Power Station,02215,26819999.3
+2015,Financial Office,02110,
+2015,Financial Office,02111,127286470.8
+2015,Financial Office,02116,109512645.1
+2015,Financial Office,02210,181745698.49999997
+2015,Fire Station,02109,2352868.1
+2015,Fire Station,02110,3899400.7
+2015,Fire Station,02111,934369.9
+2015,Fire Station,02115,6677353.6
+2015,Fire Station,02116,1392474.0
+2015,Fire Station,02118,10422429.4
+2015,Fire Station,02119,4505022.4
+2015,Fire Station,02121,1556898.9
+2015,Fire Station,02122,2841404.3
+2015,Fire Station,02124,4020971.2
+2015,Fire Station,02125,848985.0
+2015,Fire Station,02127,2938401.6
+2015,Fire Station,02128,4531435.9
+2015,Fire Station,02129,3663039.8
+2015,Fire Station,02131,1731674.1
+2015,Fire Station,02132,2463516.3
+2015,Fire Station,02134,1771254.5
+2015,Fire Station,02135,5338423.2
+2015,Fire Station,02136,364538.1
+2015,Fire Station,02169,1007478.5
+2015,Fire Station,02171,32840.5
+2015,Fire Station,02210,158869.5
+2015,Fitness Center/Health Club/Gym,02114,6280574.2
+2015,Fitness Center/Health Club/Gym,02115,6980595000.0
+2015,Fitness Center/Health Club/Gym,02128,3748296.4
+2015,Fitness Center/Health Club/Gym,02129,2951937.0
+2015,Fitness Center/Health Club/Gym,02134,2426171.4
+2015,Fitness Center/Health Club/Gym,02215,50006070.0
+2015,Hospital (General Medical & Surgical),02111,319111651.9
+2015,Hospital (General Medical & Surgical),02114,1120790869.9
+2015,Hospital (General Medical & Surgical),02115,852109724.8
+2015,Hospital (General Medical & Surgical),02118,470271413.8
+2015,Hospital (General Medical & Surgical),02120,120029466.6
+2015,Hospital (General Medical & Surgical),02124,104822909.3
+2015,Hospital (General Medical & Surgical),02131,76548275.1
+2015,Hospital (General Medical & Surgical),02132,7126116.1
+2015,Hospital (General Medical & Surgical),02135,146724291.9
+2015,Hospital (General Medical & Surgical),02215,806023760.7
+2015,Hospital (General Medical & Surgical),12109,
+2015,Hotel,02108,30359552.400000002
+2015,Hotel,02109,57701798.7
+2015,Hotel,02110,4032698077.2999997
+2015,Hotel,02111,54680293.1
+2015,Hotel,02114,76969107.2
+2015,Hotel,02115,37321796.5
+2015,Hotel,02116,382962491.2
+2015,Hotel,02122,10424852.5
+2015,Hotel,02125,15856178.0
+2015,Hotel,02129,6844188495.0
+2015,Hotel,02134,17381701.4
+2015,Hotel,02199,221113267.60000002
+2015,Hotel,02210,128039514.4
+2015,Hotel,02215,23278285.8
+2015,Ice/Curling Rink,02134,11242585.5
+2015,Indoor Arena,02114,86174932.7
+2015,Indoor Arena,02134,7888047.8000000007
+2015,Indoor Arena,02215,68029040.1
+2015,K-12 School,02111,15216886.799999999
+2015,K-12 School,02113,3470842.2
+2015,K-12 School,02115,24404411.1
+2015,K-12 School,02116,11714100.7
+2015,K-12 School,02118,17245947.0
+2015,K-12 School,02119,44935484.3
+2015,K-12 School,02120,100414774.19999999
+2015,K-12 School,02121,65555411.800000004
+2015,K-12 School,02122,55584318.399999991
+2015,K-12 School,02124,49619084.199999996
+2015,K-12 School,02125,27252295.2
+2015,K-12 School,02126,18972499.400000002
+2015,K-12 School,02127,50727411.499999993
+2015,K-12 School,02128,53976954.9
+2015,K-12 School,02129,33221039.5
+2015,K-12 School,02130,75764407.799999982
+2015,K-12 School,02131,19853367.599999998
+2015,K-12 School,02132,52919239.3
+2015,K-12 School,02134,25540215.4
+2015,K-12 School,02135,31280416.900000002
+2015,K-12 School,02136,33039551.000000004
+2015,K-12 School,02215,10625962.5
+2015,Laboratory,02026,9339181.4
+2015,Laboratory,02111,156646497.4
+2015,Laboratory,02114,40896824.2
+2015,Laboratory,02115,1286715572.6
+2015,Laboratory,02118,23476936.1
+2015,Laboratory,02129,21627773.4
+2015,Laboratory,02210,258085606.0
+2015,Laboratory,02215,368259085.0
+2015,Library,02113,778019.9
+2015,Library,02114,
+2015,Library,02115,35406613.6
+2015,Library,02116,68662143.0
+2015,Library,02118,709743.5
+2015,Library,02119,518858.0
+2015,Library,02120,1376843.9
+2015,Library,02121,1221432.4
+2015,Library,02122,1192569.2999999998
+2015,Library,02124,2585912.8
+2015,Library,02126,3792805.9
+2015,Library,02127,743284.5
+2015,Library,02128,773028.3
+2015,Library,02129,1342001.1
+2015,Library,02130,1183872.4
+2015,Library,02131,1081935.5
+2015,Library,02132,1366341.4
+2015,Library,02134,3232756.4000000004
+2015,Library,02135,2637174.4
+2015,Library,02163,13048247.3
+2015,Library,02215,23323947.3
+2015,Manufacturing/Industrial Plant,02118,58053983.800000004
+2015,Manufacturing/Industrial Plant,02122,26717265.1
+2015,Manufacturing/Industrial Plant,02125,12904860.3
+2015,Manufacturing/Industrial Plant,02126,94841051.1
+2015,Manufacturing/Industrial Plant,02127,1044563857.0
+2015,Manufacturing/Industrial Plant,02129,17589903.4
+2015,Manufacturing/Industrial Plant,02135,5415698.4
+2015,Medical Office,02111,14630532.3
+2015,Medical Office,02114,121563765.3
+2015,Medical Office,02115,9241279.0
+2015,Medical Office,02118,
+2015,Medical Office,02129,242065893.5
+2015,Medical Office,02135,2715572.7
+2015,Medical Office,02215,182123538.9
+2015,Mixed Use Property,02109,45211787.2
+2015,Mixed Use Property,02111,143001613.8
+2015,Mixed Use Property,02115,346031.4
+2015,Mixed Use Property,02116,139611845.29999998
+2015,Mixed Use Property,02120,28201003.8
+2015,Mixed Use Property,02130,8918255.1
+2015,Mixed Use Property,02163,17612827.1
+2015,Mixed Use Property,02210,63590237.0
+2015,Mixed Use Property,02215,45199526.4
+2015,Movie Theater,02111,10906867.5
+2015,Multifamily Housing,,1166923990.4580002
+2015,Multifamily Housing,01234,11906476.6
+2015,Multifamily Housing,02021,18183103.5
+2015,Multifamily Housing,02108,44800577.2
+2015,Multifamily Housing,02109,52209683.0
+2015,Multifamily Housing,02110,124771054.5
+2015,Multifamily Housing,02111,1036951164.1999999
+2015,Multifamily Housing,02113,9766774.0
+2015,Multifamily Housing,02114,274491780.7
+2015,Multifamily Housing,02115,277491962.09999996
+2015,Multifamily Housing,02116,275259617.59999996
+2015,Multifamily Housing,02118,158937507.99999997
+2015,Multifamily Housing,02119,120269925.0
+2015,Multifamily Housing,02120,136800963.9
+2015,Multifamily Housing,02121,147838510.89999998
+2015,Multifamily Housing,02122,3212226.1
+2015,Multifamily Housing,02124,50189846.400000006
+2015,Multifamily Housing,02125,54902768.0
+2015,Multifamily Housing,02126,28113481.1
+2015,Multifamily Housing,02127,70903758.2
+2015,Multifamily Housing,02128,56232907.4
+2015,Multifamily Housing,02129,146622911.9
+2015,Multifamily Housing,02130,114904993.4
+2015,Multifamily Housing,02131,70061069.0
+2015,Multifamily Housing,02132,37345812.099999994
+2015,Multifamily Housing,02134,86276942.4
+2015,Multifamily Housing,02135,190953917.79999998
+2015,Multifamily Housing,02136,58619389.099999994
+2015,Multifamily Housing,02139,5664865.8
+2015,Multifamily Housing,02176,7152414.7
+2015,Multifamily Housing,02199,154136583.7
+2015,Multifamily Housing,02210,91072139.9
+2015,Multifamily Housing,02215,209496676.0
+2015,Multifamily Housing,02446,11945.4
+2015,Multifamily Housing,02467,55273675.199999996
+2015,Multifamily Housing,02481,5597612.5
+2015,Multifamily Housing,21121,5329908.0
+2015,Museum,02114,54487598.4
+2015,Museum,02115,17586582.799999997
+2015,Museum,02215,19677062.3
+2015,Non-Refrigerated Warehouse,02118,1415908.1
+2015,Non-Refrigerated Warehouse,02125,80257.1
+2015,Non-Refrigerated Warehouse,02126,1088109.8
+2015,Non-Refrigerated Warehouse,02127,5482552.8
+2015,Non-Refrigerated Warehouse,02128,3599642.9
+2015,Non-Refrigerated Warehouse,02130,2248944.3
+2015,Non-Refrigerated Warehouse,02132,5700500.1
+2015,Non-Refrigerated Warehouse,02135,1002954.3
+2015,Non-Refrigerated Warehouse,02210,27203216.8
+2015,Not Available,02114,59723241.7
+2015,Not Available,02115,4908659597.0
+2015,Not Available,02116,142806779.7
+2015,Not Available,02118,83414.0
+2015,Not Available,02119,7201802.5
+2015,Not Available,02124,17365592.9
+2015,Not Available,02125,7480634.7
+2015,Not Available,02127,9915721.9
+2015,Not Available,02128,16873155.4
+2015,Not Available,02134,
+2015,Not Available,02135,
+2015,Not Available,02210,24375578.0
+2015,Not Available,02215,2414066.3
+2015,Not Available,02467,
+2015,Office,02026,1403925.4
+2015,Office,02108,5920705560.1000023
+2015,Office,02109,276485605.1
+2015,Office,02110,1095330587.1
+2015,Office,02111,248523213.2
+2015,Office,02114,113826142.10000001
+2015,Office,02115,265951966.59999996
+2015,Office,02116,697797503.19999993
+2015,Office,02118,42514159.300000004
+2015,Office,02119,44779509.699999996
+2015,Office,02120,14794420.6
+2015,Office,02121,4731624.4
+2015,Office,02122,6168802.0
+2015,Office,02124,14257824.4
+2015,Office,02125,26639473.5
+2015,Office,02126,376167.4
+2015,Office,02127,4118514.3
+2015,Office,02129,111114973.80000001
+2015,Office,02131,
+2015,Office,02134,16682119.6
+2015,Office,02135,50229317.599999994
+2015,Office,02136,329350.4
+2015,Office,02138,4708115.9
+2015,Office,02139,11310601.3
+2015,Office,02163,18767202.4
+2015,Office,02199,282064359.4
+2015,Office,02201,62421146.4
+2015,Office,02203,75990371.8
+2015,Office,02210,625047994.4
+2015,Office,02215,285388668.7
+2015,Office,02222,30955602.0
+2015,Office,02446,4145351.4000000004
+2015,Other,02108,1821550.4
+2015,Other,02109,1419704504.0
+2015,Other,02110,4065634.6
+2015,Other,02111,125486.5
+2015,Other,02114,7462429.3
+2015,Other,02115,11742388.7
+2015,Other,02116,18033122.1
+2015,Other,02118,74409831.6
+2015,Other,02119,1261187.9
+2015,Other,02120,1868003.7
+2015,Other,02122,379743.9
+2015,Other,02124,9454.7
+2015,Other,02125,4663686.0
+2015,Other,02126,
+2015,Other,02127,7024937.7
+2015,Other,02128,1041621.7
+2015,Other,02129,459506522.9
+2015,Other,02130,7183226.3999999994
+2015,Other,02131,1766001.8
+2015,Other,02132,237611.7
+2015,Other,02134,19067079.0
+2015,Other,02135,1008333.1
+2015,Other,02136,
+2015,Other,02205,68740496.6
+2015,Other,02210,9168528.4
+2015,Other,02215,475486421.0
+2015,Other - Education,02113,
+2015,Other - Education,02116,6272202.7
+2015,Other - Education,02120,6486787.8
+2015,Other - Education,02135,2687973.5
+2015,Other - Education,02446,995741.6
+2015,Other - Entertainment/Public Assembly,02110,24466229.8
+2015,Other - Entertainment/Public Assembly,02163,17668389.8
+2015,Other - Lodging/Residential,02111,6576871.6
+2015,Other - Lodging/Residential,02114,2539546.3
+2015,Other - Lodging/Residential,02115,3728475.2
+2015,Other - Lodging/Residential,02116,
+2015,Other - Lodging/Residential,02118,7216246557.2
+2015,Other - Lodging/Residential,02119,23640551.099999998
+2015,Other - Lodging/Residential,02130,5769458.3
+2015,Other - Lodging/Residential,02131,9711094.3
+2015,Other - Lodging/Residential,02132,9843099.7
+2015,Other - Lodging/Residential,02134,6297304.4
+2015,Other - Lodging/Residential,02135,3811562.7
+2015,Other - Lodging/Residential,02210,7675113.1
+2015,Other - Lodging/Residential,02215,3874951.4
+2015,Other - Mall,02109,
+2015,Other - Public Services,02118,1846127.7
+2015,Other - Public Services,02128,744069.9
+2015,Other - Public Services,02210,160828.0
+2015,Other - Recreation,02109,345596.0
+2015,Other - Recreation,02111,169800.0
+2015,Other - Recreation,02113,1753825.2
+2015,Other - Recreation,02119,11474123.0
+2015,Other - Recreation,02120,5490954.1
+2015,Other - Recreation,02124,938124.0
+2015,Other - Recreation,02126,929541.6
+2015,Other - Recreation,02127,9725486.2
+2015,Other - Recreation,02128,2162288.7
+2015,Other - Recreation,02130,5197836.5
+2015,Other - Recreation,02131,6839714.5
+2015,Other - Recreation,02132,
+2015,Other - Recreation,02134,13189860.6
+2015,Other - Recreation,02136,854364.8
+2015,Other - Specialty Hospital,02114,
+2015,Other - Specialty Hospital,02115,1072494507.0
+2015,Other - Specialty Hospital,02130,29224010.3
+2015,Other - Specialty Hospital,02135,14434487.3
+2015,Other - Stadium,02215,9066303.6000000015
+2015,Other - Utility,02118,69727.6
+2015,Other - Utility,02163,9305008.0
+2015,Outpatient Rehabilitation/Physical Therapy,02215,102846844.4
+2015,Parking,02108,7623949.1
+2015,Parking,02109,3755405.7
+2015,Parking,02114,25964237.1
+2015,Parking,02115,44110593.199999996
+2015,Parking,02116,30684885.7
+2015,Parking,02118,287024.2
+2015,Parking,02134,1463300.3
+2015,Parking,02135,7568191.0
+2015,Parking,02210,11797568.5
+2015,Performing Arts,02111,14652460.6
+2015,Performing Arts,02116,
+2015,Performing Arts,02163,1860232.4
+2015,Performing Arts,02215,3960463.8
+2015,Police Station,02114,5761379.2
+2015,Police Station,02118,6155205.1
+2015,Police Station,02119,7195780.5
+2015,Police Station,02120,40206382.6
+2015,Police Station,02122,2416212.4
+2015,Police Station,02124,2797368.2
+2015,Police Station,02125,1769057.7
+2015,Police Station,02126,258150.2
+2015,Police Station,02127,422972.0
+2015,Police Station,02128,1760861.6
+2015,Police Station,02129,1922297.9
+2015,Police Station,02130,2297417.3
+2015,Police Station,02132,3335463.9
+2015,Police Station,02136,4963845.6000000006
+2015,Police Station,02169,15275.5
+2015,Police Station,02171,232336.7
+2015,Police Station,02201,2356412.7
+2015,Race Track,02134,3313628.3
+2015,Refrigerated Warehouse,02118,9473318.8
+2015,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02116,
+2015,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02119,2362811.7
+2015,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02125,2155882.0
+2015,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02126,488230.6
+2015,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02130,864104.3
+2015,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02131,1249634.8
+2015,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02132,72603.9
+2015,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02134,571467.2
+2015,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02136,674868.1
+2015,Residence Hall/Dormitory,02114,345840.3
+2015,Residence Hall/Dormitory,02115,36241784.7
+2015,Residence Hall/Dormitory,02116,12063356475.0
+2015,Residence Hall/Dormitory,02126,
+2015,Residence Hall/Dormitory,02128,6466114.5
+2015,Residence Hall/Dormitory,02163,34383301.8
+2015,Residence Hall/Dormitory,02171,
+2015,Residence Hall/Dormitory,02215,281158243.2
+2015,Restaurant,02110,13982858.2
+2015,Retail Store,02108,26636599.2
+2015,Retail Store,02111,
+2015,Retail Store,02115,1253217.3
+2015,Retail Store,02116,18011682.2
+2015,Retail Store,02122,3607053.2
+2015,Retail Store,02125,21777601.8
+2015,Retail Store,02132,8590394.5
+2015,Retail Store,02215,
+2015,Self-Storage Facility,02118,855953.4
+2015,Self-Storage Facility,02135,3825776.9
+2015,Senior Care Community,02114,5884284.3
+2015,Senior Care Community,02115,
+2015,Senior Care Community,02120,5524.0
+2015,Senior Care Community,02124,6447029.6
+2015,Senior Care Community,02127,27710322.5
+2015,Senior Care Community,02130,38432528.6
+2015,Senior Care Community,02132,9393994.7
+2015,Senior Care Community,02135,
+2015,Single Family Home,02163,961740.6
+2015,Social/Meeting Hall,02128,1081900.0
+2015,Social/Meeting Hall,02131,2204629.9
+2015,Social/Meeting Hall,02132,1498523.3
+2015,Social/Meeting Hall,02163,1212246.1
+2015,Social/Meeting Hall,02215,
+2015,Stadium (Open),02134,9677720.7
+2015,Stadium (Open),02215,73682269.4
+2015,Strip Mall,02110,511397.5
+2015,Strip Mall,02446,1647735.2
+2015,Supermarket/Grocery Store,02119,
+2015,Supermarket/Grocery Store,02120,9386359.9
+2015,Supermarket/Grocery Store,02121,12249392.5
+2015,Supermarket/Grocery Store,02122,28248404.7
+2015,Supermarket/Grocery Store,02124,16118734.5
+2015,Supermarket/Grocery Store,02127,5929914.9
+2015,Supermarket/Grocery Store,02131,9622656.0
+2015,Supermarket/Grocery Store,02132,15580719.0
+2015,Supermarket/Grocery Store,02134,18856842.8
+2015,Supermarket/Grocery Store,02135,12573977.8
+2015,Supermarket/Grocery Store,02136,8789217.8
+2015,Supermarket/Grocery Store,02199,16668014.6
+2015,Supermarket/Grocery Store,02215,19488360.1
+2015,Urgent Care/Clinic/Other Outpatient,02118,
+2015,Urgent Care/Clinic/Other Outpatient,02119,
+2015,Urgent Care/Clinic/Other Outpatient,02125,
+2015,Urgent Care/Clinic/Other Outpatient,02127,
+2015,Urgent Care/Clinic/Other Outpatient,02128,5922970.2
+2015,Urgent Care/Clinic/Other Outpatient,02215,5097692.1
+2015,Vocational School,02122,
+2015,Wholesale Club/Supercenter,02118,12066111.0
+2015,Worship Facility,02116,1780577.6
+2015,Worship Facility,02118,874174.5
+2015,Worship Facility,02163,865274.7
+2015,Worship Facility,02215,3554081.5
+2016,Adult Education,02136,3416948.5
+2016,Ambulatory Surgical Center,02115,15660106.3
+2016,Automobile Dealership,02135,668204063.8
+2016,Barracks,02108,
+2016,College/University,02108,10282909.3
+2016,College/University,02111,113845337.3
+2016,College/University,02114,23592909.5
+2016,College/University,02115,1397433058.0000002
+2016,College/University,02116,29196476.4
+2016,College/University,02131,8093227.7
+2016,College/University,02134,4593253.0
+2016,College/University,02163,23043820.299999997
+2016,College/University,02215,279596131.30000007
+2016,College/University,02446,5026857.9
+2016,College/University,02467,280947908.8
+2016,Courthouse,02109,75537346.4
+2016,Distribution Center,02109,
+2016,Distribution Center,02118,6867434.7
+2016,Distribution Center,02119,3581495.2
+2016,Distribution Center,02126,2570490.4
+2016,Distribution Center,02127,1159701.4
+2016,Distribution Center,02129,2594149.2
+2016,Distribution Center,02134,1059917.9
+2016,Distribution Center,02135,
+2016,Distribution Center,02136,286534.9
+2016,Distribution Center,02210,55055712.3
+2016,Distribution Center,02215,10119448.4
+2016,Energy/Power Station,02110,
+2016,Energy/Power Station,02111,5787366.0
+2016,Energy/Power Station,02116,
+2016,Energy/Power Station,02127,486700.9
+2016,Energy/Power Station,02215,26819999.3
+2016,Financial Office,02110,
+2016,Financial Office,02111,129332337.4
+2016,Financial Office,02116,71006892.6
+2016,Financial Office,02125,53167151.3
+2016,Financial Office,02210,214316146.1
+2016,Fire Station,02109,2247740.1
+2016,Fire Station,02110,4019443.6
+2016,Fire Station,02111,1213231.6
+2016,Fire Station,02115,6727578.8
+2016,Fire Station,02116,1233584.2
+2016,Fire Station,02118,19214685.5
+2016,Fire Station,02119,4155192.5
+2016,Fire Station,02121,1440722.0
+2016,Fire Station,02122,3077006.0
+2016,Fire Station,02124,3330636.9999999995
+2016,Fire Station,02125,1010300.0
+2016,Fire Station,02127,2942334.4000000004
+2016,Fire Station,02128,4618388.8000000007
+2016,Fire Station,02129,3817444.1999999997
+2016,Fire Station,02131,1681772.6
+2016,Fire Station,02132,2182925.9
+2016,Fire Station,02134,1796078.2
+2016,Fire Station,02135,5699470.1
+2016,Fire Station,02136,1432923.4
+2016,Fire Station,02169,822655.20000000007
+2016,Fire Station,02171,54598.8
+2016,Fire Station,02210,93502.4
+2016,Fitness Center/Health Club/Gym,02114,6448698.5
+2016,Fitness Center/Health Club/Gym,02115,20471447.0
+2016,Fitness Center/Health Club/Gym,02128,3554759.6
+2016,Fitness Center/Health Club/Gym,02129,1918983.9
+2016,Fitness Center/Health Club/Gym,02134,3018183.6
+2016,Fitness Center/Health Club/Gym,02135,3497872.9
+2016,Fitness Center/Health Club/Gym,02215,37068652.0
+2016,Food Service,02121,2981038.0
+2016,Hospital (General Medical & Surgical),02111,316523998.4
+2016,Hospital (General Medical & Surgical),02114,1024728868.0
+2016,Hospital (General Medical & Surgical),02115,887368124.2
+2016,Hospital (General Medical & Surgical),02118,530698311.4
+2016,Hospital (General Medical & Surgical),02120,123982564.5
+2016,Hospital (General Medical & Surgical),02124,103588915.8
+2016,Hospital (General Medical & Surgical),02129,66550692.0
+2016,Hospital (General Medical & Surgical),02130,115203157.2
+2016,Hospital (General Medical & Surgical),02131,75163694.5
+2016,Hospital (General Medical & Surgical),02132,6419933.3
+2016,Hospital (General Medical & Surgical),02135,140182156.1
+2016,Hospital (General Medical & Surgical),02215,808281515.8
+2016,Hospital (General Medical & Surgical),12109,7190499.0
+2016,Hotel,02108,19683886056.5
+2016,Hotel,02109,55442514.900000006
+2016,Hotel,02110,3618503057.9
+2016,Hotel,02111,48887692.099999994
+2016,Hotel,02114,71344506.7
+2016,Hotel,02115,35351571.5
+2016,Hotel,02116,21914871217.2
+2016,Hotel,02122,9762101.8
+2016,Hotel,02125,16493453.0
+2016,Hotel,02128,21839798.0
+2016,Hotel,02129,16537849.2
+2016,Hotel,02134,16748451.9
+2016,Hotel,02199,228658608.3
+2016,Hotel,02210,132415330.30000001
+2016,Hotel,02215,35192681.9
+2016,Ice/Curling Rink,02134,15164084.6
+2016,Indoor Arena,02114,79882210.0
+2016,Indoor Arena,02134,10833131.100000001
+2016,Indoor Arena,02215,67129516.9
+2016,K-12 School,02111,15147640.0
+2016,K-12 School,02113,1881221.9
+2016,K-12 School,02115,26149616.4
+2016,K-12 School,02116,10371356.8
+2016,K-12 School,02118,24591260.0
+2016,K-12 School,02119,42881779.399999991
+2016,K-12 School,02120,78277024.7
+2016,K-12 School,02121,62549498.4
+2016,K-12 School,02122,59276184.9
+2016,K-12 School,02124,54066144.699999996
+2016,K-12 School,02125,31540853.9
+2016,K-12 School,02126,21893990.200000003
+2016,K-12 School,02127,49944614.2
+2016,K-12 School,02128,54517793.7
+2016,K-12 School,02129,41435494.8
+2016,K-12 School,02130,81550399.999999985
+2016,K-12 School,02131,20720201.7
+2016,K-12 School,02132,62725660.4
+2016,K-12 School,02134,36366223.0
+2016,K-12 School,02135,31191271.300000004
+2016,K-12 School,02136,33003078.5
+2016,K-12 School,02215,10967572.7
+2016,Laboratory,02111,159899588.39999998
+2016,Laboratory,02114,38507570.9
+2016,Laboratory,02115,1157174741.8000002
+2016,Laboratory,02118,347419108.70000005
+2016,Laboratory,02129,18243181.7
+2016,Laboratory,02210,
+2016,Laboratory,02215,396605987.40000004
+2016,Library,02113,851553.1
+2016,Library,02114,437040.9
+2016,Library,02115,35065550.1
+2016,Library,02116,63860742.6
+2016,Library,02118,606404.2
+2016,Library,02119,606196.1
+2016,Library,02120,1264370.9
+2016,Library,02122,1092816.2
+2016,Library,02124,2858797.9000000004
+2016,Library,02126,3492234.5
+2016,Library,02127,831187.4
+2016,Library,02128,1662145.2
+2016,Library,02129,1711202.1
+2016,Library,02130,1748474.0
+2016,Library,02131,988412.5
+2016,Library,02132,1401134.3
+2016,Library,02134,3049347.8
+2016,Library,02135,2672949.2
+2016,Library,02163,12964392.4
+2016,Library,02215,29226603.3
+2016,Manufacturing/Industrial Plant,02118,26436930.8
+2016,Manufacturing/Industrial Plant,02119,2388149.8
+2016,Manufacturing/Industrial Plant,02122,
+2016,Manufacturing/Industrial Plant,02125,19469247.0
+2016,Manufacturing/Industrial Plant,02127,1044445718.0
+2016,Manufacturing/Industrial Plant,02128,4011633.3
+2016,Manufacturing/Industrial Plant,02129,6679083.6
+2016,Manufacturing/Industrial Plant,02135,5114723.1
+2016,Medical Office,02111,13617912.5
+2016,Medical Office,02114,156623267.70000002
+2016,Medical Office,02115,8255294.7
+2016,Medical Office,02116,22409491890.0
+2016,Medical Office,02118,59885966.5
+2016,Medical Office,02127,4988744.2
+2016,Medical Office,02129,237896501.5
+2016,Medical Office,02135,22436870.2
+2016,Medical Office,02215,196627627.29999998
+2016,Medical Office,02467,7971041.9
+2016,Mental Health Center,02114,28368090.0
+2016,Mixed Use Property,02108,2847096466.0
+2016,Mixed Use Property,02109,52328094.2
+2016,Mixed Use Property,02111,98470982.6
+2016,Mixed Use Property,02114,28904628.5
+2016,Mixed Use Property,02115,11646893.2
+2016,Mixed Use Property,02116,118591559.6
+2016,Mixed Use Property,02118,12956297.5
+2016,Mixed Use Property,02120,30005997.1
+2016,Mixed Use Property,02128,15211693.0
+2016,Mixed Use Property,02130,8954878.7
+2016,Mixed Use Property,02163,17194648.8
+2016,Mixed Use Property,02210,59474690.0
+2016,Mixed Use Property,02215,43116029.1
+2016,Movie Theater,02111,10672974.6
+2016,Multifamily Housing,01234,2761909.0
+2016,Multifamily Housing,02021,18660169.1
+2016,Multifamily Housing,02108,49405703.9
+2016,Multifamily Housing,02109,61677626.099999994
+2016,Multifamily Housing,02110,187623255.89999998
+2016,Multifamily Housing,02111,233898748.80000004
+2016,Multifamily Housing,02113,16733796.4
+2016,Multifamily Housing,02114,247011143.60000002
+2016,Multifamily Housing,02115,294235713.5
+2016,Multifamily Housing,02116,332695403.39999992
+2016,Multifamily Housing,02118,164674277.00000003
+2016,Multifamily Housing,02119,179814819.6
+2016,Multifamily Housing,02120,128266720.60000001
+2016,Multifamily Housing,02121,155296514.0
+2016,Multifamily Housing,02122,3100849.2
+2016,Multifamily Housing,02124,83270220.9
+2016,Multifamily Housing,02125,66498553.9
+2016,Multifamily Housing,02126,34371094.6
+2016,Multifamily Housing,02127,79037068.300000012
+2016,Multifamily Housing,02128,91039765.999999985
+2016,Multifamily Housing,02129,132216965.19999997
+2016,Multifamily Housing,02130,123239417.49999997
+2016,Multifamily Housing,02131,69202156.1
+2016,Multifamily Housing,02132,25897346.9
+2016,Multifamily Housing,02134,70738213.7
+2016,Multifamily Housing,02135,188593062.3
+2016,Multifamily Housing,02136,31721749.1
+2016,Multifamily Housing,02199,152814696.7
+2016,Multifamily Housing,02210,195626581.39999998
+2016,Multifamily Housing,02215,193907718.39999998
+2016,Multifamily Housing,02446,12714.2
+2016,Multifamily Housing,02467,19584319.9
+2016,Multifamily Housing,02481,561676.3
+2016,Multifamily Housing,21121,4335766.0
+2016,Museum,02114,52754222.0
+2016,Museum,02115,197469705.6
+2016,Museum,02215,18586483.5
+2016,Non-Refrigerated Warehouse,02118,1402670.4
+2016,Non-Refrigerated Warehouse,02119,2251756.4
+2016,Non-Refrigerated Warehouse,02122,421777.9
+2016,Non-Refrigerated Warehouse,02125,62119.8
+2016,Non-Refrigerated Warehouse,02126,1094581.1
+2016,Non-Refrigerated Warehouse,02127,5933570.5
+2016,Non-Refrigerated Warehouse,02128,4676967.6
+2016,Non-Refrigerated Warehouse,02130,3305778.0999999996
+2016,Non-Refrigerated Warehouse,02132,8370470.6
+2016,Non-Refrigerated Warehouse,02135,1020521.1
+2016,Non-Refrigerated Warehouse,02136,
+2016,Non-Refrigerated Warehouse,02210,25946279.2
+2016,Not Available,02110,34968493.4
+2016,Not Available,02115,1236220.0
+2016,Not Available,02116,
+2016,Not Available,02118,2631236.9
+2016,Not Available,02121,
+2016,Not Available,02132,
+2016,Not Available,02134,3644705.8
+2016,Not Available,02135,4220179.5
+2016,Not Available,02215,5279676.6
+2016,Office,00210,5121591.5
+2016,Office,02026,1564367.9
+2016,Office,02108,6266831086.2000017
+2016,Office,02109,437933123.90000004
+2016,Office,02110,1041935403.2000002
+2016,Office,02111,342849758.10000008
+2016,Office,02114,102565244.20000002
+2016,Office,02115,240332902.09999996
+2016,Office,02116,828226917.10000014
+2016,Office,02118,66391474.399999991
+2016,Office,02119,39983722.2
+2016,Office,02120,13330765.6
+2016,Office,02121,5570991.3
+2016,Office,02122,17467210.5
+2016,Office,02124,13759922.1
+2016,Office,02125,61950474.5
+2016,Office,02126,330196.3
+2016,Office,02127,35428724.9
+2016,Office,02129,119610500.1
+2016,Office,02131,214771.8
+2016,Office,02134,19779173.4
+2016,Office,02135,6257057.8999999994
+2016,Office,02136,212027.7
+2016,Office,02138,4225602.7
+2016,Office,02144,13731964.6
+2016,Office,02163,15254533.799999999
+2016,Office,02199,292204394.1
+2016,Office,02201,58247181.3
+2016,Office,02203,73870328.0
+2016,Office,02210,4453423323.8000011
+2016,Office,02215,399074550.90000004
+2016,Office,02222,
+2016,Office,02446,4346529.4
+2016,Other,01220,35109069.3
+2016,Other,02108,20302075.1
+2016,Other,02110,3924572.2
+2016,Other,02111,5799963.5
+2016,Other,02114,7443596.5
+2016,Other,02115,9037499.9
+2016,Other,02116,24212791.2
+2016,Other,02118,54755286.999999993
+2016,Other,02119,11822294.8
+2016,Other,02120,1807690.4
+2016,Other,02122,350393.0
+2016,Other,02124,911.0
+2016,Other,02125,5004878.2
+2016,Other,02127,10739446.6
+2016,Other,02128,1000981.3
+2016,Other,02129,54587877.1
+2016,Other,02130,9234199.5
+2016,Other,02131,2163789.7
+2016,Other,02132,271049.3
+2016,Other,02134,17897708.1
+2016,Other,02135,1031062.9
+2016,Other,02136,131989.8
+2016,Other,02205,64651689.1
+2016,Other,02210,9590751.6
+2016,Other,02215,497249543.90000004
+2016,Other - Education,01225,3701794.4
+2016,Other - Education,02115,4763487.7
+2016,Other - Education,02116,13278093.8
+2016,Other - Education,02119,2407566.3
+2016,Other - Education,02120,6917697.8
+2016,Other - Education,02125,3282938.1
+2016,Other - Education,02135,16966101.6
+2016,Other - Education,02446,1001117.3
+2016,Other - Education,21242,211058.3
+2016,Other - Entertainment/Public Assembly,02110,24712350.1
+2016,Other - Entertainment/Public Assembly,02116,2785945.0
+2016,Other - Entertainment/Public Assembly,02122,5742256.4
+2016,Other - Entertainment/Public Assembly,02128,
+2016,Other - Entertainment/Public Assembly,02163,17115564.9
+2016,Other - Lodging/Residential,02114,2322857.2
+2016,Other - Lodging/Residential,02119,22735939.7
+2016,Other - Lodging/Residential,02130,6369172.2
+2016,Other - Lodging/Residential,02131,8878911.1
+2016,Other - Lodging/Residential,02132,5180106.7
+2016,Other - Lodging/Residential,02134,2553517.1
+2016,Other - Lodging/Residential,02135,3849055.8
+2016,Other - Lodging/Residential,02210,10783060.7
+2016,Other - Mall,02109,2028080.5
+2016,Other - Mall,02121,14252176.3
+2016,Other - Mall,02125,2845991.7
+2016,Other - Mall,02130,1588768.5
+2016,Other - Public Services,02118,1877170.6
+2016,Other - Public Services,02128,525829.8
+2016,Other - Public Services,02210,158753.5
+2016,Other - Recreation,02109,325687.0
+2016,Other - Recreation,02111,169800.0
+2016,Other - Recreation,02113,1844832.2
+2016,Other - Recreation,02119,10363918.5
+2016,Other - Recreation,02120,5162595.7
+2016,Other - Recreation,02124,1481329.9
+2016,Other - Recreation,02126,942004.3
+2016,Other - Recreation,02127,8810013.6
+2016,Other - Recreation,02128,1702091.6
+2016,Other - Recreation,02130,4075048.1
+2016,Other - Recreation,02131,5756049.0
+2016,Other - Recreation,02132,3247569.2
+2016,Other - Recreation,02134,8032434.7
+2016,Other - Recreation,02136,901859.8
+2016,Other - Services,02127,8472959.0
+2016,Other - Services,02129,3777020.3
+2016,Other - Services,02135,
+2016,Other - Specialty Hospital,02114,59444712.0
+2016,Other - Specialty Hospital,02115,1077092067.0
+2016,Other - Specialty Hospital,02130,31258597.8
+2016,Other - Specialty Hospital,02135,14371897.1
+2016,Other - Stadium,02215,9427768.6
+2016,Other - Utility,02118,11268686.5
+2016,Other - Utility,02163,10330329.6
+2016,Outpatient Rehabilitation/Physical Therapy,02131,1721152.1
+2016,Outpatient Rehabilitation/Physical Therapy,02215,94896726.4
+2016,Parking,02108,7406183.0
+2016,Parking,02109,3864049.0999999996
+2016,Parking,02111,777915.6
+2016,Parking,02114,26953690.0
+2016,Parking,02115,46232361.5
+2016,Parking,02116,18770834.2
+2016,Parking,02118,318609.7
+2016,Parking,02134,5553511.8
+2016,Parking,02135,9118229.2
+2016,Parking,02215,1089167.0
+2016,Performing Arts,02111,11799529.3
+2016,Performing Arts,02116,3065107556.9
+2016,Performing Arts,02163,1418893.6
+2016,Performing Arts,02215,4607028.4
+2016,Police Station,02114,6044764.6
+2016,Police Station,02118,6736056.2
+2016,Police Station,02119,7620154.5
+2016,Police Station,02120,42564571.8
+2016,Police Station,02122,2633113.8
+2016,Police Station,02124,2899342.9
+2016,Police Station,02125,686902.4
+2016,Police Station,02126,249982.8
+2016,Police Station,02127,435159.7
+2016,Police Station,02128,2416514.2
+2016,Police Station,02129,1747053.1
+2016,Police Station,02130,2210307.1
+2016,Police Station,02132,3183850.9
+2016,Police Station,02136,8762041.2
+2016,Police Station,02169,16787.0
+2016,Police Station,02171,235035.6
+2016,Police Station,02201,2197144.5
+2016,Pre-school/Daycare,02118,2525899.9
+2016,Race Track,02134,2904327.2
+2016,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02125,1515034.5
+2016,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02126,385805.0
+2016,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02130,481371.0
+2016,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02131,1516965.0
+2016,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02132,87783.9
+2016,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02134,456452.4
+2016,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02136,778238.9
+2016,Residence Hall/Dormitory,02108,16880977.8
+2016,Residence Hall/Dormitory,02111,20902974.2
+2016,Residence Hall/Dormitory,02114,325914.2
+2016,Residence Hall/Dormitory,02115,33743048.8
+2016,Residence Hall/Dormitory,02116,
+2016,Residence Hall/Dormitory,02126,
+2016,Residence Hall/Dormitory,02128,6309562.5
+2016,Residence Hall/Dormitory,02163,43373752.8
+2016,Residence Hall/Dormitory,02171,1253657.6
+2016,Residence Hall/Dormitory,02215,244407509.20000002
+2016,Residential Care Facility,02130,8539470.0
+2016,Restaurant,02110,36505853.8
+2016,Restaurant,02215,3009450.0
+2016,Retail Store,02108,25900505.4
+2016,Retail Store,02111,
+2016,Retail Store,02116,4349324.9
+2016,Retail Store,02122,6477271.2
+2016,Retail Store,02125,21581314.9
+2016,Retail Store,02132,9563081.7
+2016,Retail Store,02134,1651987.7
+2016,Retail Store,02199,23219890.9
+2016,Retail Store,02215,23736278.700000003
+2016,Self-Storage Facility,02118,2465064.3
+2016,Self-Storage Facility,02125,2630959.0
+2016,Self-Storage Facility,02128,1500512.5
+2016,Self-Storage Facility,02135,4005257.8
+2016,Self-Storage Facility,02136,812534.8
+2016,Senior Care Community,02114,5838301.3
+2016,Senior Care Community,02120,2650578.1
+2016,Senior Care Community,02122,9589094.8
+2016,Senior Care Community,02124,17844789.9
+2016,Senior Care Community,02127,27006436.5
+2016,Senior Care Community,02130,37118990.3
+2016,Senior Care Community,02132,9989782.9
+2016,Senior Care Community,02135,5394391.0
+2016,Single Family Home,02163,619206.3
+2016,Social/Meeting Hall,02128,767300.0
+2016,Social/Meeting Hall,02131,2817050.1
+2016,Social/Meeting Hall,02132,1467970.9
+2016,Social/Meeting Hall,02163,1316743.8
+2016,Social/Meeting Hall,02215,3021635.0
+2016,Stadium (Open),02134,11244912.2
+2016,Stadium (Open),02215,74289629.2
+2016,State Office Building,02108,86280640.0
+2016,State Office Building,02114,66090998.0
+2016,State Office Building,02116,46932216.0
+2016,Strip Mall,02110,287534.7
+2016,Strip Mall,02129,4165863.8
+2016,Strip Mall,02130,3682763.1
+2016,Strip Mall,02446,1284315.2
+2016,Strip Mall,02467,761922842.0
+2016,Supermarket/Grocery Store,02120,9873792.1
+2016,Supermarket/Grocery Store,02121,10736425.8
+2016,Supermarket/Grocery Store,02122,39756980.0
+2016,Supermarket/Grocery Store,02124,15680397.6
+2016,Supermarket/Grocery Store,02125,14445851.8
+2016,Supermarket/Grocery Store,02127,5776977.4
+2016,Supermarket/Grocery Store,02128,13145490.2
+2016,Supermarket/Grocery Store,02130,19761798.8
+2016,Supermarket/Grocery Store,02131,9515343.1
+2016,Supermarket/Grocery Store,02132,15783567.5
+2016,Supermarket/Grocery Store,02134,17581736.0
+2016,Supermarket/Grocery Store,02135,12801950.2
+2016,Supermarket/Grocery Store,02136,20448079.6
+2016,Supermarket/Grocery Store,02199,17566979.5
+2016,Supermarket/Grocery Store,02215,31258791.6
+2016,Supermarket/Grocery Store,02481,15431169.5
+2016,Urgent Care/Clinic/Other Outpatient,02118,19563871.200000003
+2016,Urgent Care/Clinic/Other Outpatient,02119,234441.9
+2016,Urgent Care/Clinic/Other Outpatient,02125,4344318.9
+2016,Urgent Care/Clinic/Other Outpatient,02127,
+2016,Veterinary Office,02210,6031818.2
+2016,Vocational School,02109,1887146.0
+2016,Worship Facility,02108,1340195947.0
+2016,Worship Facility,02116,2102223841.5
+2016,Worship Facility,02118,8454003.3
+2016,Worship Facility,02125,1780447.0
+2016,Worship Facility,02135,862282.2
+2016,Worship Facility,02163,781077.9
+2016,Worship Facility,02215,6597323.5
+2017,,,
+2017,Adult Education,02120,1715553.6
+2017,Adult Education,02136,3110852.1
+2017,Ambulatory Surgical Center,02115,15708250.4
+2017,Aquarium,02110,10451235.6
+2017,Automobile Dealership,02132,5975756.7
+2017,Automobile Dealership,02134,
+2017,Automobile Dealership,02135,3898653.7
+2017,Barracks,02108,6812700.3
+2017,College/University,02108,37792642.0
+2017,College/University,02111,111710085.60000001
+2017,College/University,02114,6053803.3
+2017,College/University,02115,1297492645.9999998
+2017,College/University,02116,52668755.6
+2017,College/University,02125,1125009.9
+2017,College/University,02130,15433977.7
+2017,College/University,02131,8269732.7
+2017,College/University,02139,1314370.6
+2017,College/University,02163,17453743.400000002
+2017,College/University,02215,305141828.0
+2017,College/University,02467,225567788.6
+2017,Courthouse,02109,73429424.9
+2017,Distribution Center,02109,7581424.6
+2017,Distribution Center,02119,3226139.3
+2017,Distribution Center,02129,2487039.2
+2017,Distribution Center,02134,923022.9
+2017,Distribution Center,02136,264067.5
+2017,Distribution Center,02215,7768569.6
+2017,Enclosed Mall,02119,17790972.3
+2017,Energy/Power Station,02110,
+2017,Energy/Power Station,02111,
+2017,Energy/Power Station,02116,
+2017,Energy/Power Station,02215,26819999.3
+2017,Financial Office,02109,54099983.4
+2017,Financial Office,02110,
+2017,Financial Office,02111,124001368.1
+2017,Financial Office,02116,60337745.3
+2017,Financial Office,02210,174626315.8
+2017,Fire Station,02109,1988191.5
+2017,Fire Station,02110,3984972.4
+2017,Fire Station,02111,833615.1
+2017,Fire Station,02115,5626972.6
+2017,Fire Station,02116,1148891.3
+2017,Fire Station,02118,12812972.2
+2017,Fire Station,02119,3883808.3
+2017,Fire Station,02121,1454820.0
+2017,Fire Station,02122,3062739.7
+2017,Fire Station,02124,3438183.0999999996
+2017,Fire Station,02125,898021.5
+2017,Fire Station,02127,2835463.3
+2017,Fire Station,02128,4785283.5
+2017,Fire Station,02129,3427050.7
+2017,Fire Station,02131,1477413.7
+2017,Fire Station,02132,2083388.1
+2017,Fire Station,02134,1670967.6
+2017,Fire Station,02135,6512283.1
+2017,Fire Station,02136,
+2017,Fire Station,02169,319276.0
+2017,Fire Station,02171,39683.2
+2017,Fire Station,02210,59034.2
+2017,Fitness Center/Health Club/Gym,02114,6098820.9
+2017,Fitness Center/Health Club/Gym,02115,19359876.6
+2017,Fitness Center/Health Club/Gym,02129,2452945.4
+2017,Fitness Center/Health Club/Gym,02132,10345669.3
+2017,Fitness Center/Health Club/Gym,02134,3019275.9
+2017,Fitness Center/Health Club/Gym,02135,13463369.6
+2017,Fitness Center/Health Club/Gym,02215,36879670.0
+2017,Food Service,02121,3656715.2
+2017,Hospital (General Medical & Surgical),02111,314130812.5
+2017,Hospital (General Medical & Surgical),02114,1098056672.3
+2017,Hospital (General Medical & Surgical),02115,920677323.3
+2017,Hospital (General Medical & Surgical),02118,557487764.7
+2017,Hospital (General Medical & Surgical),02120,114852412.4
+2017,Hospital (General Medical & Surgical),02124,102330755.0
+2017,Hospital (General Medical & Surgical),02129,57927872.7
+2017,Hospital (General Medical & Surgical),02130,133007388.6
+2017,Hospital (General Medical & Surgical),02132,3126685.1
+2017,Hospital (General Medical & Surgical),02135,143417393.4
+2017,Hospital (General Medical & Surgical),02215,823580613.0
+2017,Hospital (General Medical & Surgical),12109,7987134.4
+2017,Hotel,02108,15137646453.9
+2017,Hotel,02109,55034925.5
+2017,Hotel,02110,44162368.0
+2017,Hotel,02111,53951690.3
+2017,Hotel,02114,21048506.8
+2017,Hotel,02115,33409507.1
+2017,Hotel,02116,335770004.0
+2017,Hotel,02122,9491582.1000000015
+2017,Hotel,02125,7294514.0
+2017,Hotel,02128,46004857.7
+2017,Hotel,02129,27186060.9
+2017,Hotel,02134,14549613.4
+2017,Hotel,02135,14137936.2
+2017,Hotel,02199,100266408.9
+2017,Hotel,02210,235696695.89999998
+2017,Hotel,02215,42961934.2
+2017,Ice/Curling Rink,02134,14304930.2
+2017,Indoor Arena,02114,72486178.1
+2017,Indoor Arena,02134,3410198.6
+2017,Indoor Arena,02215,69595914.2
+2017,K-12 School,02111,14595416.0
+2017,K-12 School,02113,1902381.3
+2017,K-12 School,02115,26720328.900000002
+2017,K-12 School,02116,11379445.600000001
+2017,K-12 School,02118,17681786.2
+2017,K-12 School,02119,40219917.6
+2017,K-12 School,02120,62724429.6
+2017,K-12 School,02121,69846473.0
+2017,K-12 School,02122,52059807.8
+2017,K-12 School,02124,48711410.300000004
+2017,K-12 School,02125,65204298.900000006
+2017,K-12 School,02126,27408039.799999997
+2017,K-12 School,02127,39282132.8
+2017,K-12 School,02128,49276893.400000006
+2017,K-12 School,02129,31323457.0
+2017,K-12 School,02130,72997143.300000012
+2017,K-12 School,02131,18849135.599999998
+2017,K-12 School,02132,76505165.2
+2017,K-12 School,02134,29443725.2
+2017,K-12 School,02135,30227960.400000002
+2017,K-12 School,02136,43052795.6
+2017,K-12 School,02215,10772329.8
+2017,Laboratory,02111,153684024.1
+2017,Laboratory,02114,40243272.8
+2017,Laboratory,02115,1087205684.9
+2017,Laboratory,02118,298727135.59999996
+2017,Laboratory,02129,16786101.4
+2017,Laboratory,02210,165041664.4
+2017,Laboratory,02215,440447840.8
+2017,Library,02113,843199.2
+2017,Library,02114,744596.5
+2017,Library,02115,34631319.9
+2017,Library,02116,92411449.100000009
+2017,Library,02118,661090.1
+2017,Library,02119,579015.8
+2017,Library,02120,1393490.7
+2017,Library,02121,
+2017,Library,02122,1064284.8
+2017,Library,02124,1121092.3
+2017,Library,02126,3060696.2
+2017,Library,02127,733729.9
+2017,Library,02128,1383609.8
+2017,Library,02129,1402470.5
+2017,Library,02130,604819.4
+2017,Library,02131,1032161.4
+2017,Library,02132,1345110.4
+2017,Library,02134,2937220.4000000004
+2017,Library,02135,1989227.6
+2017,Library,02163,11998036.7
+2017,Library,02215,28333951.3
+2017,Lifestyle Center,02109,1260091.9
+2017,Manufacturing/Industrial Plant,02118,39583602.6
+2017,Manufacturing/Industrial Plant,02119,2136241.5
+2017,Manufacturing/Industrial Plant,02125,8590030.9
+2017,Manufacturing/Industrial Plant,02127,955453785.7
+2017,Manufacturing/Industrial Plant,02128,3944093.6999999997
+2017,Manufacturing/Industrial Plant,02129,22025804.0
+2017,Manufacturing/Industrial Plant,02134,290624389.4
+2017,Manufacturing/Industrial Plant,02135,5888976.6
+2017,Medical Office,02111,13294543.4
+2017,Medical Office,02114,167174485.10000002
+2017,Medical Office,02115,18266971.799999997
+2017,Medical Office,02118,63764135.3
+2017,Medical Office,02127,5474676.3
+2017,Medical Office,02129,221143437.8
+2017,Medical Office,02130,5354517.5
+2017,Medical Office,02135,21422266.1
+2017,Medical Office,02215,136679244.9
+2017,Medical Office,02467,7797776.2
+2017,Mixed Use Property,02108,9592642.9
+2017,Mixed Use Property,02110,16987934.1
+2017,Mixed Use Property,02111,142088642.6
+2017,Mixed Use Property,02114,400672.0
+2017,Mixed Use Property,02115,33630844.6
+2017,Mixed Use Property,02116,150031123.1
+2017,Mixed Use Property,02118,9869248.1000000015
+2017,Mixed Use Property,02119,2895024.1999999997
+2017,Mixed Use Property,02127,4322074.0
+2017,Mixed Use Property,02128,13986779.0
+2017,Mixed Use Property,02129,
+2017,Mixed Use Property,02130,8785871.1
+2017,Mixed Use Property,02132,1779682.1
+2017,Mixed Use Property,02134,6971295.7
+2017,Mixed Use Property,02136,774525.5
+2017,Mixed Use Property,02163,15107105.4
+2017,Mixed Use Property,02210,11945466.8
+2017,Mixed Use Property,02215,121774039.3
+2017,Movie Theater,02111,10099759.8
+2017,Multifamily Housing,01234,4998855.7
+2017,Multifamily Housing,02021,10109996.3
+2017,Multifamily Housing,02108,51039068.5
+2017,Multifamily Housing,02109,218007502.00000003
+2017,Multifamily Housing,02110,161172874.0
+2017,Multifamily Housing,02111,269707932.00000006
+2017,Multifamily Housing,02113,14387113.9
+2017,Multifamily Housing,02114,285838332.8
+2017,Multifamily Housing,02115,273276287.1
+2017,Multifamily Housing,02116,363264375.4
+2017,Multifamily Housing,02118,274829403.6
+2017,Multifamily Housing,02119,198528350.9
+2017,Multifamily Housing,02120,123626738.80000001
+2017,Multifamily Housing,02121,122959172.40000002
+2017,Multifamily Housing,02122,21923768.900000002
+2017,Multifamily Housing,02124,107031983.80000001
+2017,Multifamily Housing,02125,175966768.7
+2017,Multifamily Housing,02126,49745774.8
+2017,Multifamily Housing,02127,112238863.69999999
+2017,Multifamily Housing,02128,93352668.5
+2017,Multifamily Housing,02129,157624330.70000002
+2017,Multifamily Housing,02130,128828969.30000001
+2017,Multifamily Housing,02131,84429249.8
+2017,Multifamily Housing,02132,46561856.300000004
+2017,Multifamily Housing,02134,140483723.29999998
+2017,Multifamily Housing,02135,277448625.4
+2017,Multifamily Housing,02136,70890128.6
+2017,Multifamily Housing,02199,145704584.3
+2017,Multifamily Housing,02210,157117629.8
+2017,Multifamily Housing,02215,238984013.39999998
+2017,Multifamily Housing,02467,85202345.9
+2017,Multifamily Housing,02481,5864261.5
+2017,Multifamily Housing,21121,4100399.7
+2017,Multifamily Housing,92116,
+2017,Museum,02110,12975602.2
+2017,Museum,02114,55237268.2
+2017,Museum,02115,194363712.60000002
+2017,Museum,02210,15115593.5
+2017,Museum,02215,1525434626.8
+2017,Non-Refrigerated Warehouse,02118,1276198.8
+2017,Non-Refrigerated Warehouse,02119,5114985.1999999993
+2017,Non-Refrigerated Warehouse,02122,378769.4
+2017,Non-Refrigerated Warehouse,02124,
+2017,Non-Refrigerated Warehouse,02125,56829.8
+2017,Non-Refrigerated Warehouse,02126,1292681.2
+2017,Non-Refrigerated Warehouse,02127,8028628.8000000007
+2017,Non-Refrigerated Warehouse,02128,3555890.6
+2017,Non-Refrigerated Warehouse,02129,451602.1
+2017,Non-Refrigerated Warehouse,02130,3805666.1
+2017,Non-Refrigerated Warehouse,02135,945873.3
+2017,Non-Refrigerated Warehouse,02136,22371943.2
+2017,Office,02026,1552224.5
+2017,Office,02108,374903072.59999996
+2017,Office,02109,432070375.8
+2017,Office,02110,1206920734.8
+2017,Office,02111,395843200.5
+2017,Office,02114,162750361.0
+2017,Office,02115,104173624.50000001
+2017,Office,02116,749300771.0
+2017,Office,02118,97829235.6
+2017,Office,02119,45469512.9
+2017,Office,02120,48570239.8
+2017,Office,02121,5664678.1000000006
+2017,Office,02122,9226849.0
+2017,Office,02124,12809373.0
+2017,Office,02125,42955265.400000006
+2017,Office,02126,60698.3
+2017,Office,02127,42287127.9
+2017,Office,02129,126037714.10000001
+2017,Office,02131,180052.9
+2017,Office,02134,23868412.8
+2017,Office,02135,31564256.2
+2017,Office,02136,48619.8
+2017,Office,02138,4422700.3
+2017,Office,02144,15926206.4
+2017,Office,02163,12767315.299999999
+2017,Office,02199,270887620.5
+2017,Office,02201,56548593.9
+2017,Office,02203,72614896.2
+2017,Office,02210,687302218.49999988
+2017,Office,02215,331714050.0
+2017,Office,02222,
+2017,Other,01220,
+2017,Other,02108,464351294.1
+2017,Other,02109,2883064.4
+2017,Other,02110,
+2017,Other,02111,4456585.6
+2017,Other,02114,5788751.5
+2017,Other,02115,8538318.6
+2017,Other,02116,19511220.8
+2017,Other,02118,3309258.1999999997
+2017,Other,02120,1715427.1
+2017,Other,02127,7615267.6
+2017,Other,02129,69167366.3
+2017,Other,02134,21833712.6
+2017,Other,02205,61567826.4
+2017,Other,02210,10696853.3
+2017,Other,02215,567004954.9000001
+2017,Other - Education,01225,
+2017,Other - Education,02113,
+2017,Other - Education,02115,5186329.6
+2017,Other - Education,02116,15416314.8
+2017,Other - Education,02119,1381365.1
+2017,Other - Education,02120,6923914.2
+2017,Other - Education,02125,
+2017,Other - Education,02135,4029728.2
+2017,Other - Education,21242,241847.1
+2017,Other - Entertainment/Public Assembly,02115,
+2017,Other - Entertainment/Public Assembly,02122,5722762.0
+2017,Other - Entertainment/Public Assembly,02128,
+2017,Other - Entertainment/Public Assembly,02163,15257933.4
+2017,Other - Lodging/Residential,02114,7406415.6
+2017,Other - Lodging/Residential,02115,
+2017,Other - Lodging/Residential,02116,
+2017,Other - Lodging/Residential,02118,13153607.4
+2017,Other - Lodging/Residential,02119,23418514.1
+2017,Other - Lodging/Residential,02124,1488856.4
+2017,Other - Lodging/Residential,02129,1297713.5
+2017,Other - Lodging/Residential,02130,12193506.3
+2017,Other - Lodging/Residential,02131,9376021.5
+2017,Other - Lodging/Residential,02132,3962669.0
+2017,Other - Lodging/Residential,02134,3444064.2
+2017,Other - Lodging/Residential,02135,9299097.1
+2017,Other - Lodging/Residential,02210,10109286.5
+2017,Other - Lodging/Residential,02215,3426418.5
+2017,Other - Mall,02108,15004981.0
+2017,Other - Mall,02130,2472371.1
+2017,Other - Public Services,02118,1444369.1
+2017,Other - Public Services,02128,363412.1
+2017,Other - Recreation,02109,358455.5
+2017,Other - Recreation,02111,157331.0
+2017,Other - Recreation,02120,77806.3
+2017,Other - Recreation,02124,799205.7
+2017,Other - Recreation,02130,
+2017,Other - Recreation,02134,11913037.7
+2017,Other - Services,02127,10731964.3
+2017,Other - Services,02129,2846317.2
+2017,Other - Specialty Hospital,02114,58678383.2
+2017,Other - Specialty Hospital,02115,1095909779.2
+2017,Other - Specialty Hospital,02130,30260383.8
+2017,Other - Specialty Hospital,02135,5578726.8
+2017,Other - Stadium,02128,879362.0
+2017,Other - Stadium,02215,10029112.0
+2017,Other - Technology/Science,02135,
+2017,Other - Utility,02163,10837412.8
+2017,Outpatient Rehabilitation/Physical Therapy,02131,1810334.1
+2017,Outpatient Rehabilitation/Physical Therapy,02215,95300615.7
+2017,Parking,02038,679479.3
+2017,Parking,02109,7176051.5
+2017,Parking,02110,4191990.8
+2017,Parking,02111,1112144.8
+2017,Parking,02114,3490539.1
+2017,Parking,02115,2022946.1
+2017,Parking,02116,
+2017,Parking,02118,271446.6
+2017,Parking,02129,2287360.8
+2017,Parking,02134,5589871.7
+2017,Parking,02135,9465986.7
+2017,Parking,02210,662320.4
+2017,Parking,02215,1302315.2000000002
+2017,Performing Arts,02111,12707541.2
+2017,Performing Arts,02116,2416668678079.3
+2017,Performing Arts,02125,5550526.2
+2017,Performing Arts,02163,1397507.8
+2017,Performing Arts,02215,3484312.0
+2017,Police Station,02114,5414491.4
+2017,Police Station,02118,8101308.0
+2017,Police Station,02119,7073422.9
+2017,Police Station,02120,41811385.999999993
+2017,Police Station,02122,2379406.0
+2017,Police Station,02124,3083263.6
+2017,Police Station,02126,220134.0
+2017,Police Station,02127,440717.5
+2017,Police Station,02128,2577566.3
+2017,Police Station,02129,2017126.6
+2017,Police Station,02130,2064455.1
+2017,Police Station,02132,3077230.7
+2017,Police Station,02136,22203502.7
+2017,Police Station,02169,15163.2
+2017,Police Station,02171,214571.3
+2017,Police Station,02201,2101502.0
+2017,Pre-school/Daycare,02118,2855035.1
+2017,Pre-school/Daycare,02119,5250584.5
+2017,Refrigerated Warehouse,02118,5028579.1
+2017,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02111,127075.6
+2017,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02116,
+2017,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02118,29457382.3
+2017,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02119,1996900.8
+2017,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02122,355018.0
+2017,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02125,2051607.4000000001
+2017,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02126,45000.0
+2017,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02130,5447398.1
+2017,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02131,1243991.0999999999
+2017,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02132,368517.9
+2017,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02134,97810.2
+2017,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02136,413972.0
+2017,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02215,492201.3
+2017,Residence Hall/Dormitory,02108,11834472.5
+2017,Residence Hall/Dormitory,02111,21318978.1
+2017,Residence Hall/Dormitory,02114,301706.1
+2017,Residence Hall/Dormitory,02115,31456162.2
+2017,Residence Hall/Dormitory,02116,26713522.3
+2017,Residence Hall/Dormitory,02122,422246.1
+2017,Residence Hall/Dormitory,02126,
+2017,Residence Hall/Dormitory,02128,5901066.6
+2017,Residence Hall/Dormitory,02135,13879332.7
+2017,Residence Hall/Dormitory,02163,37546084.3
+2017,Residence Hall/Dormitory,02171,
+2017,Residence Hall/Dormitory,02215,227779357.99999994
+2017,Residential Care Facility,02130,2971947.2
+2017,Retail Store,02108,14249359.3
+2017,Retail Store,02116,4845207.7
+2017,Retail Store,02119,4036873.5
+2017,Retail Store,02121,13179048.2
+2017,Retail Store,02122,9469018.9
+2017,Retail Store,02125,7848385.1
+2017,Retail Store,02126,119689.5
+2017,Retail Store,02132,9517623.8
+2017,Retail Store,02134,1575088.7
+2017,Retail Store,02136,
+2017,Retail Store,02199,20743575.0
+2017,Self-Storage Facility,02118,3153696.1999999997
+2017,Self-Storage Facility,02122,1122664.8
+2017,Self-Storage Facility,02125,
+2017,Self-Storage Facility,02127,1777371.4
+2017,Self-Storage Facility,02128,1127867.3
+2017,Self-Storage Facility,02131,11712080.6
+2017,Self-Storage Facility,02135,1841454.4
+2017,Self-Storage Facility,02136,860224.0
+2017,Senior Care Community,02114,6607284.8
+2017,Senior Care Community,02115,
+2017,Senior Care Community,02120,
+2017,Senior Care Community,02122,15306538.6
+2017,Senior Care Community,02124,19398090.8
+2017,Senior Care Community,02127,28322405.3
+2017,Senior Care Community,02128,185152956.3
+2017,Senior Care Community,02130,42229882.3
+2017,Senior Care Community,02132,26865227.200000003
+2017,Senior Care Community,02135,6137245.8
+2017,Senior Care Community,02136,
+2017,Single Family Home,02130,895201.6
+2017,Single Family Home,02163,550586.7
+2017,Social/Meeting Hall,02113,1809677.5
+2017,Social/Meeting Hall,02116,5900934.9
+2017,Social/Meeting Hall,02119,11035814.2
+2017,Social/Meeting Hall,02120,5166520.0
+2017,Social/Meeting Hall,02126,944029.0
+2017,Social/Meeting Hall,02127,9252244.5
+2017,Social/Meeting Hall,02128,1557609.3
+2017,Social/Meeting Hall,02130,3363960.9
+2017,Social/Meeting Hall,02131,3492124.0
+2017,Social/Meeting Hall,02132,1378343.8
+2017,Social/Meeting Hall,02136,815493.6
+2017,Social/Meeting Hall,02163,1456808.6
+2017,Social/Meeting Hall,02215,2860661.4
+2017,Stadium (Open),02134,9516224.3
+2017,Stadium (Open),02215,76414536.3
+2017,Strip Mall,02125,36514759.8
+2017,Strip Mall,02126,371254.9
+2017,Strip Mall,02129,7804136.5
+2017,Strip Mall,02130,5812833.8
+2017,Strip Mall,02467,1181949485.0
+2017,Supermarket/Grocery Store,02110,8225916.2
+2017,Supermarket/Grocery Store,02115,6094492.1
+2017,Supermarket/Grocery Store,02120,9367259.6
+2017,Supermarket/Grocery Store,02121,10282620.8
+2017,Supermarket/Grocery Store,02122,38910581.7
+2017,Supermarket/Grocery Store,02127,5642679.2
+2017,Supermarket/Grocery Store,02130,9715535.3
+2017,Supermarket/Grocery Store,02131,9245487.2
+2017,Supermarket/Grocery Store,02134,17317755.7
+2017,Supermarket/Grocery Store,02136,24623297.8
+2017,Supermarket/Grocery Store,02199,17067833.8
+2017,Supermarket/Grocery Store,02215,19135715.4
+2017,Supermarket/Grocery Store,02481,15376286.0
+2017,Swimming Pool,02119,3331220.2
+2017,Swimming Pool,02128,3576820.4
+2017,Swimming Pool,02131,5276642.9
+2017,Swimming Pool,02132,3487567.1
+2017,Swimming Pool,02134,7679922.5
+2017,Urgent Care/Clinic/Other Outpatient,02118,
+2017,Urgent Care/Clinic/Other Outpatient,02119,229021.6
+2017,Urgent Care/Clinic/Other Outpatient,02124,1521876.1
+2017,Urgent Care/Clinic/Other Outpatient,02125,16209593247.3
+2017,Urgent Care/Clinic/Other Outpatient,02127,
+2017,Urgent Care/Clinic/Other Outpatient,02128,12208336.3
+2017,Urgent Care/Clinic/Other Outpatient,02215,
+2017,Veterinary Office,02131,2501159.3
+2017,Vocational School,02109,4412589.5
+2017,Worship Facility,02108,4102571.3000000003
+2017,Worship Facility,02110,5278136.7
+2017,Worship Facility,02116,4176684849.5
+2017,Worship Facility,02118,6384784.2
+2017,Worship Facility,02120,3377603.7
+2017,Worship Facility,02125,
+2017,Worship Facility,02135,949162.5
+2017,Worship Facility,02163,667807.2
+2017,Worship Facility,02215,6657311.6
+2018,,,
+2018,Adult Education,02120,1794166.1
+2018,Adult Education,02136,3084175.7
+2018,Ambulatory Surgical Center,02115,16341875.1
+2018,Automobile Dealership,02134,3486635.9
+2018,Automobile Dealership,02135,3904599.0
+2018,Bar/Nightclub,02215,134504.5
+2018,College/University,02108,6057389.3
+2018,College/University,02111,138936158.39999998
+2018,College/University,02115,1331904578.5999997
+2018,College/University,02116,41065615.2
+2018,College/University,02125,2274399.9
+2018,College/University,02130,17338484.7
+2018,College/University,02131,8090566.5
+2018,College/University,02134,9952177.8
+2018,College/University,02163,18757247.4
+2018,College/University,02215,303333445.2
+2018,College/University,02467,221124482.5
+2018,Courthouse,02109,70061300.7
+2018,Courthouse,02210,
+2018,Data Center,02218,
+2018,Distribution Center,02109,
+2018,Distribution Center,02118,18641301.1
+2018,Distribution Center,02119,3469031.7
+2018,Distribution Center,02126,1288288.4
+2018,Distribution Center,02129,16070257.2
+2018,Distribution Center,02136,4007488.7
+2018,Distribution Center,02210,15964032.3
+2018,Distribution Center,02215,8047556.6
+2018,Enclosed Mall,02119,8964822.2
+2018,Energy/Power Station,02110,
+2018,Energy/Power Station,02111,
+2018,Energy/Power Station,02116,
+2018,Energy/Power Station,02128,
+2018,Energy/Power Station,02215,26699998.7
+2018,Financial Office,02109,3652577.7
+2018,Financial Office,02110,2845298.1
+2018,Financial Office,02111,120842603.8
+2018,Financial Office,02116,93031829.2
+2018,Financial Office,02125,33682827.1
+2018,Financial Office,02210,188694440.6
+2018,Fire Station,02109,1961959.6
+2018,Fire Station,02110,4562107.5
+2018,Fire Station,02111,792118.5
+2018,Fire Station,02115,5534655.2
+2018,Fire Station,02116,1098234.8
+2018,Fire Station,02118,17896710.5
+2018,Fire Station,02119,3891602.9
+2018,Fire Station,02121,1490545.5
+2018,Fire Station,02122,2609458.1
+2018,Fire Station,02124,3433866.9000000004
+2018,Fire Station,02125,925439.2
+2018,Fire Station,02127,2713104.8
+2018,Fire Station,02128,5335225.1
+2018,Fire Station,02129,3162424.4000000004
+2018,Fire Station,02131,1308501.8
+2018,Fire Station,02132,2104930.9
+2018,Fire Station,02134,1468159.6
+2018,Fire Station,02135,6494011.0
+2018,Fire Station,02136,1333463.8
+2018,Fire Station,02169,318262.0
+2018,Fire Station,02171,45697.2
+2018,Fire Station,02210,45272.6
+2018,Fitness Center/Health Club/Gym,02114,6077401.8
+2018,Fitness Center/Health Club/Gym,02115,19698979.1
+2018,Fitness Center/Health Club/Gym,02128,3646623.2
+2018,Fitness Center/Health Club/Gym,02129,2622952.8
+2018,Fitness Center/Health Club/Gym,02132,12072511.0
+2018,Fitness Center/Health Club/Gym,02134,3109442.4
+2018,Fitness Center/Health Club/Gym,02135,12494454.6
+2018,Fitness Center/Health Club/Gym,02215,42771761.8
+2018,Food Service,02121,6145354.3
+2018,Hospital (General Medical & Surgical),02111,290669947.9
+2018,Hospital (General Medical & Surgical),02114,1135126657.2
+2018,Hospital (General Medical & Surgical),02115,934844918.1
+2018,Hospital (General Medical & Surgical),02118,598946694.2
+2018,Hospital (General Medical & Surgical),02120,117290919.7
+2018,Hospital (General Medical & Surgical),02124,102640701.5
+2018,Hospital (General Medical & Surgical),02129,62190572.4
+2018,Hospital (General Medical & Surgical),02130,173169488.2
+2018,Hospital (General Medical & Surgical),02131,566812367.5
+2018,Hospital (General Medical & Surgical),02135,167057428.8
+2018,Hospital (General Medical & Surgical),02215,818870497.7
+2018,Hotel,02108,16584385966.8
+2018,Hotel,02109,85288241.600000009
+2018,Hotel,02110,4269146490.9
+2018,Hotel,02111,98185403.800000012
+2018,Hotel,02114,26475910.299999997
+2018,Hotel,02115,63499443.199999996
+2018,Hotel,02116,333493394.5
+2018,Hotel,02118,8103663.8
+2018,Hotel,02122,9336085.9
+2018,Hotel,02125,13257680.8
+2018,Hotel,02128,43337367.0
+2018,Hotel,02129,15957913.8
+2018,Hotel,02134,14750678.9
+2018,Hotel,02135,378530.7
+2018,Hotel,02199,104473677.7
+2018,Hotel,02210,179647511.8
+2018,Hotel,02215,64780693.500000007
+2018,Hotel,48242,14726800.1
+2018,Hotel,55402,75924608.2
+2018,Hotel,55403,7625090.1
+2018,Hotel,64108,81817417.9
+2018,Ice/Curling Rink,02134,14110415.2
+2018,Indoor Arena,02114,80232133.7
+2018,Indoor Arena,02134,9194669.0
+2018,Indoor Arena,02215,80913989.9
+2018,K-12 School,02111,15411914.0
+2018,K-12 School,02113,1992693.2
+2018,K-12 School,02115,26291384.8
+2018,K-12 School,02116,13447277.700000001
+2018,K-12 School,02118,19694802.3
+2018,K-12 School,02119,39710576.199999996
+2018,K-12 School,02120,72105612.4
+2018,K-12 School,02121,68430947.0
+2018,K-12 School,02122,53750866.4
+2018,K-12 School,02124,52784859.099999994
+2018,K-12 School,02125,67406088.2
+2018,K-12 School,02126,35807586.5
+2018,K-12 School,02127,33160659.199999996
+2018,K-12 School,02128,54526134.699999996
+2018,K-12 School,02129,31421824.000000004
+2018,K-12 School,02130,62262175.1
+2018,K-12 School,02131,22186216.4
+2018,K-12 School,02132,79592603.500000015
+2018,K-12 School,02134,27929916.3
+2018,K-12 School,02135,29927023.1
+2018,K-12 School,02136,49075687.300000012
+2018,K-12 School,02215,11414717.4
+2018,Laboratory,02114,37834165.7
+2018,Laboratory,02115,1063100913.6999999
+2018,Laboratory,02118,303792019.9
+2018,Laboratory,02129,18503004.2
+2018,Laboratory,02210,168592529.5
+2018,Laboratory,02215,428798233.50000012
+2018,Library,02113,719966.3
+2018,Library,02114,728216.2
+2018,Library,02115,34876146.9
+2018,Library,02116,78861497.7
+2018,Library,02118,719680.1
+2018,Library,02119,589105.6
+2018,Library,02120,952552.3
+2018,Library,02122,1061185.9
+2018,Library,02124,2695259.1
+2018,Library,02126,2804620.9
+2018,Library,02127,664246.3
+2018,Library,02128,1115465.3
+2018,Library,02129,1179777.6
+2018,Library,02130,179872.1
+2018,Library,02131,942013.8
+2018,Library,02132,1302767.4
+2018,Library,02134,2999528.5
+2018,Library,02135,1768308.5
+2018,Library,02163,11890951.2
+2018,Library,02215,34314415.0
+2018,Manufacturing/Industrial Plant,02118,26765142.7
+2018,Manufacturing/Industrial Plant,02119,2266532.8
+2018,Manufacturing/Industrial Plant,02122,21066117.4
+2018,Manufacturing/Industrial Plant,02125,15587009.9
+2018,Manufacturing/Industrial Plant,02127,953973742.5
+2018,Manufacturing/Industrial Plant,02128,
+2018,Manufacturing/Industrial Plant,02129,5645141.8
+2018,Manufacturing/Industrial Plant,02132,
+2018,Manufacturing/Industrial Plant,02134,239926498.0
+2018,Manufacturing/Industrial Plant,02135,5872886.5
+2018,Manufacturing/Industrial Plant,02136,337485.9
+2018,Medical Office,02114,169292442.99999997
+2018,Medical Office,02115,17503151.1
+2018,Medical Office,02118,56254531.099999994
+2018,Medical Office,02127,
+2018,Medical Office,02129,227967211.8
+2018,Medical Office,02135,21092672.099999998
+2018,Medical Office,02215,260263361.6
+2018,Medical Office,02218,
+2018,Medical Office,02467,7627997.9
+2018,Mixed Use Property,02108,3016726.9
+2018,Mixed Use Property,02109,50563165.2
+2018,Mixed Use Property,02110,81215258.4
+2018,Mixed Use Property,02111,146006228.1
+2018,Mixed Use Property,02114,23380140.8
+2018,Mixed Use Property,02115,11115366.5
+2018,Mixed Use Property,02116,76017606.8
+2018,Mixed Use Property,02120,29328891.2
+2018,Mixed Use Property,02125,4104744.2
+2018,Mixed Use Property,02126,133620.7
+2018,Mixed Use Property,02128,14525141.2
+2018,Mixed Use Property,02130,8818620.4
+2018,Mixed Use Property,02163,15568456.1
+2018,Mixed Use Property,02215,71750692.6
+2018,Movie Theater,02111,9457654.4
+2018,Multifamily Housing,01234,8658809.9
+2018,Multifamily Housing,02021,10249496.6
+2018,Multifamily Housing,02108,45893872.4
+2018,Multifamily Housing,02109,100528960.1
+2018,Multifamily Housing,02110,133335559.2
+2018,Multifamily Housing,02111,311152896.3
+2018,Multifamily Housing,02113,12420285.0
+2018,Multifamily Housing,02114,266689539.59999996
+2018,Multifamily Housing,02115,3898687786.999999
+2018,Multifamily Housing,02116,7408025822.0000029
+2018,Multifamily Housing,02118,256413700.49999997
+2018,Multifamily Housing,02119,198127506.29999998
+2018,Multifamily Housing,02120,184398110.79999998
+2018,Multifamily Housing,02121,111101283.29999998
+2018,Multifamily Housing,02122,23475552.699999996
+2018,Multifamily Housing,02124,86378620.9
+2018,Multifamily Housing,02125,177196593.90000004
+2018,Multifamily Housing,02126,33459279.2
+2018,Multifamily Housing,02127,68875673.9
+2018,Multifamily Housing,02128,87049457.9
+2018,Multifamily Housing,02129,166868623.70000002
+2018,Multifamily Housing,02130,107373006.7
+2018,Multifamily Housing,02131,139812029.8
+2018,Multifamily Housing,02132,44692771.1
+2018,Multifamily Housing,02134,173001598.9
+2018,Multifamily Housing,02135,336212966.70000005
+2018,Multifamily Housing,02136,74828518.5
+2018,Multifamily Housing,02139,398477.3
+2018,Multifamily Housing,02199,142107257.1
+2018,Multifamily Housing,02210,156602128.79999998
+2018,Multifamily Housing,02215,248347961.30000004
+2018,Multifamily Housing,02446,1754627.8
+2018,Multifamily Housing,02467,61269762.599999994
+2018,Multifamily Housing,02481,4353587.6
+2018,Multifamily Housing,20118,1582126.9
+2018,Multifamily Housing,21121,4795676.7
+2018,Multifamily Housing,92116,249140.8
+2018,Museum,02114,54575209.5
+2018,Museum,02115,192479687.60000002
+2018,Museum,02210,12562061.1
+2018,Museum,02215,1520382632.0
+2018,Non-Refrigerated Warehouse,02118,5162574.3
+2018,Non-Refrigerated Warehouse,02119,4586019.9
+2018,Non-Refrigerated Warehouse,02122,410944.3
+2018,Non-Refrigerated Warehouse,02125,496513.8
+2018,Non-Refrigerated Warehouse,02127,5759804.1
+2018,Non-Refrigerated Warehouse,02129,509338.1
+2018,Non-Refrigerated Warehouse,02130,3186395.5999999996
+2018,Non-Refrigerated Warehouse,02132,2651518.9
+2018,Non-Refrigerated Warehouse,02135,10392359.4
+2018,Non-Refrigerated Warehouse,02136,12277356.9
+2018,Not Available,02114,
+2018,Not Available,02119,
+2018,Not Available,02134,788884.4
+2018,Not Available,02135,
+2018,Office,02011,
+2018,Office,02026,1521400.2
+2018,Office,02108,375137727.4
+2018,Office,02109,426150818.30000007
+2018,Office,02110,1164789552.4
+2018,Office,02111,331278107.00000006
+2018,Office,02114,122030232.79999998
+2018,Office,02115,107932313.2
+2018,Office,02116,743509712.5
+2018,Office,02118,71300641.4
+2018,Office,02119,45336190.6
+2018,Office,02120,17140015.6
+2018,Office,02121,5887170.1
+2018,Office,02122,11395528.0
+2018,Office,02124,11924787.8
+2018,Office,02125,38262336.1
+2018,Office,02126,46000.9
+2018,Office,02127,34903133.2
+2018,Office,02129,75193889.0
+2018,Office,02130,410008.0
+2018,Office,02131,169410.1
+2018,Office,02134,19390989.7
+2018,Office,02135,69867301.5
+2018,Office,02136,59236.9
+2018,Office,02138,5652748.0
+2018,Office,02144,15516382.8
+2018,Office,02163,12828562.299999999
+2018,Office,02199,274140335.9
+2018,Office,02201,55963325.0
+2018,Office,02203,70751070.2
+2018,Office,02210,805630837.9000001
+2018,Office,02215,278242959.80000007
+2018,Office,02222,30481467.5
+2018,Other,02108,25659991.2
+2018,Other,02110,13711574.8
+2018,Other,02111,157285.2
+2018,Other,02114,7773533.2
+2018,Other,02115,7424708.6
+2018,Other,02116,18862006.599999998
+2018,Other,02118,39743667.900000006
+2018,Other,02119,677167.2
+2018,Other,02120,1754875.7
+2018,Other,02122,337285.8
+2018,Other,02125,5370369.0
+2018,Other,02126,4429202.9
+2018,Other,02127,7577291.1
+2018,Other,02128,8091751.3
+2018,Other,02129,79685405.100000009
+2018,Other,02130,6003811.8999999994
+2018,Other,02131,2793525.1
+2018,Other,02132,246768.6
+2018,Other,02134,21372796.400000002
+2018,Other,02135,19301076.9
+2018,Other,02136,33757178.5
+2018,Other,02210,45124824.8
+2018,Other,02215,432088478.79999995
+2018,Other - Education,02113,
+2018,Other - Education,02115,4642281.2
+2018,Other - Education,02116,5395190.7
+2018,Other - Education,02119,2172491.4
+2018,Other - Education,02120,6661860.6
+2018,Other - Education,02124,285736.3
+2018,Other - Education,02135,8312308.3
+2018,Other - Entertainment/Public Assembly,02110,24663210.0
+2018,Other - Entertainment/Public Assembly,02122,5262299.9
+2018,Other - Entertainment/Public Assembly,02128,25310803.3
+2018,Other - Entertainment/Public Assembly,02163,15369441.9
+2018,Other - Lodging/Residential,02118,15868567.4
+2018,Other - Lodging/Residential,02124,1492542.4
+2018,Other - Lodging/Residential,02129,1204836.7
+2018,Other - Lodging/Residential,02130,6910790.3
+2018,Other - Lodging/Residential,02131,1107842.3
+2018,Other - Lodging/Residential,02132,4578093.2
+2018,Other - Lodging/Residential,02134,2489289.5
+2018,Other - Lodging/Residential,02210,10363154.7
+2018,Other - Lodging/Residential,02215,1931832.6
+2018,Other - Mall,02108,5867731.3
+2018,Other - Mall,02109,1714403.0
+2018,Other - Mall,02115,2961037.8
+2018,Other - Mall,02121,14742512.7
+2018,Other - Mall,02130,3684347.6
+2018,Other - Public Services,02118,1155900.9
+2018,Other - Public Services,02128,372112.7
+2018,Other - Public Services,02210,104444.7
+2018,Other - Recreation,02109,285666.0
+2018,Other - Recreation,02111,164852.0
+2018,Other - Recreation,02113,1871750.1
+2018,Other - Recreation,02119,14755932.3
+2018,Other - Recreation,02120,6187324.9
+2018,Other - Recreation,02124,1599196.4
+2018,Other - Recreation,02126,637094.0
+2018,Other - Recreation,02127,8884129.2
+2018,Other - Recreation,02128,3658202.3
+2018,Other - Recreation,02130,3395037.0
+2018,Other - Recreation,02131,6407130.6
+2018,Other - Recreation,02132,3668682.3
+2018,Other - Recreation,02134,8495543.2
+2018,Other - Recreation,02136,890805.0
+2018,Other - Restaurant/Bar,02128,1100437.9
+2018,Other - Services,02127,9552448.6
+2018,Other - Services,02129,4380670.8
+2018,Other - Specialty Hospital,02114,50780245.9
+2018,Other - Specialty Hospital,02115,1100065006.0
+2018,Other - Specialty Hospital,02119,1028971.6
+2018,Other - Specialty Hospital,02130,24379784.7
+2018,Other - Stadium,02215,9606878.2999999989
+2018,Other - Utility,02118,15722789.0
+2018,Other - Utility,02163,10529137.7
+2018,Outpatient Rehabilitation/Physical Therapy,02215,79154817.1
+2018,Parking,02038,781457.1
+2018,Parking,02108,7034375.0
+2018,Parking,02109,3209659.4
+2018,Parking,02114,18005346.4
+2018,Parking,02115,15337927.6
+2018,Parking,02118,261003.7
+2018,Parking,02127,1504798.4
+2018,Parking,02129,2306221.4
+2018,Parking,02134,5830211.2
+2018,Parking,02210,5122017.8
+2018,Parking,02215,1029437.6000000001
+2018,Performing Arts,02111,11282645.8
+2018,Performing Arts,02115,
+2018,Performing Arts,02116,21545122.5
+2018,Performing Arts,02163,1083593.5
+2018,Performing Arts,02215,
+2018,Police Station,02114,5570820.6
+2018,Police Station,02118,6023342.3000000007
+2018,Police Station,02119,6687636.3
+2018,Police Station,02120,39789983.8
+2018,Police Station,02122,2340607.2
+2018,Police Station,02124,3016798.5
+2018,Police Station,02125,603638.1
+2018,Police Station,02126,235307.7
+2018,Police Station,02127,372563.5
+2018,Police Station,02128,2542618.6
+2018,Police Station,02129,2179795.2
+2018,Police Station,02130,1916651.4
+2018,Police Station,02132,2722245.8
+2018,Police Station,02136,22323422.9
+2018,Police Station,02169,12390.4
+2018,Police Station,02171,
+2018,Police Station,02201,2112098.1
+2018,Pre-school/Daycare,02118,2793163.6
+2018,Race Track,02134,2791476.8
+2018,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02116,
+2018,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02119,1238567.2
+2018,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02125,1724488.1
+2018,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02126,40944.0
+2018,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02127,10357733.4
+2018,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02130,34899.8
+2018,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02131,1067605.0
+2018,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02132,85080.0
+2018,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02134,4904459.3
+2018,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02136,
+2018,Residence Hall/Dormitory,02108,11745024.6
+2018,Residence Hall/Dormitory,02111,28983586.4
+2018,Residence Hall/Dormitory,02115,29554462.2
+2018,Residence Hall/Dormitory,02116,29270849.5
+2018,Residence Hall/Dormitory,02119,4461501.2
+2018,Residence Hall/Dormitory,02122,412869.0
+2018,Residence Hall/Dormitory,02128,5956200.0
+2018,Residence Hall/Dormitory,02163,37252803.4
+2018,Residence Hall/Dormitory,02171,
+2018,Residence Hall/Dormitory,02215,344144376.0
+2018,Residential Care Facility,02118,5678450.1
+2018,Residential Care Facility,02125,8076450.9
+2018,Residential Care Facility,02128,2928790.8
+2018,Residential Care Facility,02130,5724727.2
+2018,Restaurant,02110,35143127.7
+2018,Restaurant,02114,
+2018,Restaurant,02215,
+2018,Retail Store,02108,33158579.0
+2018,Retail Store,02109,107387.7
+2018,Retail Store,02111,
+2018,Retail Store,02115,1179407.4
+2018,Retail Store,02116,24891874.099999998
+2018,Retail Store,02119,3604247.6
+2018,Retail Store,02122,5783606.8
+2018,Retail Store,02125,19441697.799999997
+2018,Retail Store,02130,
+2018,Retail Store,02132,9084747.6
+2018,Retail Store,02134,928962.9
+2018,Retail Store,02199,21724208.200000003
+2018,Retail Store,02210,4580681.4
+2018,Retail Store,02215,17750516.9
+2018,Self-Storage Facility,02118,3098814.0
+2018,Self-Storage Facility,02122,1119694.8
+2018,Self-Storage Facility,02125,2364584.8
+2018,Self-Storage Facility,02126,1235959.2
+2018,Self-Storage Facility,02127,7029459.8
+2018,Self-Storage Facility,02128,1371181.4
+2018,Self-Storage Facility,02131,
+2018,Self-Storage Facility,02135,2748413.9
+2018,Senior Care Community,02114,5624772.5
+2018,Senior Care Community,02115,
+2018,Senior Care Community,02119,
+2018,Senior Care Community,02122,10037709.3
+2018,Senior Care Community,02128,844022905.0
+2018,Senior Care Community,02130,39788910.0
+2018,Senior Care Community,02132,25071109.8
+2018,Senior Care Community,02135,
+2018,Senior Care Community,02136,0.0
+2018,Single Family Home,02163,502219.7
+2018,Social/Meeting Hall,02128,512355.0
+2018,Social/Meeting Hall,02131,3275283.6
+2018,Social/Meeting Hall,02132,1317081.5
+2018,Social/Meeting Hall,02163,1412127.6
+2018,Social/Meeting Hall,02215,2690490.4
+2018,Stadium (Open),02134,12366824.4
+2018,Stadium (Open),02215,76908666.3
+2018,Strip Mall,02125,41372765.9
+2018,Strip Mall,02126,412100.7
+2018,Strip Mall,02129,8042400.2
+2018,Strip Mall,02130,5944460.5
+2018,Strip Mall,02467,6133429.6
+2018,Supermarket/Grocery Store,02110,7371481.4
+2018,Supermarket/Grocery Store,02115,8898422.9
+2018,Supermarket/Grocery Store,02120,8273444.8
+2018,Supermarket/Grocery Store,02121,11903665.8
+2018,Supermarket/Grocery Store,02122,39332483.3
+2018,Supermarket/Grocery Store,02127,5596572.3
+2018,Supermarket/Grocery Store,02130,20977822.3
+2018,Supermarket/Grocery Store,02131,9581871.2
+2018,Supermarket/Grocery Store,02134,16830392.0
+2018,Supermarket/Grocery Store,02136,24527248.8
+2018,Supermarket/Grocery Store,02199,16658269.8
+2018,Supermarket/Grocery Store,02215,18907701.1
+2018,Supermarket/Grocery Store,02481,16901117.3
+2018,Urgent Care/Clinic/Other Outpatient,02118,8926557.4
+2018,Urgent Care/Clinic/Other Outpatient,02122,21643.7
+2018,Urgent Care/Clinic/Other Outpatient,02127,
+2018,Urgent Care/Clinic/Other Outpatient,02128,14618917.6
+2018,Vocational School,02109,4387453.3
+2018,Worship Facility,02108,3961965.0999999996
+2018,Worship Facility,02110,7838960.8
+2018,Worship Facility,02116,11438901.8
+2018,Worship Facility,02118,366755109.6
+2018,Worship Facility,02120,172813851.4
+2018,Worship Facility,02125,1620827.1
+2018,Worship Facility,02163,700143.3
+2018,Worship Facility,02215,7295303.9
+2019,Adult Education,02136,3441992.2
+2019,Ambulatory Surgical Center,02115,16378635.0
+2019,Automobile Dealership,02135,3854495.6
+2019,Bar/Nightclub,02215,
+2019,Barracks,02108,9957212.6
+2019,College/University,02111,260413689.10000002
+2019,College/University,02115,1220052498.8
+2019,College/University,02116,56092872.0
+2019,College/University,02125,3013919.3
+2019,College/University,02130,19315385.4
+2019,College/University,02131,
+2019,College/University,02134,5031806.0
+2019,College/University,02163,21581949.2
+2019,College/University,02215,321016558.9
+2019,College/University,02467,201580710.8
+2019,Courthouse,02109,70975029.0
+2019,Data Center,02218,
+2019,Distribution Center,02109,8508235.5
+2019,Distribution Center,02118,19869897.799999997
+2019,Distribution Center,02119,4283445.8
+2019,Distribution Center,02126,1493977.2
+2019,Distribution Center,02129,5620309.7
+2019,Distribution Center,02136,
+2019,Distribution Center,02210,16918574.8
+2019,Distribution Center,02215,8134038.5
+2019,Enclosed Mall,02119,9252935.7
+2019,Enclosed Mall,02199,129492296.4
+2019,Energy/Power Station,02128,27474182.0
+2019,Energy/Power Station,02215,26699998.7
+2019,Financial Office,02110,2989690.0
+2019,Financial Office,02111,116078888.5
+2019,Financial Office,02116,87349191.1
+2019,Financial Office,02210,52827923.3
+2019,Fire Station,02109,2162741.3
+2019,Fire Station,02110,5187656.8
+2019,Fire Station,02111,786140.0
+2019,Fire Station,02115,6420837.2
+2019,Fire Station,02116,1311972.6
+2019,Fire Station,02118,16164736.3
+2019,Fire Station,02119,3975612.4000000004
+2019,Fire Station,02121,1490506.9
+2019,Fire Station,02122,2865517.5
+2019,Fire Station,02124,3434553.8
+2019,Fire Station,02125,845218.9
+2019,Fire Station,02127,2942639.7
+2019,Fire Station,02128,4055211.9000000004
+2019,Fire Station,02129,2949628.7
+2019,Fire Station,02131,1590158.2
+2019,Fire Station,02132,2297746.6
+2019,Fire Station,02134,1588551.5
+2019,Fire Station,02135,6576880.3
+2019,Fire Station,02136,1584218.6
+2019,Fire Station,02169,451749.0
+2019,Fire Station,02171,69896.3
+2019,Fire Station,02210,37866.4
+2019,Fitness Center/Health Club/Gym,02114,5965918.8
+2019,Fitness Center/Health Club/Gym,02115,20507189.0
+2019,Fitness Center/Health Club/Gym,02128,3561270.9
+2019,Fitness Center/Health Club/Gym,02129,1935343.8
+2019,Fitness Center/Health Club/Gym,02132,13113290.6
+2019,Fitness Center/Health Club/Gym,02134,3021532.9
+2019,Fitness Center/Health Club/Gym,02135,13164145.2
+2019,Fitness Center/Health Club/Gym,02215,40859867.8
+2019,Food Service,02121,6255579.7
+2019,Hospital (General Medical & Surgical),02111,297736558.2
+2019,Hospital (General Medical & Surgical),02114,1153598920.0
+2019,Hospital (General Medical & Surgical),02115,970996686.7
+2019,Hospital (General Medical & Surgical),02118,600634989.8
+2019,Hospital (General Medical & Surgical),02124,111042563.4
+2019,Hospital (General Medical & Surgical),02129,69025181.0
+2019,Hospital (General Medical & Surgical),02130,165805254.1
+2019,Hospital (General Medical & Surgical),02131,71748775.7
+2019,Hospital (General Medical & Surgical),02132,1509445.9
+2019,Hospital (General Medical & Surgical),02135,187581780.3
+2019,Hospital (General Medical & Surgical),02215,815181940.5
+2019,Hotel,02108,156038758.39999998
+2019,Hotel,02109,53401348.099999994
+2019,Hotel,02110,59861165.7
+2019,Hotel,02111,94936553.399999991
+2019,Hotel,02114,74694648.5
+2019,Hotel,02115,30266891.0
+2019,Hotel,02116,422445275.5
+2019,Hotel,02122,8182046.3999999994
+2019,Hotel,02125,21036393.2
+2019,Hotel,02128,70757529.9
+2019,Hotel,02129,22148160.9
+2019,Hotel,02134,30381138.0
+2019,Hotel,02135,4225235.9
+2019,Hotel,02199,103156293.6
+2019,Hotel,02210,140349556.7
+2019,Hotel,02215,63728131.0
+2019,Hotel,48242,16421081.3
+2019,Hotel,55402,81342395.0
+2019,Hotel,55403,7824547.2
+2019,Hotel,64108,105630415.19999999
+2019,Ice/Curling Rink,02134,
+2019,Indoor Arena,02114,84599667.5
+2019,Indoor Arena,02134,4551455.4
+2019,Indoor Arena,02215,73512315.9
+2019,K-12 School,02111,16191374.3
+2019,K-12 School,02113,2103335.0
+2019,K-12 School,02115,24282805.1
+2019,K-12 School,02116,13548020.100000001
+2019,K-12 School,02118,21240175.700000003
+2019,K-12 School,02119,41880318.2
+2019,K-12 School,02120,86492686.9
+2019,K-12 School,02121,71246234.699999988
+2019,K-12 School,02122,62861112.100000009
+2019,K-12 School,02124,52121520.1
+2019,K-12 School,02125,73279963.100000009
+2019,K-12 School,02126,30714867.4
+2019,K-12 School,02127,32765858.099999998
+2019,K-12 School,02128,61432941.3
+2019,K-12 School,02129,33625970.1
+2019,K-12 School,02130,67107826.300000004
+2019,K-12 School,02131,18929585.4
+2019,K-12 School,02132,95402391.399999991
+2019,K-12 School,02134,25741461.0
+2019,K-12 School,02135,31872544.599999998
+2019,K-12 School,02136,34248170.699999996
+2019,K-12 School,02215,8912281.3
+2019,Laboratory,02114,35660114.7
+2019,Laboratory,02115,510681175.79999995
+2019,Laboratory,02118,324258855.6
+2019,Laboratory,02129,19145540.7
+2019,Laboratory,02210,155909368.1
+2019,Laboratory,02215,521786368.00000006
+2019,Library,02113,792469.7
+2019,Library,02114,806021.8
+2019,Library,02115,5413270.1
+2019,Library,02116,95541964.3
+2019,Library,02118,765060.3
+2019,Library,02119,686601.4
+2019,Library,02120,894827.7
+2019,Library,02122,1137688.6
+2019,Library,02124,2618145.2
+2019,Library,02126,2938898.8
+2019,Library,02127,720434.8
+2019,Library,02128,1191354.8
+2019,Library,02129,1067517.2
+2019,Library,02130,922583.70000000007
+2019,Library,02131,1045944.7
+2019,Library,02132,1450089.7
+2019,Library,02134,3571810.1
+2019,Library,02135,2092341.0
+2019,Library,02163,12771868.6
+2019,Library,02215,32897550.3
+2019,Manufacturing/Industrial Plant,02118,75941004.7
+2019,Manufacturing/Industrial Plant,02119,2267149.5
+2019,Manufacturing/Industrial Plant,02125,6210648.1999999993
+2019,Manufacturing/Industrial Plant,02127,922622699.1
+2019,Manufacturing/Industrial Plant,02128,
+2019,Manufacturing/Industrial Plant,02129,9950868.8
+2019,Manufacturing/Industrial Plant,02132,
+2019,Manufacturing/Industrial Plant,02135,828147.8
+2019,Medical Office,02114,155336192.3
+2019,Medical Office,02115,10036837.6
+2019,Medical Office,02118,55778785.7
+2019,Medical Office,02127,5365846.8
+2019,Medical Office,02129,233504137.3
+2019,Medical Office,02135,22438746.0
+2019,Medical Office,02215,193507700.0
+2019,Medical Office,02218,
+2019,Medical Office,02467,5867682.5
+2019,Mixed Use Property,02109,
+2019,Mixed Use Property,02110,85165558.4
+2019,Mixed Use Property,02111,144151986.5
+2019,Mixed Use Property,02116,37418713.4
+2019,Mixed Use Property,02120,36866813.0
+2019,Mixed Use Property,02125,4263345.0
+2019,Mixed Use Property,02128,9311058.6
+2019,Mixed Use Property,02130,9448251.4
+2019,Mixed Use Property,02163,14028007.6
+2019,Mixed Use Property,02215,91937020.0
+2019,Movie Theater,02111,9477103.5
+2019,Multifamily Housing,01234,9347291.7
+2019,Multifamily Housing,02026,47134277.800000004
+2019,Multifamily Housing,02108,43008910.4
+2019,Multifamily Housing,02109,125977588.8
+2019,Multifamily Housing,02110,119891158.60000001
+2019,Multifamily Housing,02111,284093156.4
+2019,Multifamily Housing,02113,12358123.7
+2019,Multifamily Housing,02114,328497596.30000007
+2019,Multifamily Housing,02115,384603557.50000006
+2019,Multifamily Housing,02116,7406715248.1000013
+2019,Multifamily Housing,02118,418625214.59999996
+2019,Multifamily Housing,02119,260832698.49999991
+2019,Multifamily Housing,02120,160207281.0
+2019,Multifamily Housing,02121,92748952.9
+2019,Multifamily Housing,02122,37439038.2
+2019,Multifamily Housing,02124,156437083.6
+2019,Multifamily Housing,02125,78873924.000000015
+2019,Multifamily Housing,02126,71213618.8
+2019,Multifamily Housing,02127,307113730.89999992
+2019,Multifamily Housing,02128,139307948.5
+2019,Multifamily Housing,02129,238718618.29999992
+2019,Multifamily Housing,02130,250052725.0999999
+2019,Multifamily Housing,02131,169803505.9
+2019,Multifamily Housing,02132,48797930.7
+2019,Multifamily Housing,02134,120232874.8
+2019,Multifamily Housing,02135,423398862.0
+2019,Multifamily Housing,02136,89146933.600000009
+2019,Multifamily Housing,02139,387354.1
+2019,Multifamily Housing,02199,151641019.0
+2019,Multifamily Housing,02210,171032818.7
+2019,Multifamily Housing,02215,223664001.79999998
+2019,Multifamily Housing,02446,2580364.8
+2019,Multifamily Housing,02467,71357964.3
+2019,Multifamily Housing,02481,4715547.6
+2019,Multifamily Housing,21121,4997074.8
+2019,Multifamily Housing,92116,263063.1
+2019,Museum,02114,56566716.0
+2019,Museum,02115,18037766.5
+2019,Museum,02210,12371979.8
+2019,Museum,02215,4265604.1
+2019,Non-Refrigerated Warehouse,02118,2993995.6
+2019,Non-Refrigerated Warehouse,02119,2363861.0
+2019,Non-Refrigerated Warehouse,02125,82992.3
+2019,Non-Refrigerated Warehouse,02127,765169.9
+2019,Non-Refrigerated Warehouse,02129,
+2019,Non-Refrigerated Warehouse,02132,2047361.8
+2019,Non-Refrigerated Warehouse,02135,11372485.1
+2019,Non-Refrigerated Warehouse,02136,23030999.3
+2019,Not Available,02115,
+2019,Not Available,02129,
+2019,Office,02026,3013106.8
+2019,Office,02108,368700165.2
+2019,Office,02109,416239980.6
+2019,Office,02110,1108945589.8
+2019,Office,02111,1330293542.7
+2019,Office,02114,1994431398.7999997
+2019,Office,02115,70813466.4
+2019,Office,02116,694768141.19999993
+2019,Office,02118,34528907.8
+2019,Office,02119,19797986.0
+2019,Office,02120,16901414.7
+2019,Office,02121,5319192.9
+2019,Office,02122,10159614.0
+2019,Office,02125,8763110.6
+2019,Office,02126,58684.1
+2019,Office,02127,33815593.8
+2019,Office,02129,82325730.8
+2019,Office,02130,
+2019,Office,02131,220752.1
+2019,Office,02134,11294771.9
+2019,Office,02135,60571335.499999993
+2019,Office,02136,79204.6
+2019,Office,02138,
+2019,Office,02144,16505070.3
+2019,Office,02163,12578175.700000003
+2019,Office,02199,311106260.6
+2019,Office,02201,58326501.6
+2019,Office,02203,64704773.4
+2019,Office,02210,698983409.4000001
+2019,Office,02215,254282901.5
+2019,Office,02222,29641659.6
+2019,Other,02108,883211.4
+2019,Other,02110,4105548.0
+2019,Other,02111,589293.6
+2019,Other,02114,7178963.1999999993
+2019,Other,02116,15434939.2
+2019,Other,02118,44801176.9
+2019,Other,02119,246312.5
+2019,Other,02120,1859085.1
+2019,Other,02122,348237.1
+2019,Other,02125,5243392.3
+2019,Other,02127,14585233.100000001
+2019,Other,02128,940040.1
+2019,Other,02129,73675493.5
+2019,Other,02130,9504624.2000000011
+2019,Other,02131,2890881.6
+2019,Other,02132,298648.1
+2019,Other,02134,21457299.1
+2019,Other,02135,16876322.1
+2019,Other,02136,789592.6
+2019,Other,02210,44305306.8
+2019,Other,02215,404641111.3
+2019,Other,02446,445822.2
+2019,Other - Education,02113,946522.9
+2019,Other - Education,02116,5037748.4
+2019,Other - Education,02119,492699.7
+2019,Other - Education,02120,12501081.4
+2019,Other - Education,02135,3888336.6
+2019,Other - Entertainment/Public Assembly,02110,24681792.1
+2019,Other - Entertainment/Public Assembly,02115,1685781.0
+2019,Other - Entertainment/Public Assembly,02122,6023612.3
+2019,Other - Entertainment/Public Assembly,02125,5543635.2
+2019,Other - Entertainment/Public Assembly,02128,28625371.1
+2019,Other - Entertainment/Public Assembly,02163,15714133.2
+2019,Other - Lodging/Residential,02111,3149666.1
+2019,Other - Lodging/Residential,02115,4015379.2
+2019,Other - Lodging/Residential,02116,3532645.1
+2019,Other - Lodging/Residential,02118,16938866.400000002
+2019,Other - Lodging/Residential,02124,1741554.7
+2019,Other - Lodging/Residential,02130,3026951.3
+2019,Other - Lodging/Residential,02132,4456873.2
+2019,Other - Lodging/Residential,02134,1053973.2
+2019,Other - Lodging/Residential,02215,3340569.0
+2019,Other - Mall,02108,5419884.7
+2019,Other - Mall,02109,1172985.6
+2019,Other - Mall,02121,14302830.5
+2019,Other - Public Services,02118,1194080.5
+2019,Other - Public Services,02128,394990.2
+2019,Other - Public Services,02210,88306.9
+2019,Other - Recreation,02109,230327.1
+2019,Other - Recreation,02111,163200.0
+2019,Other - Recreation,02113,1749679.4
+2019,Other - Recreation,02119,13817805.7
+2019,Other - Recreation,02120,6043873.3
+2019,Other - Recreation,02124,1883782.2
+2019,Other - Recreation,02126,1237145.9
+2019,Other - Recreation,02127,7723781.4
+2019,Other - Recreation,02128,4171467.8
+2019,Other - Recreation,02130,3894760.9
+2019,Other - Recreation,02131,4480498.0
+2019,Other - Recreation,02132,4183025.8
+2019,Other - Recreation,02134,1322516.8
+2019,Other - Recreation,02136,1204419.0
+2019,Other - Services,02129,4190588.8
+2019,Other - Specialty Hospital,02115,849017607.7
+2019,Other - Specialty Hospital,02119,1014421.5
+2019,Other - Specialty Hospital,02130,23896162.4
+2019,Other - Stadium,02215,10093352.2
+2019,Other - Technology/Science,02111,19027245.0
+2019,Other - Technology/Science,02114,39220054.9
+2019,Other - Technology/Science,02115,24875329.3
+2019,Other - Technology/Science,02119,11091849.1
+2019,Other - Technology/Science,02124,12871357.4
+2019,Other - Utility,02163,11995322.7
+2019,Outpatient Rehabilitation/Physical Therapy,02215,70549435.2
+2019,Parking,02108,6359813.8
+2019,Parking,02109,3226417.9
+2019,Parking,02114,15470196.4
+2019,Parking,02115,25210056.700000003
+2019,Parking,02118,272348.8
+2019,Parking,02127,1507403.5
+2019,Parking,02129,2480449.2
+2019,Parking,02134,1859646.9
+2019,Parking,02215,935257.8
+2019,Performing Arts,02111,9106118.0
+2019,Performing Arts,02115,
+2019,Performing Arts,02116,25838273.3
+2019,Police Station,02114,5588728.6
+2019,Police Station,02118,8634197.1
+2019,Police Station,02119,7253114.6
+2019,Police Station,02120,37356342.699999996
+2019,Police Station,02122,2224306.9
+2019,Police Station,02124,2749535.4
+2019,Police Station,02125,617202.8
+2019,Police Station,02126,245078.1
+2019,Police Station,02127,418776.3
+2019,Police Station,02128,1712582.3
+2019,Police Station,02129,1798217.8
+2019,Police Station,02130,2037308.6
+2019,Police Station,02132,2806059.2
+2019,Police Station,02136,22659040.3
+2019,Police Station,02169,13294.4
+2019,Police Station,02171,268135.4
+2019,Police Station,02201,2371191.2
+2019,Pre-school/Daycare,02118,1777583.9
+2019,Race Track,02134,
+2019,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02116,
+2019,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02119,1911152.8
+2019,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02125,1876105.4
+2019,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02126,42014.5
+2019,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02127,2501403.8
+2019,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02130,30929.4
+2019,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02131,1229274.7
+2019,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02132,117271.4
+2019,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02134,5615216.3
+2019,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02136,362697.2
+2019,Residence Hall/Dormitory,02115,13254504.899999999
+2019,Residence Hall/Dormitory,02116,32746972.0
+2019,Residence Hall/Dormitory,02119,3009577.1
+2019,Residence Hall/Dormitory,02128,5745087.9
+2019,Residence Hall/Dormitory,02163,37954622.7
+2019,Residence Hall/Dormitory,02171,
+2019,Residence Hall/Dormitory,02215,305570758.8
+2019,Residential Care Facility,02135,1653875.1
+2019,Restaurant,02110,34339230.2
+2019,Retail Store,02108,11835629.1
+2019,Retail Store,02109,107467.0
+2019,Retail Store,02115,1036191.4
+2019,Retail Store,02116,21739565.3
+2019,Retail Store,02119,3677074.0
+2019,Retail Store,02122,6551448.8
+2019,Retail Store,02125,21903873.2
+2019,Retail Store,02132,10733299.0
+2019,Retail Store,02134,
+2019,Retail Store,02199,22071313.3
+2019,Retail Store,02215,17816588.4
+2019,Self-Storage Facility,02118,5816477.2
+2019,Self-Storage Facility,02122,1228884.2
+2019,Self-Storage Facility,02125,2257664.6
+2019,Self-Storage Facility,02126,964708.2
+2019,Self-Storage Facility,02127,13341100.8
+2019,Self-Storage Facility,02128,1146313.0
+2019,Self-Storage Facility,02129,946029.4
+2019,Self-Storage Facility,02130,2101363.4
+2019,Self-Storage Facility,02135,2943456.8
+2019,Self-Storage Facility,02136,2083576.8
+2019,Senior Care Community,02120,7463206.2
+2019,Senior Care Community,02122,6582403.3
+2019,Senior Care Community,02128,2966585.8
+2019,Senior Care Community,02130,19235360.7
+2019,Senior Care Community,02136,0.0
+2019,Single Family Home,02163,649887.6
+2019,Social/Meeting Hall,02111,4549020.8
+2019,Social/Meeting Hall,02128,544471.0
+2019,Social/Meeting Hall,02131,3223315.4
+2019,Social/Meeting Hall,02132,1524420.5
+2019,Social/Meeting Hall,02163,1470046.4
+2019,Social/Meeting Hall,02215,2802280.2
+2019,Stadium (Open),02134,
+2019,Stadium (Open),02215,80747125.3
+2019,Strip Mall,02125,26796594.2
+2019,Strip Mall,02126,1570272.0
+2019,Strip Mall,02129,8725532.9
+2019,Strip Mall,02130,3468017.5
+2019,Strip Mall,02467,6842668.1
+2019,Supermarket/Grocery Store,02110,7411951.9
+2019,Supermarket/Grocery Store,02115,9927143.8
+2019,Supermarket/Grocery Store,02130,9472770.0
+2019,Supermarket/Grocery Store,02199,14993662.6
+2019,Supermarket/Grocery Store,02215,19279195.5
+2019,Supermarket/Grocery Store,02481,18049787.2
+2019,Urgent Care/Clinic/Other Outpatient,02118,
+2019,Urgent Care/Clinic/Other Outpatient,02125,2979640.7
+2019,Urgent Care/Clinic/Other Outpatient,02127,
+2019,Urgent Care/Clinic/Other Outpatient,02128,11958949.8
+2019,Urgent Care/Clinic/Other Outpatient,02215,5123813.2
+2019,Vocational School,02109,4267996.0
+2019,Worship Facility,02108,6689376.5
+2019,Worship Facility,02110,8639665.7
+2019,Worship Facility,02116,3526568729.3
+2019,Worship Facility,02118,9402427.8
+2019,Worship Facility,02125,
+2019,Worship Facility,02132,1889502.8
+2019,Worship Facility,02163,700245.1
+2019,Worship Facility,02215,6413775.1
+2020,ACTIVITY/SOCIAL CENTER,,
+2020,ADMINISTRATIVE BLDG,,
+2020,AIR FREIGHT TERMINAL,,
+2020,APARTMENT,,
+2020,APT 100+ UNITS,,
+2020,APT 31-99 UNITS,,
+2020,APT 7-30 UNITS,,
+2020,APT SUBSIDIZED HOUSING,,
+2020,ATHLETIC FACILITY,,
+2020,AUDITORIUM / SPORT CTR,,
+2020,AUDITORIUM / THEATER,,
+2020,Adult Education,02136,3984688.3
+2020,Ambulatory Surgical Center,02115,17445553.0
+2020,Apartment,,
+2020,Automobile Dealership,02135,3601380.6
+2020,BOST REDEVELOP AUTH,,
+2020,BOSTON HOUSING AUTH,,
+2020,Bar/Nightclub,02215,112811.0
+2020,CHARITABLE ORGANIZTN,,
+2020,"CHURCH, SYNAGOGUE",,
+2020,CO-OP APARTMENT,,
+2020,COLD STORAGE WAREHOUSE,,
+2020,COLLEGE,,
+2020,COM MULTI-USE,,
+2020,CONDO MAIN,,
+2020,CONDO MULTI-USE,,
+2020,College/University,02108,11223535.5
+2020,College/University,02111,254426122.3
+2020,College/University,02115,1916967584.8999999
+2020,College/University,02116,56862320.8
+2020,College/University,02125,3409560.5
+2020,College/University,02131,6792580.6
+2020,College/University,02134,9208440.1000000015
+2020,College/University,02163,27342133.9
+2020,College/University,02215,330551516.30000007
+2020,College/University,02467,202740976.4
+2020,Courthouse,02109,
+2020,Distribution Center,02109,7071434.8
+2020,Distribution Center,02118,8561936.4
+2020,Distribution Center,02119,3822859.3
+2020,Distribution Center,02126,1729732.9
+2020,Distribution Center,02129,4612730.4
+2020,Distribution Center,02136,335806.9
+2020,Distribution Center,02215,8741065.8
+2020,ELDERLY HOME,,
+2020,EXEMPT 121A PROPERTY,,
+2020,Enclosed Mall,02119,8664358.4
+2020,Enclosed Mall,02199,130335716.2
+2020,Energy/Power Station,02110,
+2020,Energy/Power Station,02111,
+2020,Energy/Power Station,02116,
+2020,Energy/Power Station,02128,27636997.5
+2020,Energy/Power Station,02215,26333999.1
+2020,FOOD PROCESS PLANT,,
+2020,Financial Office,02109,
+2020,Financial Office,02110,2997452.3
+2020,Financial Office,02111,109036643.8
+2020,Financial Office,02116,81873642.4
+2020,Financial Office,02210,34068555.6
+2020,Fire Station,02109,2111213.7
+2020,Fire Station,02110,5344761.2
+2020,Fire Station,02111,755885.9
+2020,Fire Station,02115,6556627.5
+2020,Fire Station,02116,1338194.1
+2020,Fire Station,02118,15413284.1
+2020,Fire Station,02119,2530375.0
+2020,Fire Station,02121,1315477.5
+2020,Fire Station,02122,2946546.2
+2020,Fire Station,02124,4021369.9
+2020,Fire Station,02125,800178.4
+2020,Fire Station,02127,2894027.0
+2020,Fire Station,02128,4186027.4
+2020,Fire Station,02129,2378765.2
+2020,Fire Station,02131,1754735.8
+2020,Fire Station,02132,2036835.1
+2020,Fire Station,02134,1554483.9
+2020,Fire Station,02135,6465441.0
+2020,Fire Station,02136,2514697.5
+2020,Fire Station,02169,1384191.5999999999
+2020,Fire Station,02171,79517.8
+2020,Fitness Center/Health Club/Gym,02114,5890520.0
+2020,Fitness Center/Health Club/Gym,02115,19639048.2
+2020,Fitness Center/Health Club/Gym,02128,3211174.5
+2020,Fitness Center/Health Club/Gym,02129,169439.9
+2020,Fitness Center/Health Club/Gym,02132,10929362.0
+2020,Fitness Center/Health Club/Gym,02134,3465907.6
+2020,Fitness Center/Health Club/Gym,02135,12103987.3
+2020,Fitness Center/Health Club/Gym,02215,38599619.3
+2020,Food Service,02121,6790274.0
+2020,HEALTH CLUB,,
+2020,HOSPITAL,,
+2020,HOTEL/LODGING,,
+2020,Hospital (General Medical & Surgical),02111,311846202.2
+2020,Hospital (General Medical & Surgical),02114,1072465837.0
+2020,Hospital (General Medical & Surgical),02115,977351456.0
+2020,Hospital (General Medical & Surgical),02118,522295973.3
+2020,Hospital (General Medical & Surgical),02124,101216403.1
+2020,Hospital (General Medical & Surgical),02129,68492654.0
+2020,Hospital (General Medical & Surgical),02130,182248719.0
+2020,Hospital (General Medical & Surgical),02132,1996193.0
+2020,Hospital (General Medical & Surgical),02135,195607040.4
+2020,Hospital (General Medical & Surgical),02215,812970373.2
+2020,Hotel,02108,78117150.2
+2020,Hotel,02109,53935751.9
+2020,Hotel,02110,61344817.9
+2020,Hotel,02111,90163880.3
+2020,Hotel,02114,74846533.699999988
+2020,Hotel,02115,28426479.4
+2020,Hotel,02116,495820415.6
+2020,Hotel,02118,4237890.3
+2020,Hotel,02122,8673056.9
+2020,Hotel,02125,20705136.7
+2020,Hotel,02128,95165632.3
+2020,Hotel,02129,27744962.3
+2020,Hotel,02134,30238155.8
+2020,Hotel,02135,4838068.3
+2020,Hotel,02199,122496503.8
+2020,Hotel,02210,55155101547.7
+2020,Hotel,02215,45047006.9
+2020,Hotel,48242,17055397.8
+2020,Hotel,55403,7848112.0
+2020,Hotel,64108,107413939.7
+2020,INDUSTRIAL LOFT,,
+2020,Ice/Curling Rink,02134,16097832.0
+2020,Indoor Arena,02114,101306305.2
+2020,Indoor Arena,02134,10295177.0
+2020,Indoor Arena,02215,67293050.8
+2020,K-12 School,02111,14362970.0
+2020,K-12 School,02113,3256965.9
+2020,K-12 School,02115,23044017.2
+2020,K-12 School,02116,12760355.200000001
+2020,K-12 School,02118,24285881.0
+2020,K-12 School,02119,46390854.099999994
+2020,K-12 School,02120,65184822.2
+2020,K-12 School,02121,71751158.7
+2020,K-12 School,02122,46034678.199999996
+2020,K-12 School,02124,57803065.800000004
+2020,K-12 School,02125,36009936.6
+2020,K-12 School,02126,33868940.2
+2020,K-12 School,02127,37405647.6
+2020,K-12 School,02128,61782397.4
+2020,K-12 School,02129,32921570.6
+2020,K-12 School,02130,61771317.1
+2020,K-12 School,02131,22373520.799999997
+2020,K-12 School,02132,63755026.600000009
+2020,K-12 School,02134,24902220.400000002
+2020,K-12 School,02135,34965694.699999996
+2020,K-12 School,02136,36091719.0
+2020,K-12 School,02215,2468020.7
+2020,LIGHT MFG / R & D,,
+2020,Laboratory,02114,38202992.0
+2020,Laboratory,02115,452174380.6
+2020,Laboratory,02118,389323904.2
+2020,Laboratory,02129,18662071.0
+2020,Laboratory,02215,445206066.90000004
+2020,Library,02113,782415.3
+2020,Library,02114,746034.0
+2020,Library,02115,5078687.0
+2020,Library,02116,67480592.4
+2020,Library,02118,815811.4
+2020,Library,02119,550982.3
+2020,Library,02120,998338.4
+2020,Library,02122,568038.1
+2020,Library,02124,2476519.3
+2020,Library,02126,3111001.1
+2020,Library,02127,765445.6
+2020,Library,02128,1409702.9000000001
+2020,Library,02129,1061925.2
+2020,Library,02130,899992.4
+2020,Library,02132,1322665.6
+2020,Library,02134,3266407.8
+2020,Library,02135,1866835.4000000001
+2020,Library,02163,12828148.7
+2020,Library,02215,30089510.0
+2020,MANUFACTURING,,
+2020,MEDICAL CLINIC,,
+2020,MEDICAL OFFICE,,
+2020,MINI-STORAGE WHSE,,
+2020,MOTEL,,
+2020,Manufacturing/Industrial Plant,02118,98060407.7
+2020,Manufacturing/Industrial Plant,02119,2301640.5
+2020,Manufacturing/Industrial Plant,02122,
+2020,Manufacturing/Industrial Plant,02125,5916042.4
+2020,Manufacturing/Industrial Plant,02127,929330981.7
+2020,Manufacturing/Industrial Plant,02128,1732575.5
+2020,Manufacturing/Industrial Plant,02129,5390009.3999999994
+2020,Medical Office,02109,5429430.3
+2020,Medical Office,02114,171511895.3
+2020,Medical Office,02115,7297219.0
+2020,Medical Office,02118,51001861.300000004
+2020,Medical Office,02127,5499814.7
+2020,Medical Office,02129,226894529.0
+2020,Medical Office,02135,25764262.5
+2020,Medical Office,02215,186690065.0
+2020,Medical Office,02467,4948459.7
+2020,Mixed Use Property,02108,2664138.1
+2020,Mixed Use Property,02109,84471482.7
+2020,Mixed Use Property,02110,79186875.6
+2020,Mixed Use Property,02111,156068123.20000002
+2020,Mixed Use Property,02116,45340088.2
+2020,Mixed Use Property,02118,10385541.8
+2020,Mixed Use Property,02120,30675770.4
+2020,Mixed Use Property,02125,4223950.1
+2020,Mixed Use Property,02128,11255280.5
+2020,Mixed Use Property,02130,9126972.1
+2020,Mixed Use Property,02135,4662521.1
+2020,Mixed Use Property,02163,15872665.2
+2020,Mixed Use Property,02215,96228565.5
+2020,Movie Theater,02111,8189311.6
+2020,Multifamily Housing,01234,9383934.3
+2020,Multifamily Housing,02026,48741883.6
+2020,Multifamily Housing,02108,58517352.8
+2020,Multifamily Housing,02109,96625797.7
+2020,Multifamily Housing,02110,131932697.3
+2020,Multifamily Housing,02111,300886132.4
+2020,Multifamily Housing,02113,19424637.7
+2020,Multifamily Housing,02114,347126308.79999995
+2020,Multifamily Housing,02115,368760461.5999999
+2020,Multifamily Housing,02116,6733424143.3000011
+2020,Multifamily Housing,02118,494390849.8
+2020,Multifamily Housing,02119,243371815.99999994
+2020,Multifamily Housing,02120,159305828.7
+2020,Multifamily Housing,02121,112335810.89999999
+2020,Multifamily Housing,02122,38186190.600000009
+2020,Multifamily Housing,02124,164191549.9
+2020,Multifamily Housing,02125,71823448.699999988
+2020,Multifamily Housing,02126,72165979.600000009
+2020,Multifamily Housing,02127,361830577.99999994
+2020,Multifamily Housing,02128,152938515.4
+2020,Multifamily Housing,02129,240291110.39999995
+2020,Multifamily Housing,02130,394628145.29999995
+2020,Multifamily Housing,02131,144876334.59999996
+2020,Multifamily Housing,02132,60121485.400000006
+2020,Multifamily Housing,02134,132060051.00000001
+2020,Multifamily Housing,02135,445257294.09999979
+2020,Multifamily Housing,02136,108865129.10000001
+2020,Multifamily Housing,02199,139074869.1
+2020,Multifamily Housing,02210,208916547.89999998
+2020,Multifamily Housing,02215,265563149.00000003
+2020,Multifamily Housing,02216,2081319.6
+2020,Multifamily Housing,02446,2788376.0
+2020,Multifamily Housing,02467,48847237.699999996
+2020,Multifamily Housing,02481,4716528.9
+2020,Multifamily Housing,20118,1779703.6
+2020,Multifamily Housing,21121,4598410.2
+2020,Multifamily Housing,92116,260939.5
+2020,Multiple use Property ,,
+2020,Museum,02114,56784574.9
+2020,Museum,02115,17166282.4
+2020,Museum,02210,11568718.3
+2020,Museum,02215,4412737.2
+2020,NEW MANUFACTURING,,
+2020,NIGHT CLUB,,
+2020,NURSING HOME,,
+2020,Non-Refrigerated Warehouse,02119,4359329.1999999993
+2020,Non-Refrigerated Warehouse,02125,93066.1
+2020,Non-Refrigerated Warehouse,02127,411538.8
+2020,Non-Refrigerated Warehouse,02129,2752529.5
+2020,Non-Refrigerated Warehouse,02132,8524887.6
+2020,Non-Refrigerated Warehouse,02135,8346421.7
+2020,Non-Refrigerated Warehouse,02136,24960385.9
+2020,Non-Refrigerated Warehouse,02210,38417756.1
+2020,Not Available,02108,4989870.4
+2020,Not Available,02110,
+2020,Not Available,02215,30770917.1
+2020,OFFICE,,
+2020,OFFICE 1-2 STORY,,
+2020,OFFICE 3-9 STORY,,
+2020,OFFICE BUILDING,,
+2020,OFFICE/INDUSTRIAL USE,,
+2020,OLD MANUFACTURING,,
+2020,OTHER EXEMPT BLDG,,
+2020,Office,02026,4685759.4
+2020,Office,02108,379308746.29999995
+2020,Office,02109,486221529.79999995
+2020,Office,02110,1204678242.7000003
+2020,Office,02111,1318187983.7000003
+2020,Office,02114,1876702903.8999999
+2020,Office,02115,22868978.2
+2020,Office,02116,720743040.3
+2020,Office,02118,66100773.2
+2020,Office,02119,24113802.6
+2020,Office,02120,16179055.5
+2020,Office,02121,4639390.6
+2020,Office,02122,3797293.4000000004
+2020,Office,02125,84302415.1
+2020,Office,02126,525490.1
+2020,Office,02127,24310609.5
+2020,Office,02129,87733741.2
+2020,Office,02130,1826842.7
+2020,Office,02131,192934.9
+2020,Office,02134,19083900.299999997
+2020,Office,02135,42916681.8
+2020,Office,02136,409936.4
+2020,Office,02138,897251.7
+2020,Office,02144,14961745.6
+2020,Office,02163,12184687.9
+2020,Office,02199,314592253.3
+2020,Office,02201,55900447.0
+2020,Office,02203,62275804.2
+2020,Office,02210,735673556.30000007
+2020,Office,02215,205709159.39999998
+2020,Office,02222,
+2020,Other,02108,36266570.9
+2020,Other,02110,10838288.0
+2020,Other,02111,706250.6
+2020,Other,02114,15155827.5
+2020,Other,02116,14469458.7
+2020,Other,02118,29234571.7
+2020,Other,02119,800478.5
+2020,Other,02120,205797.7
+2020,Other,02122,319512.9
+2020,Other,02125,5672736.0
+2020,Other,02127,8234725.6999999993
+2020,Other,02128,1189675.0
+2020,Other,02129,73595400.5
+2020,Other,02130,8472515.3
+2020,Other,02131,2512671.9
+2020,Other,02132,330503.4
+2020,Other,02134,23501082.1
+2020,Other,02135,893697.7
+2020,Other,02136,681218.1
+2020,Other,02210,38937056.1
+2020,Other,02215,446817471.69999993
+2020,Other,02446,445521.9
+2020,Other - Education,02113,563287.1
+2020,Other - Education,02116,5431226.4
+2020,Other - Education,02119,2653099.4
+2020,Other - Education,02120,11407179.9
+2020,Other - Education,02135,
+2020,Other - Entertainment/Public Assembly,02110,24735490.7
+2020,Other - Entertainment/Public Assembly,02122,5518741.9
+2020,Other - Entertainment/Public Assembly,02125,5600975.4
+2020,Other - Entertainment/Public Assembly,02128,22554596.1
+2020,Other - Entertainment/Public Assembly,02136,1009734.3
+2020,Other - Entertainment/Public Assembly,02163,15800859.9
+2020,Other - Lodging/Residential,02114,4080946.9000000004
+2020,Other - Lodging/Residential,02115,9421318.7
+2020,Other - Lodging/Residential,02116,
+2020,Other - Lodging/Residential,02118,42637683.0
+2020,Other - Lodging/Residential,02124,1541359.2
+2020,Other - Lodging/Residential,02129,1168193.8
+2020,Other - Lodging/Residential,02130,2831892.7
+2020,Other - Lodging/Residential,02134,542259.4
+2020,Other - Lodging/Residential,02135,
+2020,Other - Lodging/Residential,02215,3121905.7
+2020,Other - Lodging/Residential,02467,
+2020,Other - Mall,02108,14453083.4
+2020,Other - Mall,02109,2050911.6
+2020,Other - Mall,02116,657487.8
+2020,Other - Mall,02121,12882796.1
+2020,Other - Public Services,02116,6880688.3
+2020,Other - Public Services,02118,1142474.1
+2020,Other - Public Services,02128,805537.4
+2020,Other - Public Services,02210,85085.1
+2020,Other - Recreation,02109,229439.9
+2020,Other - Recreation,02113,1645860.4
+2020,Other - Recreation,02116,8408506.2
+2020,Other - Recreation,02119,9635070.4
+2020,Other - Recreation,02120,5979431.5
+2020,Other - Recreation,02124,2423862.7
+2020,Other - Recreation,02126,1672368.7
+2020,Other - Recreation,02127,8775879.6
+2020,Other - Recreation,02128,4184925.6
+2020,Other - Recreation,02130,5731512.4
+2020,Other - Recreation,02131,5047334.7
+2020,Other - Recreation,02132,3798085.4
+2020,Other - Recreation,02134,7535746.4
+2020,Other - Recreation,02136,1159440.3
+2020,Other - Services,02129,4158420.7
+2020,Other - Specialty Hospital,02115,1038107840.0
+2020,Other - Specialty Hospital,02119,792805.8
+2020,Other - Specialty Hospital,02130,24929942.3
+2020,Other - Stadium,02215,9693182.2
+2020,Other - Technology/Science,02111,18854234.0
+2020,Other - Technology/Science,02114,36908144.5
+2020,Other - Technology/Science,02115,25157334.3
+2020,Other - Technology/Science,02119,10359913.1
+2020,Other - Technology/Science,02124,13106727.3
+2020,Other - Utility,02163,10901632.3
+2020,Outpatient Rehabilitation/Physical Therapy,02115,76873551.0
+2020,PARKING GARAGE,,
+2020,PARKING LOT,,
+2020,PRIV SCHOOL /COLLEGE,,
+2020,Parking,02108,6301599.5
+2020,Parking,02109,4107639.0
+2020,Parking,02115,16302540.5
+2020,Parking,02118,254736.7
+2020,Parking,02127,1552467.9
+2020,Parking,02129,2528860.0
+2020,Parking,02134,6458871.6000000006
+2020,Parking,02189,6525426.4
+2020,Parking,02210,13598053.799999999
+2020,Parking,02215,929939.5
+2020,Parking,02218,
+2020,Performing Arts,02111,8168778.2
+2020,Performing Arts,02115,4349057.0
+2020,Performing Arts,02116,17736010.5
+2020,Police Station,02114,5471584.1
+2020,Police Station,02118,6152706.2
+2020,Police Station,02119,7239828.1
+2020,Police Station,02120,37437042.1
+2020,Police Station,02122,2481359.0
+2020,Police Station,02124,2740921.5
+2020,Police Station,02125,561964.9
+2020,Police Station,02126,235338.0
+2020,Police Station,02127,412158.1
+2020,Police Station,02128,1722528.7
+2020,Police Station,02129,2061181.0
+2020,Police Station,02130,1804275.7
+2020,Police Station,02132,2569105.3
+2020,Police Station,02136,21488784.4
+2020,Police Station,02169,17773.1
+2020,Police Station,02171,474195.4
+2020,Police Station,02201,2247543.5
+2020,Pre-school/Daycare,02118,721029.1
+2020,RECREATION BUILDING,,
+2020,"RECTORY, CONVENT",,
+2020,REHAB/COVALES FACILITY,,
+2020,RELIGIOUS ORGANIZATN,,
+2020,REPAIR GARAGE,,
+2020,RES/COMMERCIAL USE,,
+2020,RETAIL STORE,,
+2020,RETAIL USE,,
+2020,RETAIL/OFFICE,,
+2020,RETAIL/WHLSALE/SERVICE,,
+2020,Race Track,02134,2598481.5
+2020,Refrigerated Warehouse,02118,7962516.6
+2020,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02119,2665493.1
+2020,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02125,1449758.7
+2020,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02126,35484.8
+2020,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02127,2006977.0
+2020,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02130,24521.6
+2020,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02131,1564252.5
+2020,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02132,191855.6
+2020,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02134,5834847.4
+2020,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02136,359439.9
+2020,Residence Hall/Dormitory,02108,21498094.9
+2020,Residence Hall/Dormitory,02111,18239082.9
+2020,Residence Hall/Dormitory,02114,22254.8
+2020,Residence Hall/Dormitory,02115,32255887.4
+2020,Residence Hall/Dormitory,02116,47781248.0
+2020,Residence Hall/Dormitory,02119,3041930.5
+2020,Residence Hall/Dormitory,02122,394887.1
+2020,Residence Hall/Dormitory,02163,38475528.7
+2020,Residence Hall/Dormitory,02171,3028968.9
+2020,Residence Hall/Dormitory,02215,353412384.3
+2020,Residential Care Facility,02130,3669627.1999999997
+2020,Residential Care Facility,02135,4829672.0
+2020,Restaurant,02110,33640567.5
+2020,Retail Store,02108,12839379.1
+2020,Retail Store,02109,65475.2
+2020,Retail Store,02110,34153988.0
+2020,Retail Store,02111,5771701.5
+2020,Retail Store,02115,8282019.5
+2020,Retail Store,02116,5237081.1
+2020,Retail Store,02119,3162778.7
+2020,Retail Store,02122,2576783.0
+2020,Retail Store,02125,17291954.5
+2020,Retail Store,02130,
+2020,Retail Store,02132,10450705.0
+2020,Retail Store,02134,1524443.4
+2020,Retail Store,02199,20387388.0
+2020,Retail Store,02215,16426933.0
+2020,SCHOOL,,
+2020,SCHOOL (TAXABLE),,
+2020,SHOWROOM,,
+2020,SHOWROOM (AUTO),,
+2020,STORAGE AREA,,
+2020,SUPERMARKET,,
+2020,Self-Storage Facility,02118,6400358.0
+2020,Self-Storage Facility,02122,1086107.7
+2020,Self-Storage Facility,02125,2393626.3
+2020,Self-Storage Facility,02126,899819.8
+2020,Self-Storage Facility,02127,4121497.8
+2020,Self-Storage Facility,02128,910361.6
+2020,Self-Storage Facility,02129,3117551.5999999996
+2020,Self-Storage Facility,02130,3522395.0
+2020,Self-Storage Facility,02131,371197.1
+2020,Self-Storage Facility,02135,3490385.9000000004
+2020,Self-Storage Facility,02136,1769716.8
+2020,Senior Care Community,02120,6278744.5
+2020,Senior Care Community,02122,7187658.6
+2020,Senior Care Community,02124,10993842.3
+2020,Senior Care Community,02128,401881871.5
+2020,Senior Care Community,02130,13765796.2
+2020,Senior Care Community,02135,2313336.0
+2020,Senior Care Community,02136,0.0
+2020,Single Family Home,02163,627206.0
+2020,Social/Meeting Hall,02111,4401177.8
+2020,Social/Meeting Hall,02128,756893.0
+2020,Social/Meeting Hall,02131,4056914.9
+2020,Social/Meeting Hall,02132,1399909.3
+2020,Social/Meeting Hall,02163,1437220.3
+2020,Social/Meeting Hall,02215,2841451.4
+2020,Stadium (Open),02134,7647791.0
+2020,Stadium (Open),02215,81745273.6
+2020,Strip Mall,02125,44236100.1
+2020,Strip Mall,02126,4475985.2
+2020,Strip Mall,02129,6622736.4
+2020,Strip Mall,02135,1286347.9
+2020,Strip Mall,02467,6402139.7
+2020,Supermarket/Grocery Store,02110,8426406.2
+2020,Supermarket/Grocery Store,02115,8137109.1
+2020,Supermarket/Grocery Store,02122,14766647.8
+2020,Supermarket/Grocery Store,02130,8802893.1
+2020,Supermarket/Grocery Store,02131,9071832.6
+2020,Supermarket/Grocery Store,02134,16069556.7
+2020,Supermarket/Grocery Store,02136,24744645.5
+2020,Supermarket/Grocery Store,02199,14970545.6
+2020,Supermarket/Grocery Store,02215,22007501.5
+2020,Supermarket/Grocery Store,02481,17831090.4
+2020,TENNIS/ RACQUET CLUB,,
+2020,TRAINING FACILITY,,
+2020,U.S. GOVERNMENT,,
+2020,Urgent Care/Clinic/Other Outpatient,02118,9598059.5
+2020,Urgent Care/Clinic/Other Outpatient,02119,249706.8
+2020,Urgent Care/Clinic/Other Outpatient,02125,1440524.5
+2020,Urgent Care/Clinic/Other Outpatient,02127,400415.2
+2020,Urgent Care/Clinic/Other Outpatient,02128,11447063.5
+2020,Urgent Care/Clinic/Other Outpatient,02215,6927118.9
+2020,VACANT LAND,,
+2020,WAREHOUSE,,
+2020,Wholesale Club/Supercenter,02210,1694244.2
+2020,Worship Facility,02108,2898976.5
+2020,Worship Facility,02110,8358306.7
+2020,Worship Facility,02116,6236534.0
+2020,Worship Facility,02118,12227090.5
+2020,Worship Facility,02125,
+2020,Worship Facility,02163,604551.8
+2020,Worship Facility,02215,7386431.9
+2021,,02135,
+2021,ACTIVITY/SOCIAL CENTER,02122,
+2021,ACTIVITY/SOCIAL CENTER,02128,
+2021,ACTIVITY/SOCIAL CENTER,02215,
+2021,ADMINISTRATIVE BLDG,02129,
+2021,ADMINISTRATIVE BLDG,02199,
+2021,APT 100+ UNITS,02126,
+2021,APT 100+ UNITS,02131,
+2021,APT 100+ UNITS,02135,
+2021,APT 31-99 UNITS,02115,
+2021,APT 31-99 UNITS,02120,
+2021,APT 31-99 UNITS,02122,
+2021,APT 31-99 UNITS,02125,
+2021,APT 31-99 UNITS,02126,
+2021,APT 31-99 UNITS,02127,
+2021,APT 31-99 UNITS,02129,
+2021,APT 31-99 UNITS,02130,
+2021,APT 31-99 UNITS,02132,
+2021,APT 31-99 UNITS,02134,
+2021,APT 31-99 UNITS,02135,
+2021,APT 31-99 UNITS,02136,
+2021,APT 31-99 UNITS,02215,
+2021,APT 7-30 UNITS,02108,
+2021,APT 7-30 UNITS,02116,
+2021,APT 7-30 UNITS,02127,
+2021,APT 7-30 UNITS,02130,
+2021,APT 7-30 UNITS,02134,
+2021,APT 7-30 UNITS,02135,
+2021,APT 7-30 UNITS,02136,
+2021,APT SUBSIDIZED HOUSING,02111,
+2021,APT SUBSIDIZED HOUSING,02115,
+2021,APT SUBSIDIZED HOUSING,02119,
+2021,APT SUBSIDIZED HOUSING,02121,
+2021,APT SUBSIDIZED HOUSING,02124,
+2021,APT SUBSIDIZED HOUSING,02125,
+2021,APT SUBSIDIZED HOUSING,02129,
+2021,APT SUBSIDIZED HOUSING,02130,
+2021,APT SUBSIDIZED HOUSING,02134,
+2021,APT SUBSIDIZED HOUSING,02136,
+2021,ATHLETIC FACILITY,02122,
+2021,AUDITORIUM / SPORT CTR,02115,
+2021,AUDITORIUM / SPORT CTR,02116,
+2021,AUDITORIUM / THEATER,02115,
+2021,Adult Education,02136,3389188.1
+2021,Ambulatory Surgical Center,02115,17665626.0
+2021,Apartment,02134,
+2021,Apartment,02215,
+2021,Apartment Property / APT 100+ UNITS,02126,
+2021,BOST REDEVELOP AUTH,02119,
+2021,BOST REDEVELOP AUTH,02129,
+2021,BOSTON HOUSING AUTH,02118,
+2021,BOSTON HOUSING AUTH,02129,
+2021,Bar/Nightclub,02215,103093.6
+2021,CHARITABLE ORGANIZTN,02114,
+2021,CHARITABLE ORGANIZTN,02115,
+2021,CHARITABLE ORGANIZTN,02120,
+2021,CHARITABLE ORGANIZTN,02121,
+2021,CHARITABLE ORGANIZTN,02130,
+2021,"CHURCH, SYNAGOGUE",02115,
+2021,"CHURCH, SYNAGOGUE",02118,
+2021,"CHURCH, SYNAGOGUE",02119,
+2021,"CHURCH, SYNAGOGUE",02124,
+2021,"CHURCH, SYNAGOGUE",02135,
+2021,CITY OF BOSTON,02119,
+2021,CO-OP APARTMENT,02118,
+2021,COLD STORAGE WAREHOUSE,02118,
+2021,COLLEGE,02111,
+2021,COLLEGE,02115,
+2021,COLLEGE,02118,
+2021,COLLEGE,02135,
+2021,COM MULTI-USE,02108,
+2021,COM MULTI-USE,02111,
+2021,COM MULTI-USE,02114,
+2021,COM MULTI-USE,02115,
+2021,COM MULTI-USE,02125,
+2021,COM MULTI-USE,02127,
+2021,COM MULTI-USE,02128,
+2021,COM MULTI-USE,02130,
+2021,COM MULTI-USE,02134,
+2021,COM MULTI-USE,02135,
+2021,COMM CONDO,02114,
+2021,CONDO MAIN,02108,
+2021,CONDO MAIN,02109,
+2021,CONDO MAIN,02110,
+2021,CONDO MAIN,02111,
+2021,CONDO MAIN,02113,
+2021,CONDO MAIN,02114,
+2021,CONDO MAIN,02115,
+2021,CONDO MAIN,02116,
+2021,CONDO MAIN,02118,
+2021,CONDO MAIN,02119,
+2021,CONDO MAIN,02120,
+2021,CONDO MAIN,02121,
+2021,CONDO MAIN,02122,
+2021,CONDO MAIN,02124,
+2021,CONDO MAIN,02125,
+2021,CONDO MAIN,02127,
+2021,CONDO MAIN,02128,
+2021,CONDO MAIN,02129,
+2021,CONDO MAIN,02130,
+2021,CONDO MAIN,02131,
+2021,CONDO MAIN,02132,
+2021,CONDO MAIN,02134,
+2021,CONDO MAIN,02135,
+2021,CONDO MAIN,02136,
+2021,CONDO MAIN,02210,
+2021,CONDO MAIN,02215,
+2021,CONDO MAIN,02467,
+2021,College/University,02108,9710649.0
+2021,College/University,02111,268946302.90000004
+2021,College/University,02115,1251823362.3999996
+2021,College/University,02116,36675689.2
+2021,College/University,02118,24837074.4
+2021,College/University,02130,10117849.5
+2021,College/University,02131,5316161.2
+2021,College/University,02134,11891102.5
+2021,College/University,02163,18419681.2
+2021,College/University,02215,276380750.1
+2021,College/University,02467,187638504.7
+2021,Commercial Property/SHOWROOM(AUTO),02135,
+2021,Courthouse,02109,59194924.4
+2021,Distribution Center,02109,5747046.8
+2021,Distribution Center,02118,6229050.0
+2021,Distribution Center,02119,3222174.2
+2021,Distribution Center,02126,
+2021,Distribution Center,02129,3495601.7
+2021,Distribution Center,02136,505001.2
+2021,ELDERLY HOME,02122,
+2021,ELDERLY HOME,02127,
+2021,ELDERLY HOME,02129,
+2021,ELDERLY HOME,02135,
+2021,EXEMPT 121A PROPERTY,02111,
+2021,EXEMPT 121A PROPERTY,02115,
+2021,EXEMPT 121A PROPERTY,02119,
+2021,EXEMPT 121A PROPERTY,02124,
+2021,EXEMPT 121A PROPERTY,02129,
+2021,EXEMPT 121A PROPERTY,02210,
+2021,Educational Private / Other,02114,
+2021,Enclosed Mall,02119,
+2021,Enclosed Mall,02199,95650599.2
+2021,Energy/Power Station,02110,
+2021,Energy/Power Station,02111,
+2021,Energy/Power Station,02116,
+2021,Energy/Power Station,02215,25259998.1
+2021,FOOD PROCESS PLANT,02118,
+2021,FOOD PROCESS PLANT,02119,
+2021,FOOD PROCESS PLANT,02130,
+2021,Financial Office,02109,3172423.8
+2021,Financial Office,02110,2996336.5
+2021,Financial Office,02111,114803262.5
+2021,Financial Office,02116,71451756.9
+2021,Financial Office,02210,42999397.2
+2021,Fire Station,02109,2073492.7
+2021,Fire Station,02110,5279290.1
+2021,Fire Station,02111,762086.9
+2021,Fire Station,02115,6598317.8
+2021,Fire Station,02116,1184787.0
+2021,Fire Station,02118,13259283.0
+2021,Fire Station,02119,2477358.1
+2021,Fire Station,02121,1198955.6
+2021,Fire Station,02122,2899680.8
+2021,Fire Station,02124,3463501.9
+2021,Fire Station,02125,746268.9
+2021,Fire Station,02127,3218801.7
+2021,Fire Station,02128,3493039.4
+2021,Fire Station,02129,3023001.1
+2021,Fire Station,02131,1703997.8
+2021,Fire Station,02132,1933553.2999999998
+2021,Fire Station,02134,1711205.1
+2021,Fire Station,02135,6832592.6
+2021,Fire Station,02136,1603653.9
+2021,Fire Station,02169,865359.9
+2021,Fire Station,02171,60691.9
+2021,Fire Station,02210,
+2021,Fitness Center/Health Club/Gym,02114,4502505.0
+2021,Fitness Center/Health Club/Gym,02128,
+2021,Fitness Center/Health Club/Gym,02129,119445.6
+2021,Fitness Center/Health Club/Gym,02134,2133655.0
+2021,Fitness Center/Health Club/Gym,02215,29092540.4
+2021,Fitness Center/Health Club/Gym,02467,22622100.4
+2021,Food Service,02121,7159798.9
+2021,HEALTH CLUB,02134,
+2021,HOSPITAL,02114,
+2021,HOSPITAL,02115,
+2021,HOSPITAL,02118,
+2021,HOSPITAL,02119,
+2021,HOSPITAL,02120,
+2021,HOSPITAL,02125,
+2021,HOSPITAL,02129,
+2021,HOSPITAL,02130,
+2021,HOSPITAL,02134,
+2021,HOSPITAL,02135,
+2021,HOSPITAL,02215,
+2021,HOTEL,02118,
+2021,HOTEL/LODGING,02108,
+2021,HOTEL/LODGING,02111,
+2021,HOTEL/LODGING,02115,
+2021,HOTEL/LODGING,02116,
+2021,HOTEL/LODGING,02119,
+2021,HOTEL/LODGING,02128,
+2021,HOTEL/LODGING,02129,
+2021,HOTEL/LODGING,02215,
+2021,Hospital (General Medical & Surgical),02111,314195386.1
+2021,Hospital (General Medical & Surgical),02114,1015838632.0
+2021,Hospital (General Medical & Surgical),02115,977342105.0
+2021,Hospital (General Medical & Surgical),02118,629730971.0
+2021,Hospital (General Medical & Surgical),02124,97162046.9
+2021,Hospital (General Medical & Surgical),02129,65627698.0
+2021,Hospital (General Medical & Surgical),02130,197781390.0
+2021,Hospital (General Medical & Surgical),02131,499650417.8
+2021,Hospital (General Medical & Surgical),02132,2951529.0
+2021,Hospital (General Medical & Surgical),02135,191048920.4
+2021,Hospital (General Medical & Surgical),02215,811193755.1
+2021,Hotel,02108,47879919.1
+2021,Hotel,02109,37867659.099999994
+2021,Hotel,02110,51833762.2
+2021,Hotel,02111,49388838.0
+2021,Hotel,02114,70991120.300000012
+2021,Hotel,02115,19672788.3
+2021,Hotel,02116,405978237.4
+2021,Hotel,02122,7301221.3
+2021,Hotel,02125,8498767.6
+2021,Hotel,02128,116358127.50000001
+2021,Hotel,02134,10291379.4
+2021,Hotel,02135,2841743.1
+2021,Hotel,02199,92655562.1
+2021,Hotel,02210,140274803.0
+2021,Hotel,02215,10557953.5
+2021,Hotel,64108,32709363.3
+2021,INDUSTRIAL LOFT,02118,
+2021,INDUSTRIAL LOFT,02127,
+2021,INDUSTRIAL LOFT,02131,
+2021,Ice/Curling Rink,02134,9610002.1
+2021,Indoor Arena,02114,54016681.6
+2021,Indoor Arena,02134,6382319.7
+2021,Indoor Arena,02215,58740134.8
+2021,K-12 School,02109,2205359.4
+2021,K-12 School,02111,12347512.1
+2021,K-12 School,02113,3948558.2
+2021,K-12 School,02115,21293504.5
+2021,K-12 School,02116,10754727.8
+2021,K-12 School,02118,25329921.299999997
+2021,K-12 School,02119,37683499.300000012
+2021,K-12 School,02120,90570233.2
+2021,K-12 School,02121,58245406.099999987
+2021,K-12 School,02122,46429207.6
+2021,K-12 School,02124,48199151.1
+2021,K-12 School,02125,63824889.999999993
+2021,K-12 School,02126,33613158.0
+2021,K-12 School,02127,40119702.5
+2021,K-12 School,02128,52436662.100000009
+2021,K-12 School,02129,26484980.9
+2021,K-12 School,02130,55802989.0
+2021,K-12 School,02131,18686370.5
+2021,K-12 School,02132,57250778.5
+2021,K-12 School,02134,23737773.2
+2021,K-12 School,02135,36310186.5
+2021,K-12 School,02136,31104182.700000003
+2021,K-12 School,02215,8416349.1
+2021,LABORATORY,02115,
+2021,LIGHT MFG / R & D,02119,
+2021,LIGHT MFG / R & D,02127,
+2021,LIGHT MFG / R & D,02129,
+2021,LIGHT MFG / R & D,02132,
+2021,LIGHT MFG / R & D,02135,
+2021,Laboratory,02114,35770818.0
+2021,Laboratory,02115,908918714.7
+2021,Laboratory,02118,301525689.59999996
+2021,Laboratory,02129,18302231.0
+2021,Laboratory,02210,243982583.8
+2021,Laboratory,02215,423959559.6
+2021,Library,02113,678982.6
+2021,Library,02114,668399.3
+2021,Library,02116,62457443.9
+2021,Library,02118,684987.4
+2021,Library,02119,486064.4
+2021,Library,02120,909368.5
+2021,Library,02121,
+2021,Library,02122,519997.6
+2021,Library,02124,2423883.8
+2021,Library,02126,3059000.2
+2021,Library,02127,625975.2
+2021,Library,02128,2024716.2999999998
+2021,Library,02129,922179.0
+2021,Library,02130,1043930.7999999999
+2021,Library,02131,
+2021,Library,02132,1571955.1
+2021,Library,02134,3296337.0999999996
+2021,Library,02135,1604705.6
+2021,Library,02163,10283656.4
+2021,Library,02215,33232331.1
+2021,MEDICAL CLINIC,02122,
+2021,MEDICAL CLINIC,02126,
+2021,MEDICAL OFFICE,02109,
+2021,MEDICAL OFFICE,02135,
+2021,MINI-STORAGE WHSE,02136,
+2021,MOTEL,02114,
+2021,Manufacturing/Industrial Plant,02118,92787164.800000012
+2021,Manufacturing/Industrial Plant,02119,2002796.8
+2021,Manufacturing/Industrial Plant,02125,7350681.0
+2021,Manufacturing/Industrial Plant,02127,927014042.9
+2021,Manufacturing/Industrial Plant,02128,1367605.6
+2021,Manufacturing/Industrial Plant,02129,16898451.0
+2021,Manufacturing/Industrial Plant,02134,204400184.8
+2021,Manufacturing/Industrial Plant,02210,8645792.8
+2021,Medical Office,02114,57920690.2
+2021,Medical Office,02115,7242867.7
+2021,Medical Office,02118,29472139.8
+2021,Medical Office,02127,4733722.3
+2021,Medical Office,02129,225267588.0
+2021,Medical Office,02135,25982853.4
+2021,Medical Office,02215,187166127.20000002
+2021,Medical Office,02467,4455169.5
+2021,Mixed Use Property,02109,70999167.6
+2021,Mixed Use Property,02110,60970808.8
+2021,Mixed Use Property,02111,3417704.5
+2021,Mixed Use Property,02115,12177297.0
+2021,Mixed Use Property,02116,36972733.1
+2021,Mixed Use Property,02120,62130518.900000006
+2021,Mixed Use Property,02125,3294662.0
+2021,Mixed Use Property,02128,11606659.9
+2021,Mixed Use Property,02130,9354722.7
+2021,Mixed Use Property,02163,13597697.4
+2021,Mixed Use Property,02215,84739265.7
+2021,Movie Theater,02111,6007713.5
+2021,Movie Theater,02125,5540966.3
+2021,Multifamily Housing,,11900045.4
+2021,Multifamily Housing,01234,8880782.1
+2021,Multifamily Housing,02108,43366453.1
+2021,Multifamily Housing,02109,96457184.800000012
+2021,Multifamily Housing,02110,134283985.2
+2021,Multifamily Housing,02111,369715539.8
+2021,Multifamily Housing,02113,25741705.700000003
+2021,Multifamily Housing,02114,327515000.0
+2021,Multifamily Housing,02115,361161662.6
+2021,Multifamily Housing,02116,346964033.70000011
+2021,Multifamily Housing,02118,443651502.9
+2021,Multifamily Housing,02119,238190107.00000009
+2021,Multifamily Housing,02120,128468607.00000001
+2021,Multifamily Housing,02121,115936502.1
+2021,Multifamily Housing,02122,38254532.099999994
+2021,Multifamily Housing,02124,137738457.1
+2021,Multifamily Housing,02125,86695121.3
+2021,Multifamily Housing,02126,89007903.2
+2021,Multifamily Housing,02127,272653974.59999996
+2021,Multifamily Housing,02128,171910027.6
+2021,Multifamily Housing,02129,258521442.8
+2021,Multifamily Housing,02130,270193413.0
+2021,Multifamily Housing,02131,138004768.8
+2021,Multifamily Housing,02132,50413032.900000006
+2021,Multifamily Housing,02134,156573084.59999996
+2021,Multifamily Housing,02135,459487361.99999982
+2021,Multifamily Housing,02136,105132973.0
+2021,Multifamily Housing,02139,387490.6
+2021,Multifamily Housing,02199,115974421.2
+2021,Multifamily Housing,02210,180937705.79999998
+2021,Multifamily Housing,02215,243474595.10000002
+2021,Multifamily Housing,02216,2106154.6
+2021,Multifamily Housing,02446,2891261.5
+2021,Multifamily Housing,02467,36416318.3
+2021,Multifamily Housing,02481,4025834.7
+2021,Multifamily Housing,20118,262442.2
+2021,Multifamily Housing,21121,4503512.3
+2021,Multifamily Housing,92116,257793.6
+2021,Museum,02114,41000246.4
+2021,Museum,02115,193131988.0
+2021,Museum,02210,9922952.7
+2021,Museum,02215,5255610.6
+2021,NURSING HOME,02109,
+2021,NURSING HOME,02132,
+2021,NURSING HOME,02135,
+2021,Non-Refrigerated Warehouse,02119,3847869.4
+2021,Non-Refrigerated Warehouse,02125,82048.6
+2021,Non-Refrigerated Warehouse,02127,
+2021,Non-Refrigerated Warehouse,02132,6186012.2
+2021,Non-Refrigerated Warehouse,02135,10469227.4
+2021,Non-Refrigerated Warehouse,02136,14075963.0
+2021,Non-Refrigerated Warehouse,02210,28129515.6
+2021,OFFICE,02126,
+2021,OFFICE 1-2 STORY,02122,
+2021,OFFICE 1-2 STORY,02125,
+2021,OFFICE 1-2 STORY,02132,
+2021,OFFICE 1-2 STORY,02135,
+2021,OFFICE 1-2 STORY,02215,
+2021,OFFICE 3-9 STORY,02108,
+2021,OFFICE 3-9 STORY,02109,
+2021,OFFICE 3-9 STORY,02111,
+2021,OFFICE 3-9 STORY,02113,
+2021,OFFICE 3-9 STORY,02114,
+2021,OFFICE 3-9 STORY,02115,
+2021,OFFICE 3-9 STORY,02116,
+2021,OFFICE 3-9 STORY,02118,
+2021,OFFICE 3-9 STORY,02122,
+2021,OFFICE 3-9 STORY,02125,
+2021,OFFICE 3-9 STORY,02127,
+2021,OFFICE 3-9 STORY,02132,
+2021,OFFICE 3-9 STORY,02215,
+2021,OFFICE BUILDING,02108,
+2021,OFFICE BUILDING,02109,
+2021,OFFICE BUILDING,02110,
+2021,OFFICE BUILDING,02115,
+2021,OFFICE BUILDING,02116,
+2021,OFFICE BUILDING,02127,
+2021,OFFICE BUILDING,02129,
+2021,OFFICE BUILDING,02135,
+2021,OFFICE BUILDING,02210,
+2021,OFFICE CONDO,02115,
+2021,OFFICE/ADMINISTR BLDG,02115,
+2021,OFFICE/ADMINISTR BLDG,02120,
+2021,OFFICE/INDUSTRIAL USE,02135,
+2021,OFFICE/INDUSTRIAL USE,02136,
+2021,OLD MANUFACTURING,02120,
+2021,OLD MANUFACTURING,02127,
+2021,OLD MANUFACTURING,02136,
+2021,OTHER EXEMPT BLDG,02108,
+2021,OTHER EXEMPT BLDG,02114,
+2021,OTHER EXEMPT BLDG,02115,
+2021,OTHER EXEMPT BLDG,02116,
+2021,OTHER EXEMPT BLDG,02118,
+2021,OTHER EXEMPT BLDG,02119,
+2021,OTHER EXEMPT BLDG,02120,
+2021,OTHER EXEMPT BLDG,02121,
+2021,OTHER EXEMPT BLDG,02122,
+2021,OTHER EXEMPT BLDG,02124,
+2021,OTHER EXEMPT BLDG,02125,
+2021,OTHER EXEMPT BLDG,02126,
+2021,OTHER EXEMPT BLDG,02127,
+2021,OTHER EXEMPT BLDG,02129,
+2021,OTHER EXEMPT BLDG,02130,
+2021,OTHER EXEMPT BLDG,02131,
+2021,OTHER EXEMPT BLDG,02132,
+2021,OTHER EXEMPT BLDG,02134,
+2021,OTHER EXEMPT BLDG,02135,
+2021,Office,02026,3589743.0
+2021,Office,02108,310993846.7
+2021,Office,02109,364877310.3
+2021,Office,02110,1094958172.1999998
+2021,Office,02111,230093986.49999994
+2021,Office,02114,1433712296.0000002
+2021,Office,02115,27897104.9
+2021,Office,02116,618697193.00000012
+2021,Office,02118,95031339.100000009
+2021,Office,02119,30978272.7
+2021,Office,02120,16182055.4
+2021,Office,02122,10646422.5
+2021,Office,02125,33398660.3
+2021,Office,02126,754999.2
+2021,Office,02127,20814686.1
+2021,Office,02129,72308681.5
+2021,Office,02131,181364.9
+2021,Office,02134,18791937.5
+2021,Office,02135,9490869.7
+2021,Office,02136,404207.9
+2021,Office,02138,1151726.6
+2021,Office,02144,11239722.3
+2021,Office,02163,10951725.499999998
+2021,Office,02199,258769502.4
+2021,Office,02201,54581581.4
+2021,Office,02203,56118091.5
+2021,Office,02210,703272437.30000019
+2021,Office,02215,141864845.9
+2021,Office,02222,25124939.1
+2021,Office Bldg,02127,
+2021,Other,02108,10115357.9
+2021,Other,02110,10950848.3
+2021,Other,02111,493338.1
+2021,Other,02114,4373010.6
+2021,Other,02115,2953552.5
+2021,Other,02116,14458735.5
+2021,Other,02118,41509303.8
+2021,Other,02119,1070516.3
+2021,Other,02120,206473.6
+2021,Other,02122,359571.9
+2021,Other,02124,
+2021,Other,02125,6607875.0
+2021,Other,02126,
+2021,Other,02127,5651826.4
+2021,Other,02128,8451017.9
+2021,Other,02129,286401309.7
+2021,Other,02130,9071559.0
+2021,Other,02131,2468724.1
+2021,Other,02132,361219.9
+2021,Other,02134,17722622.3
+2021,Other,02135,669756.6
+2021,Other,02136,507365.10000000003
+2021,Other,02210,58939817.8
+2021,Other,02215,443753036.79999995
+2021,Other - Education,02113,608530.2
+2021,Other - Education,02115,3344676.2
+2021,Other - Education,02119,2199524.9
+2021,Other - Education,02120,10269341.5
+2021,Other - Education,02135,24566815.1
+2021,Other - Entertainment/Public Assembly,02110,23041067.5
+2021,Other - Entertainment/Public Assembly,02122,4345442.1
+2021,Other - Entertainment/Public Assembly,02128,16358985.3
+2021,Other - Entertainment/Public Assembly,02136,974926.5
+2021,Other - Entertainment/Public Assembly,02163,12297825.0
+2021,Other - Lodging/Residential,02114,3866591.9
+2021,Other - Lodging/Residential,02118,14001466885.1
+2021,Other - Lodging/Residential,02130,
+2021,Other - Lodging/Residential,02134,909971.4
+2021,Other - Lodging/Residential,02215,2784542.9
+2021,Other - Mall,02108,13519709.6
+2021,Other - Mall,02109,2101719.5
+2021,Other - Mall,02116,758625.7
+2021,Other - Mall,02121,11420654.0
+2021,Other - Mall,02126,
+2021,Other - Public Services,02118,2338464.9
+2021,Other - Public Services,02128,614802.1
+2021,Other - Public Services,02210,70938.9
+2021,Other - Recreation,02109,128188.4
+2021,Other - Recreation,02111,
+2021,Other - Recreation,02113,1743769.4
+2021,Other - Recreation,02116,6159270.5
+2021,Other - Recreation,02119,10150592.7
+2021,Other - Recreation,02120,4616741.4
+2021,Other - Recreation,02124,2620415.5
+2021,Other - Recreation,02126,1878662.2
+2021,Other - Recreation,02127,5759697.0
+2021,Other - Recreation,02128,4411834.7
+2021,Other - Recreation,02130,4920239.3999999994
+2021,Other - Recreation,02131,4518801.0
+2021,Other - Recreation,02132,4018905.3
+2021,Other - Recreation,02134,3188627.1999999997
+2021,Other - Recreation,02136,920318.8
+2021,Other - Services,02129,4818328.3
+2021,Other - Specialty Hospital,02114,119669759.0
+2021,Other - Specialty Hospital,02115,978953635.5
+2021,Other - Specialty Hospital,02119,737042.4
+2021,Other - Specialty Hospital,02130,22608851.2
+2021,Other - Stadium,02215,9923540.4
+2021,Other - Technology/Science,02111,19557375.6
+2021,Other - Technology/Science,02114,35620208.2
+2021,Other - Technology/Science,02115,25527588.0
+2021,Other - Technology/Science,02119,10076730.2
+2021,Other - Technology/Science,02124,12338682.5
+2021,Other - Utility,02118,11129578.2
+2021,Other - Utility,02163,9172888.5
+2021,Outpatient Rehabilitation/Physical Therapy,02215,73019222.0
+2021,PARKING GARAGE,02109,
+2021,PARKING GARAGE,02120,
+2021,PARKING GARAGE,02127,
+2021,PARKING GARAGE,02129,
+2021,PARKING GARAGE,02215,
+2021,PARKING LOT,02130,
+2021,PRIV SCHOOL /COLLEGE,02111,
+2021,PRIV SCHOOL /COLLEGE,02115,
+2021,PRIV SCHOOL /COLLEGE,02116,
+2021,PRIV SCHOOL /COLLEGE,02132,
+2021,PRIV SCHOOL /COLLEGE,02135,
+2021,PRIV SCHOOL /COLLEGE,02215,
+2021,Parking,02108,3874809.4
+2021,Parking,02109,3551393.6
+2021,Parking,02111,1303472.0
+2021,Parking,02115,1399156.0
+2021,Parking,02116,9584170.1
+2021,Parking,02127,1320893.2
+2021,Parking,02129,2447527.0
+2021,Parking,02134,5343541.2
+2021,Parking,02210,8982967.9
+2021,Parking,02215,1116870.8
+2021,Performing Arts,02111,6655192.9
+2021,Performing Arts,02115,3246192.0
+2021,Performing Arts,02116,20259308.2
+2021,Performing Arts,02215,4067516.1
+2021,Police Station,02114,5001986.2
+2021,Police Station,02118,7392634.9
+2021,Police Station,02119,7857097.7
+2021,Police Station,02120,35714597.400000006
+2021,Police Station,02122,2535979.6
+2021,Police Station,02124,2564310.7
+2021,Police Station,02125,567885.1
+2021,Police Station,02126,220394.4
+2021,Police Station,02127,379711.3
+2021,Police Station,02128,1760522.3
+2021,Police Station,02129,2166716.9
+2021,Police Station,02130,1962250.8
+2021,Police Station,02132,2607859.1
+2021,Police Station,02136,21164350.1
+2021,Police Station,02169,
+2021,Police Station,02171,448765.9
+2021,Police Station,02201,2477169.4
+2021,Pre-school/Daycare,02118,2060611.6
+2021,Pre-school/Daycare,02121,4651820.4
+2021,RADIO TV STUDIO,02124,
+2021,RECREATION BUILDING,02136,
+2021,REHAB/COVALES FACILITY,02122,
+2021,REHAB/COVALES FACILITY,02127,
+2021,REHAB/COVALES FACILITY,02128,
+2021,REHAB/COVALES FACILITY,02132,
+2021,RELIGIOUS ORGANIZATN,02113,
+2021,RELIGIOUS ORGANIZATN,02120,
+2021,RELIGIOUS ORGANIZATN,02125,
+2021,RELIGIOUS ORGANIZATN,02135,
+2021,REPAIR GARAGE,02135,
+2021,RES/COMMERCIAL USE,02108,
+2021,RES/COMMERCIAL USE,02111,
+2021,RES/COMMERCIAL USE,02114,
+2021,RES/COMMERCIAL USE,02115,
+2021,RES/COMMERCIAL USE,02116,
+2021,RES/COMMERCIAL USE,02119,
+2021,RES/COMMERCIAL USE,02120,
+2021,RES/COMMERCIAL USE,02124,
+2021,RES/COMMERCIAL USE,02125,
+2021,RES/COMMERCIAL USE,02126,
+2021,RES/COMMERCIAL USE,02127,
+2021,RES/COMMERCIAL USE,02129,
+2021,RES/COMMERCIAL USE,02130,
+2021,RES/COMMERCIAL USE,02134,
+2021,RES/COMMERCIAL USE,02135,
+2021,RES/COMMERCIAL USE,02136,
+2021,RES/COMMERCIAL USE,02210,
+2021,RES/COMMERCIAL USE,02215,
+2021,RETAIL STORE,02111,
+2021,RETAIL STORE,02122,
+2021,RETAIL STORE,02125,
+2021,RETAIL STORE,02132,
+2021,RETAIL USE,02135,
+2021,RETAIL/OFFICE,02128,
+2021,RETAIL/OFFICE,02134,
+2021,RETAIL/OFFICE,02136,
+2021,RETAIL/WHLSALE/SERVICE,02109,
+2021,RETAIL/WHLSALE/SERVICE,02111,
+2021,RETAIL/WHLSALE/SERVICE,02116,
+2021,RETAIL/WHLSALE/SERVICE,02118,
+2021,RETAIL/WHLSALE/SERVICE,02121,
+2021,RETAIL/WHLSALE/SERVICE,02129,
+2021,RETAIL/WHLSALE/SERVICE,02135,
+2021,RETAIL/WHLSALE/SERVICE,02136,
+2021,ROOMING HOUSE,02130,
+2021,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02116,
+2021,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02119,2514010.3
+2021,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02125,1266280.5
+2021,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02126,32234.9
+2021,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02127,6455476.1
+2021,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02130,77183.7
+2021,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02131,406670.6
+2021,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02132,144685.7
+2021,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02134,2601833.2
+2021,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02136,743209.60000000009
+2021,Residence Hall/Dormitory,02108,8045544.0
+2021,Residence Hall/Dormitory,02111,6430091.7
+2021,Residence Hall/Dormitory,02114,130754.1
+2021,Residence Hall/Dormitory,02116,39860842.5
+2021,Residence Hall/Dormitory,02119,2931360.0
+2021,Residence Hall/Dormitory,02122,447410.9
+2021,Residence Hall/Dormitory,02126,
+2021,Residence Hall/Dormitory,02163,28849932.1
+2021,Residence Hall/Dormitory,02171,1167672.2
+2021,Residence Hall/Dormitory,02215,316216873.4
+2021,Residential Care Facility,02119,2859591.0
+2021,Residential Care Facility,02130,423229.4
+2021,Residential Care Facility,02135,4414441.8
+2021,Restaurant,02110,23482489.1
+2021,Retail Store,02108,9858744.7
+2021,Retail Store,02109,97446.7
+2021,Retail Store,02110,27511990.8
+2021,Retail Store,02111,
+2021,Retail Store,02115,929789.8
+2021,Retail Store,02116,6494257.4
+2021,Retail Store,02119,4829208.4
+2021,Retail Store,02122,1336171.9
+2021,Retail Store,02125,6345714.2
+2021,Retail Store,02132,10355427.5
+2021,Retail Store,02134,1478343.9
+2021,Retail Store,02199,14938021.4
+2021,Retail Store,02215,15227717.5
+2021,SCHOOL,02116,
+2021,SCHOOL,02119,
+2021,SCHOOL,02122,
+2021,SCHOOL,02125,
+2021,SCHOOL,02130,
+2021,SCHOOL,02136,
+2021,SCHOOL (TAXABLE),02109,
+2021,SELF STORAGE WAREHOUSE,02127,
+2021,SHOPPING CENTER,02136,
+2021,SHOWROOM,02132,
+2021,SHOWROOM,02135,
+2021,SUBTERRANEAN GARAGE,02114,
+2021,SUPERMARKET,02122,
+2021,SUPERMARKET,02124,
+2021,SUPERMARKET,02126,
+2021,SUPERMARKET,02128,
+2021,SUPERMARKET,02131,
+2021,SUPERMARKET,02132,
+2021,SUPERMARKET,02134,
+2021,SUPERMARKET,02135,
+2021,SUPERMARKET,02136,
+2021,Self-Storage Facility,02118,5674712.1999999993
+2021,Self-Storage Facility,02122,763409.1
+2021,Self-Storage Facility,02125,2198021.2
+2021,Self-Storage Facility,02126,777967.4
+2021,Self-Storage Facility,02127,1689434.3
+2021,Self-Storage Facility,02128,1206024.1
+2021,Self-Storage Facility,02129,736590.1
+2021,Self-Storage Facility,02130,3251306.5
+2021,Self-Storage Facility,02131,412296.3
+2021,Self-Storage Facility,02135,3862507.6
+2021,Self-Storage Facility,02136,1785779.6
+2021,Senior Care Community,02114,
+2021,Senior Care Community,02115,3281444.0
+2021,Senior Living Community,02120,5605559.0
+2021,Senior Living Community,02122,9904079.7
+2021,Senior Living Community,02124,10450168.3
+2021,Senior Living Community,02130,11978280.0
+2021,Senior Living Community,02135,
+2021,Senior Living Community,02136,1064187.1
+2021,Single Family Home,02163,609317.7
+2021,Social/Meeting Hall,02111,4364080.2
+2021,Social/Meeting Hall,02128,640899.8
+2021,Social/Meeting Hall,02131,2369773.3
+2021,Social/Meeting Hall,02132,1404652.6
+2021,Social/Meeting Hall,02163,957949.5
+2021,Social/Meeting Hall,02215,31402050.4
+2021,Stadium (Open),02134,10781795.5
+2021,Stadium (Open),02215,
+2021,Strip Mall,02110,3054804.1
+2021,Strip Mall,02114,7871124.2
+2021,Strip Mall,02125,37301692.099999994
+2021,Strip Mall,02126,3325480.7
+2021,Strip Mall,02129,5621730.0
+2021,Strip Mall,02130,2718393.9
+2021,Strip Mall,02467,6699012.5
+2021,Supermarket/Grocery Store,02110,5003876.6
+2021,Supermarket/Grocery Store,02115,6924062.3
+2021,Supermarket/Grocery Store,02130,9162556.5
+2021,Supermarket/Grocery Store,02199,14360874.7
+2021,Supermarket/Grocery Store,02210,4164426.9
+2021,Supermarket/Grocery Store,02215,18494449.4
+2021,Supermarket/Grocery Store,02481,16104258.3
+2021,TENNIS/ RACQUET CLUB,02115,
+2021,TRAINING FACILITY,02116,
+2021,TRAINING FACILITY,02119,
+2021,U.S. GOVERNMENT,02111,
+2021,Urgent Care/Clinic/Other Outpatient,02118,16019080.700000001
+2021,Urgent Care/Clinic/Other Outpatient,02119,248640.1
+2021,Urgent Care/Clinic/Other Outpatient,02125,1472666.2
+2021,Urgent Care/Clinic/Other Outpatient,02127,365418.1
+2021,Urgent Care/Clinic/Other Outpatient,02128,12242761.5
+2021,VACANT LAND,02114,
+2021,VACANT LAND,02118,
+2021,WAREHOUSE,02118,
+2021,WAREHOUSE,02119,
+2021,WAREHOUSE,02122,
+2021,WAREHOUSE,02125,
+2021,WAREHOUSE,02127,
+2021,WAREHOUSE,02128,
+2021,WAREHOUSE,02129,
+2021,WAREHOUSE,02130,
+2021,WAREHOUSE,02136,
+2021,WAREHOUSE,02215,
+2021,Wholesale Club/Supercenter,02210,1642531.2
+2021,Worship Facility,02108,2896678.4000000004
+2021,Worship Facility,02110,7531218.9
+2021,Worship Facility,02116,3235000949.3999996
+2021,Worship Facility,02130,4645402.8
+2021,Worship Facility,02132,1442550.6
+2021,Worship Facility,02163,698574.7
+2021,Worship Facility,02215,6712120.1
+2022,Adult Education,02108,2795481.5
+2022,Ambulatory Surgical Center,02115,133444139.6
+2022,Ambulatory Surgical Center,02130,3136497.6
+2022,Automobile Dealership,02134,3351939.8
+2022,Bank Branch,02132,223205.2
+2022,College/University,02108,31939477.1
+2022,College/University,02111,49183913.199999996
+2022,College/University,02114,22339826.799999997
+2022,College/University,02115,464344565.90000004
+2022,College/University,02116,39796981.9
+2022,College/University,02118,45701025.3
+2022,College/University,02120,3087294.0
+2022,College/University,02129,4611351.9
+2022,College/University,02130,911630.0
+2022,College/University,02131,5772520.7
+2022,College/University,02134,60507427.4
+2022,College/University,02136,17052764.0
+2022,College/University,02137,4398724.8
+2022,College/University,02138,28657764.5
+2022,College/University,02139,22763103.1
+2022,College/University,02140,16648614.9
+2022,College/University,02141,1472146.0
+2022,College/University,02142,9309846.0
+2022,College/University,02143,995615.3
+2022,College/University,02144,1137042.2
+2022,College/University,02145,11567377.3
+2022,College/University,02146,23242017.9
+2022,College/University,02147,5148082.7
+2022,College/University,02148,4952815.3
+2022,College/University,02149,8420832.9
+2022,College/University,02150,2854779.2
+2022,College/University,02151,16771625.6
+2022,College/University,02152,14931416.9
+2022,College/University,02153,572111.8
+2022,College/University,02154,1059365.5
+2022,College/University,02155,1031465.4
+2022,College/University,02156,770730.8
+2022,College/University,02157,1040392.1
+2022,College/University,02158,2736714.4
+2022,College/University,02159,6332373.4
+2022,College/University,02160,15708311.8
+2022,College/University,02161,7428176.8
+2022,College/University,02162,13575175.8
+2022,College/University,02163,36996927.6
+2022,College/University,02164,6893143.1
+2022,College/University,02165,4306528.9
+2022,College/University,02166,2607959.8
+2022,College/University,02215,236837789.39999998
+2022,Convenience Store without Gas Station,02122,1959940.6
+2022,Convenience Store without Gas Station,02131,634012.7
+2022,Convenience Store without Gas Station,02135,1761447.2
+2022,Convention Center,02116,63569858.9
+2022,Convention Center,02210,82076366.1
+2022,Distribution Center,02118,9221895.9
+2022,Distribution Center,02119,4076547.5
+2022,Distribution Center,02127,637794.2
+2022,Distribution Center,02129,5295385.3
+2022,Distribution Center,02135,661764.7
+2022,Distribution Center,02136,4667701.1
+2022,Distribution Center,02210,
+2022,Energy/Power Station,02111,1764594.2
+2022,Energy/Power Station,02115,
+2022,Energy/Power Station,02116,
+2022,Energy/Power Station,02126,
+2022,Energy/Power Station,02215,25499998.3
+2022,Fast Food Restaurant,02114,262523.3
+2022,Financial Office,02108,612627.6
+2022,Financial Office,02109,4565858.3
+2022,Financial Office,02110,3264393.5
+2022,Financial Office,02111,106352933.3
+2022,Financial Office,02116,77361892.2
+2022,Financial Office,02125,36269141.1
+2022,Financial Office,02127,6941286.3
+2022,Financial Office,02210,15344510.799999999
+2022,Fire Station,02109,1671939.0
+2022,Fire Station,02110,3819079.2
+2022,Fire Station,02111,645409.4
+2022,Fire Station,02115,2889711.5999999996
+2022,Fire Station,02116,1070263.7
+2022,Fire Station,02118,852479.8
+2022,Fire Station,02119,4566472.4
+2022,Fire Station,02121,1100871.4
+2022,Fire Station,02122,2716817.0999999996
+2022,Fire Station,02124,889345.0
+2022,Fire Station,02125,797897.2
+2022,Fire Station,02127,2795522.0999999996
+2022,Fire Station,02128,2636620.0999999996
+2022,Fire Station,02129,3122433.3
+2022,Fire Station,02131,3364357.9
+2022,Fire Station,02132,1987569.7000000002
+2022,Fire Station,02134,1540336.1
+2022,Fire Station,02135,2520449.1
+2022,Fire Station,02136,1677593.2
+2022,Fire Station,02171,
+2022,Fitness Center/Health Club/Gym,02110,963281.7
+2022,Fitness Center/Health Club/Gym,02111,5087926.2
+2022,Fitness Center/Health Club/Gym,02115,1742835.0
+2022,Fitness Center/Health Club/Gym,02120,3657156.7
+2022,Fitness Center/Health Club/Gym,02122,1960842.2
+2022,Fitness Center/Health Club/Gym,02124,5281487.0
+2022,Fitness Center/Health Club/Gym,02128,230693.8
+2022,Fitness Center/Health Club/Gym,02132,7583337.0
+2022,Fitness Center/Health Club/Gym,02134,38133642.8
+2022,Fitness Center/Health Club/Gym,02135,7266887.9
+2022,Fitness Center/Health Club/Gym,02136,4204990.9
+2022,Food Sales,02118,1618328.4
+2022,Food Sales,02127,2015273.1
+2022,Food Sales,02210,10356371.9
+2022,Food Service,02119,8388382.9
+2022,Food Service,02121,6895471.4
+2022,Food Service,02127,10196190.9
+2022,Food Service,02128,8415200.1
+2022,Food Service,02135,1739660.3
+2022,Food Service,02136,10165640.1
+2022,Hospital (General Medical & Surgical),02111,322459761.2
+2022,Hospital (General Medical & Surgical),02114,182456436.5
+2022,Hospital (General Medical & Surgical),02115,928314601.2
+2022,Hospital (General Medical & Surgical),02116,13979088.1
+2022,Hospital (General Medical & Surgical),02118,382559030.0
+2022,Hospital (General Medical & Surgical),02119,20372532.8
+2022,Hospital (General Medical & Surgical),02120,182183316.1
+2022,Hospital (General Medical & Surgical),02130,202624022.4
+2022,Hospital (General Medical & Surgical),02131,82329140.7
+2022,Hospital (General Medical & Surgical),02135,30811987.4
+2022,Hospital (General Medical & Surgical),02215,323430268.1
+2022,Hotel,02108,48982349.6
+2022,Hotel,02109,29186861.9
+2022,Hotel,02110,69828728.0
+2022,Hotel,02111,55501281.1
+2022,Hotel,02113,1515504.0
+2022,Hotel,02114,73232972.3
+2022,Hotel,02115,22708324.7
+2022,Hotel,02116,299833297.90000004
+2022,Hotel,02119,6215061.4
+2022,Hotel,02122,7699806.9
+2022,Hotel,02125,19155655.9
+2022,Hotel,02127,7573751.3
+2022,Hotel,02128,38640106.7
+2022,Hotel,02129,5078885.4
+2022,Hotel,02130,3596326.6
+2022,Hotel,02134,5423532.4
+2022,Hotel,02199,114213322.3
+2022,Hotel,02210,186791825.8
+2022,Hotel,02215,25688600.6
+2022,Ice/Curling Rink,02134,11544680.4
+2022,Indoor Arena,02114,80970014.5
+2022,Indoor Arena,02115,
+2022,Indoor Arena,02134,45155773.1
+2022,Indoor Arena,02215,35565887.2
+2022,K-12 School,02109,2016858.9
+2022,K-12 School,02111,11913975.5
+2022,K-12 School,02113,2875586.7
+2022,K-12 School,02115,29001318.500000004
+2022,K-12 School,02116,15191489.600000001
+2022,K-12 School,02118,30686867.9
+2022,K-12 School,02119,64770800.9
+2022,K-12 School,02120,98527533.800000012
+2022,K-12 School,02121,78914808.8
+2022,K-12 School,02122,58001959.3
+2022,K-12 School,02124,69220320.8
+2022,K-12 School,02125,60486191.1
+2022,K-12 School,02126,35229189.7
+2022,K-12 School,02127,39540306.7
+2022,K-12 School,02128,64881072.9
+2022,K-12 School,02129,22570067.6
+2022,K-12 School,02130,62120255.0
+2022,K-12 School,02131,22605811.7
+2022,K-12 School,02132,52045216.0
+2022,K-12 School,02134,29262850.7
+2022,K-12 School,02135,50819151.699999996
+2022,K-12 School,02136,48854457.9
+2022,K-12 School,02215,22541661.9
+2022,Laboratory,02110,170031653.9
+2022,Laboratory,02111,128608845.89999999
+2022,Laboratory,02114,36385588.6
+2022,Laboratory,02115,1266714358.5
+2022,Laboratory,02118,193360344.0
+2022,Laboratory,02119,146159420.9
+2022,Laboratory,02125,29332987.2
+2022,Laboratory,02129,201025850.29999998
+2022,Laboratory,02134,2711666.3
+2022,Laboratory,02135,2597234.5
+2022,Laboratory,02210,146495985.1
+2022,Laboratory,02215,628828162.1
+2022,Library,02113,821960.1
+2022,Library,02114,741169.2
+2022,Library,02116,75385962.700000018
+2022,Library,02118,691757.1
+2022,Library,02119,530437.8
+2022,Library,02120,879101.1
+2022,Library,02122,1004694.8999999999
+2022,Library,02124,2733196.7
+2022,Library,02126,3023458.2
+2022,Library,02127,583522.2
+2022,Library,02128,2047640.9
+2022,Library,02129,1071441.7
+2022,Library,02130,4203601.6
+2022,Library,02131,90840.2
+2022,Library,02132,1424745.7
+2022,Library,02134,2692038.6
+2022,Library,02135,1319925.9
+2022,Library,02163,10746133.3
+2022,Library,02215,35880165.0
+2022,Manufacturing/Industrial Plant,02111,1402059.1
+2022,Manufacturing/Industrial Plant,02118,40422262.2
+2022,Manufacturing/Industrial Plant,02119,8318127.8999999994
+2022,Manufacturing/Industrial Plant,02125,21943486.400000002
+2022,Manufacturing/Industrial Plant,02127,907776270.69999993
+2022,Manufacturing/Industrial Plant,02128,1533863.0
+2022,Manufacturing/Industrial Plant,02129,17170993.1
+2022,Manufacturing/Industrial Plant,02132,18976948.6
+2022,Manufacturing/Industrial Plant,02134,248667623.8
+2022,Manufacturing/Industrial Plant,02135,3236230.6
+2022,Manufacturing/Industrial Plant,02136,1272004.1
+2022,Manufacturing/Industrial Plant,02210,39549375.8
+2022,Medical Office,02111,96440860.8
+2022,Medical Office,02114,19912780.5
+2022,Medical Office,02115,14669545.2
+2022,Medical Office,02118,31841775.5
+2022,Medical Office,02124,10262938.3
+2022,Medical Office,02127,4996390.2
+2022,Medical Office,02129,
+2022,Medical Office,02132,3169989.6
+2022,Medical Office,02135,7504563.2
+2022,Medical Office,02171,
+2022,Medical Office,02215,153604104.2
+2022,Movie Theater,02110,3374157.4
+2022,Multifamily Housing,02108,67884002.5
+2022,Multifamily Housing,02109,86553902.1
+2022,Multifamily Housing,02110,141130337.1
+2022,Multifamily Housing,02111,302534326.29999995
+2022,Multifamily Housing,02113,27769958.599999998
+2022,Multifamily Housing,02114,328518973.0999999
+2022,Multifamily Housing,02115,315231334.1
+2022,Multifamily Housing,02116,341452805.9
+2022,Multifamily Housing,02118,424571124.0999999
+2022,Multifamily Housing,02119,246791168.77
+2022,Multifamily Housing,02120,146940645.29999998
+2022,Multifamily Housing,02121,64558963.0
+2022,Multifamily Housing,02122,39999648.099999994
+2022,Multifamily Housing,02124,155082465.99999997
+2022,Multifamily Housing,02125,167333631.00000003
+2022,Multifamily Housing,02126,91429124.200000018
+2022,Multifamily Housing,02127,363267414.49999994
+2022,Multifamily Housing,02128,161785502.90000004
+2022,Multifamily Housing,02129,237003112.9
+2022,Multifamily Housing,02130,262287657.40000004
+2022,Multifamily Housing,02131,118566483.10000001
+2022,Multifamily Housing,02132,61827190.599999994
+2022,Multifamily Housing,02134,219309005.49999994
+2022,Multifamily Housing,02135,528339389.90000004
+2022,Multifamily Housing,02136,134066583.5
+2022,Multifamily Housing,02171,
+2022,Multifamily Housing,02210,180823222.6
+2022,Multifamily Housing,02215,356418757.8
+2022,Multifamily Housing,02467,40477089.099999994
+2022,Multifamily Housing,20118,1504760.2
+2022,Multifamily Housing,21121,4501097.7
+2022,Multifamily Housing,22115,4522836.3
+2022,Museum,02108,11817763.4
+2022,Museum,02109,1260424.3
+2022,Museum,02114,49636190.599999994
+2022,Museum,02115,190103160.5
+2022,Museum,02215,4333110.5
+2022,Non-Refrigerated Warehouse,02115,7384627.6000000006
+2022,Non-Refrigerated Warehouse,02119,6862421.1000000006
+2022,Non-Refrigerated Warehouse,02121,343916.1
+2022,Non-Refrigerated Warehouse,02122,455085.7
+2022,Non-Refrigerated Warehouse,02125,860301.0
+2022,Non-Refrigerated Warehouse,02127,41674695.400000006
+2022,Non-Refrigerated Warehouse,02128,14367862.6
+2022,Non-Refrigerated Warehouse,02129,10000940.0
+2022,Non-Refrigerated Warehouse,02130,8078257.0
+2022,Non-Refrigerated Warehouse,02132,6213074.8
+2022,Non-Refrigerated Warehouse,02134,1314912.6
+2022,Non-Refrigerated Warehouse,02135,1358610.4
+2022,Non-Refrigerated Warehouse,02136,4485259.6
+2022,Non-Refrigerated Warehouse,02210,1311252.2
+2022,Office,02108,345063575.69999993
+2022,Office,02109,373858408.50000006
+2022,Office,02110,857661651.0
+2022,Office,02111,208986426.80000004
+2022,Office,02113,3269070.5
+2022,Office,02114,210633155.6
+2022,Office,02115,78055740.800000012
+2022,Office,02116,655716113.5999999
+2022,Office,02118,101365167.3
+2022,Office,02119,56959627.600000009
+2022,Office,02120,44318321.8
+2022,Office,02121,1104688.4
+2022,Office,02122,2401178.4
+2022,Office,02124,1991028.4
+2022,Office,02125,16420958.100000001
+2022,Office,02126,2240049.1
+2022,Office,02127,24566849.499999996
+2022,Office,02128,243366.2
+2022,Office,02129,76180950.600000009
+2022,Office,02130,3934899.1
+2022,Office,02131,
+2022,Office,02132,197723.5
+2022,Office,02134,31415188.1
+2022,Office,02135,54806714.500000007
+2022,Office,02136,826393.9
+2022,Office,02163,11980345.100000001
+2022,Office,02199,125719346.2
+2022,Office,02210,592044123.1
+2022,Office,02215,151586992.7
+2022,Office,02467,192985.9
+2022,Other,02108,1121471.4
+2022,Other,02110,5532443.7
+2022,Other,02115,
+2022,Other,02116,6013179.0
+2022,Other,02118,9751216.4
+2022,Other,02119,677462.2
+2022,Other,02121,874289.0
+2022,Other,02124,7380971.6999999993
+2022,Other,02127,4771597.4
+2022,Other,02128,2100613.9
+2022,Other,02129,1387716.4
+2022,Other,02132,786079.8
+2022,Other,02134,5327463.3999999994
+2022,Other,02135,12711128.6
+2022,Other,02136,16951943.3
+2022,Other,02138,93652.2
+2022,Other,02172,19267.6
+2022,Other,02210,36516127.6
+2022,Other - Education,02111,668945.7
+2022,Other - Education,02113,1984382.6
+2022,Other - Education,02115,3667617.9
+2022,Other - Education,02116,793118.8
+2022,Other - Education,02120,7030489.6
+2022,Other - Education,02122,3633202.6
+2022,Other - Education,02125,2940273.5
+2022,Other - Education,02127,4239577.5
+2022,Other - Education,02131,1209550.3
+2022,Other - Education,02134,4597551.2
+2022,Other - Education,02215,3878621.8
+2022,Other - Entertainment/Public Assembly,02110,32084262.2
+2022,Other - Entertainment/Public Assembly,02116,3762995.3
+2022,Other - Entertainment/Public Assembly,02122,5143052.1
+2022,Other - Entertainment/Public Assembly,02128,20341331.4
+2022,Other - Entertainment/Public Assembly,02134,363771.5
+2022,Other - Entertainment/Public Assembly,02135,15444221.6
+2022,Other - Entertainment/Public Assembly,02136,691849.2
+2022,Other - Entertainment/Public Assembly,02163,11357486.7
+2022,Other - Lodging/Residential,02114,1419174.4
+2022,Other - Lodging/Residential,02116,6292882.1
+2022,Other - Lodging/Residential,02118,5008084.3
+2022,Other - Lodging/Residential,02122,371028.6
+2022,Other - Lodging/Residential,02130,2806340.7
+2022,Other - Mall,01938,1981550.0
+2022,Other - Mall,02108,14767787.5
+2022,Other - Mall,02126,1574334.9
+2022,Other - Mall,02134,1902416.5
+2022,Other - Mall,02136,2404006.1
+2022,Other - Public Services,02111,257828.1
+2022,Other - Public Services,02114,14050.8
+2022,Other - Public Services,02115,3454189.5
+2022,Other - Public Services,02124,4201237.5
+2022,Other - Public Services,02128,672007.2
+2022,Other - Public Services,02129,359077.6
+2022,Other - Public Services,02130,1342082.2
+2022,Other - Public Services,02131,2397587.7
+2022,Other - Public Services,02135,3875201.2
+2022,Other - Public Services,02215,2286158.0
+2022,Other - Recreation,02108,722897.5
+2022,Other - Recreation,02109,157417.5
+2022,Other - Recreation,02113,1601574.2
+2022,Other - Recreation,02115,209248.4
+2022,Other - Recreation,02119,13492994.6
+2022,Other - Recreation,02120,4181788.8000000003
+2022,Other - Recreation,02124,7617335.4
+2022,Other - Recreation,02126,1699809.7
+2022,Other - Recreation,02127,975069.8
+2022,Other - Recreation,02128,5537225.0
+2022,Other - Recreation,02129,6137954.3999999994
+2022,Other - Recreation,02130,4239768.7
+2022,Other - Recreation,02131,5075481.7
+2022,Other - Recreation,02132,3558147.3
+2022,Other - Recreation,02134,3481772.5
+2022,Other - Recreation,02135,1225004.2
+2022,Other - Recreation,02136,1766853.5
+2022,Other - Recreation,02163,12195600.6
+2022,Other - Recreation,02215,11137495.5
+2022,Other - Services,02119,3236523.4
+2022,Other - Services,02122,2903515.3
+2022,Other - Services,02130,
+2022,Other - Services,02210,11472749.4
+2022,Other - Stadium,02134,13227389.0
+2022,Other - Technology/Science,02111,19903370.6
+2022,Other - Technology/Science,02114,32407833.6
+2022,Other - Technology/Science,02115,22084306.3
+2022,Other - Technology/Science,02119,10063720.5
+2022,Other - Technology/Science,02122,12785903.1
+2022,Other - Technology/Science,02127,4964235.2
+2022,Other - Technology/Science,02128,4565460.9
+2022,Other - Technology/Science,02132,3886469.2
+2022,Other - Technology/Science,02135,30196432.3
+2022,Other - Utility,02109,
+2022,Other - Utility,02111,80363.9
+2022,Other - Utility,02115,
+2022,Other - Utility,02118,13365449.6
+2022,Other - Utility,02134,200272.3
+2022,Other - Utility,02163,10567308.4
+2022,Other - Utility,02171,
+2022,Other - Utility,02210,
+2022,Other/Specialty Hospital,02115,
+2022,Other/Specialty Hospital,02119,714620.4
+2022,Other/Specialty Hospital,02129,63869670.4
+2022,Other/Specialty Hospital,02130,24195077.1
+2022,Outpatient Rehabilitation/Physical Therapy,02118,79008.6
+2022,Parking,02108,5158630.6
+2022,Parking,02110,1150082.9
+2022,Parking,02114,11669559.8
+2022,Parking,02115,27707377.099999998
+2022,Parking,02116,9992129.7
+2022,Parking,02118,12552846.7
+2022,Parking,02119,3514654.1
+2022,Parking,02129,7383877.1
+2022,Parking,02134,8833930.4
+2022,Parking,02135,52384372.8
+2022,Parking,02171,968718.6
+2022,Parking,02210,10158891.200000001
+2022,Parking,02215,21898387.200000003
+2022,Performing Arts,02111,9399676.9
+2022,Performing Arts,02115,3211097.8
+2022,Performing Arts,02116,33655321.8
+2022,Performing Arts,02125,5755146.3
+2022,Police Station,02114,5265133.7
+2022,Police Station,02118,5796460.2
+2022,Police Station,02119,4063217.2
+2022,Police Station,02120,31161409.9
+2022,Police Station,02122,2265673.4
+2022,Police Station,02124,2345143.3
+2022,Police Station,02126,232606.7
+2022,Police Station,02128,1716779.4
+2022,Police Station,02129,1599673.1
+2022,Police Station,02130,1764569.9
+2022,Police Station,02132,2218670.9
+2022,Police Station,02135,1985653.1
+2022,Police Station,02136,5749345.8
+2022,Police Station,02210,384131.8
+2022,Pre-school/Daycare,02119,1283400.0
+2022,Pre-school/Daycare,02121,4574717.2
+2022,Pre-school/Daycare,02126,
+2022,Pre-school/Daycare,02127,595438.4
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc)",02118,27074851.3
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc)",02122,1531059.3
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc)",02124,1577666.8
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc)",02125,2689317.2
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc)",02127,6205492.9
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc)",02136,775944.7
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02108,345880.1
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02118,15617250.2
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02119,1227498.6
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02120,223631.8
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02122,2032144.6
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02124,115981.7
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02125,1272129.3
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02126,2272515.0
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02130,111260.3
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02131,
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02132,1152872.9000000001
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02136,1226328.4000000001
+2022,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",02215,536890.1
+2022,Residence Hall/Dormitory,02108,8662454.9
+2022,Residence Hall/Dormitory,02111,8508170.0
+2022,Residence Hall/Dormitory,02114,16783790.6
+2022,Residence Hall/Dormitory,02115,170974660.29999998
+2022,Residence Hall/Dormitory,02116,42183586.5
+2022,Residence Hall/Dormitory,02122,702561.9
+2022,Residence Hall/Dormitory,02125,112545698.7
+2022,Residence Hall/Dormitory,02134,51523840.3
+2022,Residence Hall/Dormitory,02163,26333629.699999996
+2022,Residence Hall/Dormitory,02215,146631380.5
+2022,Residential Care Facility,02119,3436820.8
+2022,Residential Care Facility,02126,
+2022,Residential Care Facility,02171,55200.0
+2022,Restaurant,02134,6438711.4
+2022,Retail Store,02108,10318918.5
+2022,Retail Store,02115,1055760.8
+2022,Retail Store,02116,24506383.799999997
+2022,Retail Store,02119,3647750.8
+2022,Retail Store,02122,759535.5
+2022,Retail Store,02125,8427446.8999999985
+2022,Retail Store,02131,592163.1
+2022,Retail Store,02132,11490458.4
+2022,Retail Store,02134,3145831.2
+2022,Retail Store,02215,13135557.600000001
+2022,Self-Storage Facility,00210,2079841.9
+2022,Self-Storage Facility,02118,4307045.4
+2022,Self-Storage Facility,02119,3537114.7
+2022,Self-Storage Facility,02122,2111114.0
+2022,Self-Storage Facility,02124,634801.4
+2022,Self-Storage Facility,02125,8625382.3
+2022,Self-Storage Facility,02126,1108736.0
+2022,Self-Storage Facility,02128,1494541.6
+2022,Self-Storage Facility,02130,1147953.5
+2022,Self-Storage Facility,02134,513330.1
+2022,Self-Storage Facility,02135,6374290.1
+2022,Self-Storage Facility,02136,4831343.4
+2022,Self-Storage Facility,02215,313901.0
+2022,Senior Living Community,02116,3056291.8
+2022,Senior Living Community,02122,6317012.5
+2022,Senior Living Community,02124,18566720.0
+2022,Senior Living Community,02127,2422784.8
+2022,Senior Living Community,02135,12516065.0
+2022,Senior Living Community,02136,1088741.1
+2022,Single Family Home,02127,20936.0
+2022,Single Family Home,02163,686771.5
+2022,Social/Meeting Hall,02108,3179442.0
+2022,Social/Meeting Hall,02109,2061821.7
+2022,Social/Meeting Hall,02115,
+2022,Social/Meeting Hall,02116,7737736.9
+2022,Social/Meeting Hall,02122,4971397.7
+2022,Social/Meeting Hall,02124,1693320.1
+2022,Social/Meeting Hall,02125,5356047.1
+2022,Social/Meeting Hall,02127,4276609.7
+2022,Social/Meeting Hall,02128,6977.1
+2022,Social/Meeting Hall,02129,4208682.8
+2022,Social/Meeting Hall,02130,42107.5
+2022,Social/Meeting Hall,02131,2168000.0
+2022,Social/Meeting Hall,02132,1240091.3
+2022,Social/Meeting Hall,02135,798522.4
+2022,Social/Meeting Hall,02163,967384.8
+2022,Social/Meeting Hall,02171,
+2022,Social/Meeting Hall,02215,31565960.6
+2022,Stadium (Open),02135,4704048.9
+2022,Stadium (Open),02215,66052683.0
+2022,Strip Mall,02110,2560965.0
+2022,Strip Mall,02114,5650726.0
+2022,Strip Mall,02122,6324303.0
+2022,Strip Mall,02124,2788161.4
+2022,Strip Mall,02125,18643228.6
+2022,Strip Mall,02127,680063.5
+2022,Strip Mall,02130,16577250.2
+2022,Strip Mall,02131,13446799.799999999
+2022,Strip Mall,02132,8404914.0
+2022,Supermarket/Grocery Store,02110,6732474.0
+2022,Supermarket/Grocery Store,02116,14258976.0
+2022,Supermarket/Grocery Store,02119,7684935.4
+2022,Supermarket/Grocery Store,02121,10949425.6
+2022,Supermarket/Grocery Store,02122,10240189.3
+2022,Supermarket/Grocery Store,02125,13903569.7
+2022,Supermarket/Grocery Store,02126,5017873.6
+2022,Supermarket/Grocery Store,02127,4924832.6
+2022,Supermarket/Grocery Store,02130,9307306.7
+2022,Supermarket/Grocery Store,02132,17128226.2
+2022,Supermarket/Grocery Store,02135,35865409.9
+2022,Supermarket/Grocery Store,02136,16753776.6
+2022,Supermarket/Grocery Store,02210,4074003.9
+2022,Supermarket/Grocery Store,02481,15048178.5
+2022,Urgent Care/Clinic/Other Outpatient,02113,6998398.8
+2022,Urgent Care/Clinic/Other Outpatient,02115,143310961.8
+2022,Urgent Care/Clinic/Other Outpatient,02124,4090441.1
+2022,Urgent Care/Clinic/Other Outpatient,02125,3409950.0
+2022,Urgent Care/Clinic/Other Outpatient,02128,18332458.3
+2022,Urgent Care/Clinic/Other Outpatient,02129,9499162.6
+2022,Urgent Care/Clinic/Other Outpatient,02130,3188919.3
+2022,Urgent Care/Clinic/Other Outpatient,02215,86713173.0
+2022,Vocational School,02125,3840543.1
+2022,Vocational School,02130,1291576.9
+2022,Wholesale Club/Supercenter,02118,1685356.4
+2022,Worship Facility,02108,14469635.2
+2022,Worship Facility,02111,4160309.2
+2022,Worship Facility,02115,3841551.8
+2022,Worship Facility,02116,13653042.3
+2022,Worship Facility,02118,9064932.3
+2022,Worship Facility,02119,2321606.5
+2022,Worship Facility,02122,3104746.5
+2022,Worship Facility,02124,7034213.4
+2022,Worship Facility,02125,3085489.9000000004
+2022,Worship Facility,02127,2789555.1999999997
+2022,Worship Facility,02128,1382534.0
+2022,Worship Facility,02129,1646859.9
+2022,Worship Facility,02130,2172076.3
+2022,Worship Facility,02131,1338095.7
+2022,Worship Facility,02132,2588175.9
+2022,Worship Facility,02135,1478748.9
+2022,Worship Facility,02136,1269603.8
+2022,Worship Facility,02163,660557.6
+2022,Worship Facility,02215,16824877.5
+2022,Zoo,02124,26077998.7
+2023,,02124,109614.4
+2023,,02130,137822.4
+2023,Bank Branch,02131,445415.2
+2023,Convenience Store without Gas Station,02131,633619.0
+2023,Convenience Store without Gas Station,02135,1451166.7
+2023,Distribution Center,02119,4100877.8
+2023,Distribution Center,02126,2075338.1
+2023,Distribution Center,02127,630216.2
+2023,Distribution Center,02128,7238112.2
+2023,Distribution Center,02129,3703957.3
+2023,Distribution Center,02135,887318.6
+2023,Distribution Center,02136,13387842.7
+2023,Financial Office,02108,653950.1
+2023,Financial Office,02110,2759040.4
+2023,Financial Office,02111,104337060.3
+2023,Financial Office,02116,75609708.1
+2023,Financial Office,02127,31840702.1
+2023,Financial Office,02210,3111097.8
+2023,Hospital (General Medical & Surgical),02114,167635765.5
+2023,Hospital (General Medical & Surgical),02115,969080227.9000001
+2023,Hospital (General Medical & Surgical),02118,369652881.40000004
+2023,Hospital (General Medical & Surgical),02130,192918305.9
+2023,Hospital (General Medical & Surgical),02131,79858239.6
+2023,Hospital (General Medical & Surgical),02135,29549860.8
+2023,Hospital (General Medical & Surgical),02215,338377267.8
+2023,Hotel,02108,72717436.6
+2023,Hotel,02109,46125666.3
+2023,Hotel,02110,36056144.5
+2023,Hotel,02111,45689877.6
+2023,Hotel,02113,1482442.4
+2023,Hotel,02114,31605065.7
+2023,Hotel,02115,23137485.9
+2023,Hotel,02116,428097665.50000006
+2023,Hotel,02118,6641698.9
+2023,Hotel,02122,3452647.0
+2023,Hotel,02125,27328320.200000003
+2023,Hotel,02127,7844940.2
+2023,Hotel,02128,23790098.200000003
+2023,Hotel,02129,5084151.2
+2023,Hotel,02210,149193534.79999998
+2023,Hotel,02215,26028523.700000003
+2023,K-12 School,02109,1810565.2
+2023,K-12 School,02111,12478907.8
+2023,K-12 School,02113,2687265.1
+2023,K-12 School,02115,25569756.0
+2023,K-12 School,02116,14582317.3
+2023,K-12 School,02118,31622435.2
+2023,K-12 School,02119,141448632.1
+2023,K-12 School,02120,10287914.0
+2023,K-12 School,02121,64702508.1
+2023,K-12 School,02122,44803039.800000004
+2023,K-12 School,02124,74495133.2
+2023,K-12 School,02125,28973928.3
+2023,K-12 School,02126,43398420.8
+2023,K-12 School,02127,50532690.7
+2023,K-12 School,02128,72167417.700000018
+2023,K-12 School,02129,29287351.799999997
+2023,K-12 School,02130,67934050.4
+2023,K-12 School,02131,22163391.2
+2023,K-12 School,02132,45675399.1
+2023,K-12 School,02134,29326139.1
+2023,K-12 School,02135,27654563.199999996
+2023,K-12 School,02136,40967577.3
+2023,K-12 School,02215,25247493.5
+2023,Medical Office,02109,2436004.8
+2023,Medical Office,02111,96825011.5
+2023,Medical Office,02114,41204057.6
+2023,Medical Office,02115,8905990.3
+2023,Medical Office,02118,26181904.0
+2023,Medical Office,02127,4893013.0
+2023,Medical Office,02130,3121500.3
+2023,Medical Office,02132,2814186.4
+2023,Medical Office,02135,6889266.1999999993
+2023,Medical Office,02167,3319627.4
+2023,Medical Office,02215,40785172.0
+2023,Multifamily Housing,02108,52267305.8
+2023,Multifamily Housing,02109,91799317.800000012
+2023,Multifamily Housing,02110,99236534.1
+2023,Multifamily Housing,02111,183081776.80000004
+2023,Multifamily Housing,02113,26661289.900000002
+2023,Multifamily Housing,02114,371474085.0999999
+2023,Multifamily Housing,02115,286257715.69999987
+2023,Multifamily Housing,02116,218250765.60000002
+2023,Multifamily Housing,02118,245192587.1
+2023,Multifamily Housing,02119,198983361.6
+2023,Multifamily Housing,02120,145829225.70000002
+2023,Multifamily Housing,02121,92890366.5
+2023,Multifamily Housing,02122,15811610.000000002
+2023,Multifamily Housing,02124,94568609.600000009
+2023,Multifamily Housing,02125,175127575.39999998
+2023,Multifamily Housing,02126,44179722.7
+2023,Multifamily Housing,02127,134322814.10000002
+2023,Multifamily Housing,02128,74150275.4
+2023,Multifamily Housing,02129,161746011.09999996
+2023,Multifamily Housing,02130,98116245.0
+2023,Multifamily Housing,02131,61723803.400000006
+2023,Multifamily Housing,02132,38340200.9
+2023,Multifamily Housing,02134,175310021.49999997
+2023,Multifamily Housing,02135,399608278.49999976
+2023,Multifamily Housing,02136,96983262.6
+2023,Multifamily Housing,02199,9682567.7
+2023,Multifamily Housing,02210,126212359.5
+2023,Multifamily Housing,02215,297975704.1
+2023,Multifamily Housing,02467,20470188.4
+2023,Multifamily Housing,22115,4601329.8
+2023,Non-Refrigerated Warehouse,02119,6689747.2999999989
+2023,Non-Refrigerated Warehouse,02120,85322.0
+2023,Non-Refrigerated Warehouse,02125,1701952.5
+2023,Non-Refrigerated Warehouse,02127,42884942.7
+2023,Non-Refrigerated Warehouse,02128,6026951.1
+2023,Non-Refrigerated Warehouse,02130,5445222.6
+2023,Non-Refrigerated Warehouse,02132,6528051.6
+2023,Non-Refrigerated Warehouse,02135,1405139.1
+2023,Non-Refrigerated Warehouse,02136,8459079.5
+2023,Office,02108,361274572.79999989
+2023,Office,02109,368445185.3
+2023,Office,02110,903708274.6
+2023,Office,02111,174671628.39999998
+2023,Office,02113,3186720.4
+2023,Office,02114,159705591.9
+2023,Office,02115,71128787.9
+2023,Office,02116,632345310.99999988
+2023,Office,02118,69023199.300000012
+2023,Office,02119,24057545.099999998
+2023,Office,02120,28770014.799999997
+2023,Office,02121,1142277.6
+2023,Office,02122,1168985.6
+2023,Office,02124,205020.3
+2023,Office,02125,10385480.4
+2023,Office,02127,119178032.7
+2023,Office,02129,64690009.9
+2023,Office,02130,2282478.5
+2023,Office,02132,2360686.8
+2023,Office,02134,24243592.3
+2023,Office,02135,78155437.499999985
+2023,Office,02136,3170612.1999999997
+2023,Office,02199,72497611.0
+2023,Office,02210,364240621.8
+2023,Office,02215,122356624.80000001
+2023,Refrigerated Warehouse,02136,7067932.3
+2023,Residence Hall/Dormitory,02108,8665671.2
+2023,Residence Hall/Dormitory,02111,14409141.700000001
+2023,Residence Hall/Dormitory,02114,11979434.5
+2023,Residence Hall/Dormitory,02115,159965277.6
+2023,Residence Hall/Dormitory,02116,46549670.800000004
+2023,Residence Hall/Dormitory,02120,46613821.8
+2023,Residence Hall/Dormitory,02134,52482437.699999996
+2023,Residence Hall/Dormitory,02135,27415737.6
+2023,Residence Hall/Dormitory,02215,116059239.5
+2023,Retail Store,02115,1262897.9
+2023,Retail Store,02116,8271378.1
+2023,Retail Store,02119,1339222.8
+2023,Retail Store,02122,2200378.3
+2023,Retail Store,02125,6202175.5
+2023,Retail Store,02126,2391842.9
+2023,Retail Store,02132,8946184.8
+2023,Retail Store,02134,2714370.4000000004
+2023,Retail Store,02201,10833225.0
+2023,Retail Store,02215,2244866.5
+2023,Senior Living Community,02116,3025291.9
+2023,Senior Living Community,02122,6232502.2
+2023,Senior Living Community,02136,1043815.5
+2023,Single Family Home,02135,548705.7
+2023,Single-Family Home,02127,71911.3
+2023,Supermarket/Grocery Store,02116,13212208.6
+2023,Supermarket/Grocery Store,02122,11243695.7
+2023,Supermarket/Grocery Store,02126,5056770.4
+2023,Supermarket/Grocery Store,02127,4965558.1
+2023,Supermarket/Grocery Store,02132,15671863.5
+2023,Supermarket/Grocery Store,02135,34459895.0
+2023,Supermarket/Grocery Store,02136,17283619.2
+2023,Supermarket/Grocery Store,02210,5129347.0
+2023,Worship Facility,02108,10398462.1
+2023,Worship Facility,02115,3619139.4
+2023,Worship Facility,02116,2141961.5
+2023,Worship Facility,02118,9395836.1
+2023,Worship Facility,02119,1270871.4000000001
+2023,Worship Facility,02122,3288170.2
+2023,Worship Facility,02125,3032554.3999999994
+2023,Worship Facility,02128,2737821.8000000003
+2023,Worship Facility,02129,1677289.1
+2023,Worship Facility,02131,1285701.8
+2023,Worship Facility,02132,1053529.7
+2023,Worship Facility,02135,729677.2
+2023,Worship Facility,02136,1257818.3
+2023,Worship Facility,02215,2574507.4

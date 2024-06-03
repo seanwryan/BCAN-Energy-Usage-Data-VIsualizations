@@ -1,0 +1,77 @@
+WITH InitialData AS (
+  SELECT 
+    '2015' AS Year, 
+    PropertyType AS PropertyType, 
+    LPAD(CAST(ZIP AS STRING), 5, '0') AS ZipCode, 
+    SAFE_CAST(TotalSiteEnergykBTU AS FLOAT64) AS EnergyUsage
+  FROM `cds-ds-594.bcan.bq-2015-reported-energy-and-water-metrics`
+  UNION ALL
+  SELECT 
+    '2016', 
+    PropertyType, 
+    LPAD(CAST(ZIP AS STRING), 5, '0'), 
+    SAFE_CAST(TotalSiteEnergykBTU AS FLOAT64) 
+  FROM `cds-ds-594.bcan.bq-2016-reported-energy-and-water-metrics`
+  UNION ALL
+  SELECT 
+    '2017', 
+    PropertyType, 
+    LPAD(CAST(ZIP AS STRING), 5, '0'), 
+    SAFE_CAST(TotalSiteEnergykBTU AS FLOAT64) 
+  FROM `cds-ds-594.bcan.bq-2017-reported-energy-and-water-metrics`
+  UNION ALL
+  SELECT 
+    '2018', 
+    PropertyType, 
+    LPAD(CAST(ZIP AS STRING), 5, '0'), 
+    SAFE_CAST(TotalSiteEnergykBTU AS FLOAT64) 
+  FROM `cds-ds-594.bcan.bq-2018-reported-energy-and-water-metrics`
+  UNION ALL
+  SELECT 
+    '2019', 
+    PropertyType, 
+    LPAD(CAST(ZIP AS STRING), 5, '0'), 
+    SAFE_CAST(TotalSiteEnergykBTU AS FLOAT64) 
+  FROM `cds-ds-594.bcan.bq-2019-reported-energy-and-water-metrics`
+  UNION ALL
+  SELECT 
+    '2020', 
+    PropertyType, 
+    LPAD(CAST(ZIP AS STRING), 5, '0'), 
+    SAFE_CAST(TotalSiteEnergykBTU AS FLOAT64) 
+  FROM `cds-ds-594.bcan.bq-2020-reported-energy-and-water-metrics`
+  UNION ALL
+  SELECT 
+    '2021', 
+    PropertyType, 
+    LPAD(CAST(ZIP AS STRING), 5, '0'), 
+    SAFE_CAST(TotalSiteEnergykBTU AS FLOAT64) 
+  FROM `cds-ds-594.bcan.bq-2021-reported-energy-and-water-metrics`
+  UNION ALL
+  SELECT 
+    '2022', 
+    LargestPropertyType AS PropertyType, 
+    LPAD(CAST(ZipCode AS STRING), 5, '0'), 
+    SAFE_CAST(TotalSiteEnergyUsagekBtu AS FLOAT64) 
+  FROM `cds-ds-594.bcan.bq-2022-reported-energy-and-water-metrics-new`
+  UNION ALL
+  SELECT 
+    '2023', 
+    LargestPropertyType, 
+    LPAD(CAST(ZipCode AS STRING), 5, '0'), 
+    SAFE_CAST(TotalSiteEnergyUsagekBtu AS FLOAT64) 
+  FROM `cds-ds-594.bcan.bq-2023-reported-energy-and-water-metrics-new-table-final-`
+),
+AggregatedData AS (
+  SELECT
+    Year,
+    PropertyType,
+    ZipCode,
+    SUM(EnergyUsage) AS TotalYearlyEnergyUsage
+  FROM
+    InitialData
+  GROUP BY
+    Year, PropertyType, ZipCode
+)
+SELECT * FROM AggregatedData
+ORDER BY Year, PropertyType, ZipCode;
